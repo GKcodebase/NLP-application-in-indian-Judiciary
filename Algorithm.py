@@ -6,7 +6,7 @@ from  nltk.stem import  WordNetLemmatizer
 from nltk.classify.scikitlearn import SklearnClassifier
 from nltk.tokenize import word_tokenize
 
-#### DAtasets
+#### DAtasets: Laws in indian cyber laws of IT ACT
 law1 = open("Laws/ATTRIBUTION, ACKNOWLEDGMENT AND DESPATCH OF ELECTRONIC RECORDS.txt", "r").read()
 law2 = open("Laws/Digital Signature.txt", "r").read()
 law3 = open("Laws/DUTIES OF SUBSCRIBERS.txt", "r").read()
