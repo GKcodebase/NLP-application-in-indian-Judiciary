@@ -1,0 +1,113 @@
+CHAPTER 9
+6[PENALTIES, COMPENSATION AND ADJUDICATION]
+43 S. 43. 57[Penalty and compensation] for damage to computer, computer system,
+etc.—If any person without permission of the owner or any other person who is
+incharge of a computer, computer system or computer network,—
+(a) accesses or secures access to such computer, computer system or computer
+network 58[or computer resource]
+(b) downloads, copies or extracts any data, computer data base or information
+from such computer, computer system or computer network including in- formation or data held or stored in any removable storage medium;
+(c) introduces or causes to be introduced any computer contaminant or com- puter virus into any computer, computer system or computer network;
+(d) damages or causes to be damaged any computer, computer system or com- puter network, data, computer data base or any other programmes residing
+in such computer, computer system or computer network;
+(e) disrupts or causes disruption of any computer, computer system or com- puter network;
+(f) denies or causes the denial of access to any person authorised to access any
+computer, computer system or computer network by any means;
+(g) provides any assistance to any person to facilitate access to a computer,
+computer system or computer network in contravention of the provisions of
+this Act, roles or regulations made thereunder;
+(h) charges the services availed of by a person to the account of another person
+by tampering with or manipulating any computer, computer system, or
+computer network,
+59[(i) destroys, deletes or alters any information residing in a computer resource or
+diminishes its value or utility or affects it injuriously by any means;
+(j) steal, conceals, destroys or alters or causes any person to seal, conceal, de- stroy or alter any computer source code used for a computer resource with
+an intention to cause damage;]
+60[he shall be liable to pay damages by way of compensation to the person so affected.]
+Explanation.—For the purposes of this section,—
+(i) “computer contaminant” means any set of computer instructions that are
+designed—
+(a) to modify, destroy, record, transmit data or programme residing
+within a computer, computer system or computer network; or
+(b) by any means to usurp the normal operation of the computer,
+computer system, or computer network;
+(ii) “computer database” means a representation of information, knowledge,
+facts, concepts or instructions in text, image, audio, video that are being
+prepared or have been prepared in a formalised manner or have been pro- duced by a computer, computer system or computer network and are intended
+for use in a computer, computer system or computer network;
+(iii) “computer virus” means any computer instruction, information, data or
+programme that destroys, damages, degrades or adversely affects the performance
+of a computer resource or attaches itself to another computer re- source and operates when a programme, data or instruction is executed or
+some other event takes place in that computer resource;
+(iv) “damage” means to destroy, alter, delete, add, modify or rearrange any com- puter resource by any means.
+61[(v) “computer source code” means the listing of programs, computer com- mands, design and layout and programme analysis of computer resource in
+any form.]
+S. 43A62[S. 43A. Compensation for failure to protect data.—Where a body corporate,
+possessing, dealing or handling any sensitive personal data or information in a computer
+resource which it owns, controls or operates, in negligent in implementing and maintaining
+reasonable security practices and procedures and thereby causes wrongful loss or
+wrongful gain to any person, such body corporate shall be liable to pay damages by way
+of compensation to the person so affected.
+Explanation.—For the purposes of this section,—
+(i) “body corporate” means any company and includes a firm, sole proprietorship
+or other association of individuals engaged in commercial or profes- sional activities;
+(ii) “reasonable security practices and procedures” means security practices and
+procedures designed to protect such information from unauthorised access,
+damage, use modification, disclosure or impairment, as may be specified in
+an agreement between the parties or as may be specified in any law for the
+time being in force and in the absence of such agreement or any law, such
+reasonable security practices and procedures, as may be prescribed by the
+Central Government in consultation with such professional bodies or asso- ciations as it may deem fit;
+(iii) “sensitive personal data or information” means such personal information as
+may be prescribed by the Central Government in consultation with such
+professional bodies or associations as it may deem fit.]
+44 S. 44. Penalty for failure to furnish information, return, etc.—If any person who
+is required under this Act or any rules or regulations made thereunder to—
+(a) furnish any document, return or report to the Controller or the Certifying
+Authority fails to furnish the same, he shall be liable to a penalty not exceeding
+one lakh and fifty thousand rupees for each such failure;
+(b) file any return or furnish any information, books or other documents within
+the time specified therefor in the regulations fails to file return or furnish the
+same within the time specified therefore in the regulations, he shall be liable
+to a penalty not exceeding five thousand rupees for every day during which
+such failure continues;
+(c) maintain books of account or records fails to maintain the same, he shall be
+liable to a penalty not exceeding ten thousand rupees for every day during
+which the failure continues.
+45 S. 45. Residuary penalty.—Whoever contravenes any rules or regulations made un- der this Act, for the contravention of which no penalty has been separately provided,
+shall be liable to pay a compensation not exceeding twenty-five thousand rupees to the
+person affected by such contravention or a penalty not exceeding twenty-five thousand
+rupees.
+46 S. 46. Power to adjudicate.—(1) For the purpose of adjudging under this Chapter
+whether any person has committed a contravention of any of the provisions of this Act
+or of any rule, regulation, 63[direction or order made thereunder which renders him lia- ble to pay penalty or compensation] the Central Government shall, subject to the provisions
+of sub-section (3), appoint any officer not below the rank of a Director to the
+Government of India or an equivalent officer of a State Government to be an adjudicating
+officer for holding an inquiry in the manner prescribed by the Central Government.
+64[(1A) The adjudicating officer appointed under sub-section (1) shall exercise jurisdiction
+to adjudicate matters in which the claim for injury or damage does not exceed rupees five
+crore:
+Provided that the jurisdiction in respect of the claim for injury or damage exceeding ru- pees five crore shall vest with the competent court.]
+(2) After giving the person referred to in sub-section (1) a reasonable opportunity for making
+representation in the matter and if, on such inquiry, he is satisfied that the person has
+committed the contravention, he may impose such penalty or award such compensation as
+he thinks fit in accordance with the provisions of that section.
+(3) No person shall be appointed as an adjudicating officer unless he possesses such
+experience in the field of Information Technology and legal or judicial experience as
+may be prescribed by the Central Government.
+(4) Where more than one adjudicating officers are appointed, the Central Government
+shall specify by order the matters and places with respect to which such officers shall
+exercise their jurisdiction.
+(5) Every adjudicating officer shall have the powers of a civil court which are con- ferred on the Cyber Appellate Tribunal under sub-section (2) of section 58, and—
+(a) all proceedings before it shall be deemed to be judicial proceedings within
+the meaning of sections 193 and 228 (45 of 1860) of the Indian Penal Code;
+(b) shall be deemed to be a civil court for the purposes of sections 345 and 346 of
+the Code of Criminal Procedure, 1973 (2 of 1974).
+65[(c) shall be deemed to be a civil court for purposes of Order XXI of the Civil Pro- cedure Code, 1908 (5 of 1908).]
+47 S. 47. Factors to be taken into account by the adjudicating officer.—While adjudging
+the quantum of compensation under this Chapter, the adjudicating officer shall have
+due regard to the following factors, namely—
+(a) the amount of gain of unfair advantage, wherever quantifiable, made as a
+result of the default;
+(b) the amount of loss caused to any person as a result of the default;
+(c) the repetitive nature of the default.

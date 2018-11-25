@@ -1,0 +1,46 @@
+CHAPTER 2
+16[DIGITAL SIGNATURE AND ELECTRONIC SIGNATURE]
+3 S. 3. Authentication of electronic records.—
+(1) Subject to the provisions of this section any subscriber may authenticate an electronic record by affixing his digital signature.
+(2) The authentication of the electronic record shall be effected by the use of asym- metric crypto system and hash function which envelop and transform the initial electronic
+record into another electronic record.
+Explanation.—For the purposes of this sub-section, “hash function” means an algo- rithm mapping or translation of one sequence of bits into another, generally smaller, set
+known as “hash result” such that an electronic record yields the same hash result every
+time the algorithm is executed with the same electronic record as its input making it
+computationally infeasible —
+(a) To derive or reconstruct the original electronic record from the hash result
+produced by the algorithm;
+(b) that two electronic records can produce the same hash result using the algo- rithm.
+(3) Any person by the use of a public key of the subscriber can verify the electronic
+record.
+(4) The private key and the public key are unique to the subscriber and constitute a
+functioning key pair.
+7[S. 3A. Electronic signature.—(1) Notwithstanding anything contained in section
+3, but subject to the provisions of sub-section (2), a subscriber may authenticate any
+electronic record by such electronic signature or electronic authentication technique
+which—
+(a) is considered reliable; and
+(b) may be specified in the Second Schedule.
+(2) For the purpose of this section any electronic signature or electronic authentication
+technique shall be considered reliable if—
+(a) the signature creation data or the authentication data are, within the context
+in which they are used, linked to the signatory or, as the case may be, the authenticator
+and to no other person;
+(b) the signature creation data or the authentication data were, at the time of
+signing , under the control of the signatory or, as the case may be, the authenticator
+and of no other person;
+(c) any alteration to the electronic signature made after affixing such signature is
+detectable;
+(d) any alteration to the information made after its authentication by electronic
+signature is detectable; and
+(e) it fulfils such other conditions which may be prescribed.
+(3) The Central Government may prescribe the procedure for the purpose of ascertaining
+whether electronic signature is that of the person by whom it is purported to
+have been affixed or authenticated.
+(4) The Central Government may, by notification in the Official Gazette, add to or
+omit any electronic signature or electronic authentication technique and the procedure
+for affixing such signature from the Second Schedule;
+Provided that no electronic signature or authentication technique shall be specified in
+the Second Schedule unless such signature or technique is reliable.
+(5) Every notification issued under sub-section (4) shall be laid before each House of
+Parliament.]

@@ -1,0 +1,18 @@
+CHAPTER 5
+SECURE ELECTRONIC RECORDS AND SECURE
+28[ELECTRONIC SIGNATURES]
+14 S. 14. Secure electronic record.—Where any security procedure has been applied to
+an electronic record at a specific point of time, then such record shall be deemed to be a
+secure electronic record from such point of time to the time of verification.
+15 29[S. 15. Secure electronic signature.—An electronic signature shall be deemed to
+be a secure electronic signature if—
+(i) the signature creation data, at the time of affixing signature, was under the
+exclusive control of signatory and no other person; and
+(ii) the signature creation data was stored and affixed in such exclusive manner
+as may be prescribed.
+Explanation.—In case of digital signature, the “signature creation data” means the private
+key of the subscriber.
+16 S. 16. Security procedure and practices.—The Central Government may for the
+purposes of sections 14 and 15, prescribe the security procedures and practices:
+Provided that in prescribing such security procedures and practices, the Central Gov- ernment shall have regard to the commercial circumstances, nature of transactions and
+such other related factors as it may consider appropriate.]

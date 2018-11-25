@@ -1,0 +1,98 @@
+CHAPTER 3
+ELECTRONIC GOVERNANCE
+Chapter III of the Act is one of the most important chapters in the Act. This Chapter
+specifies the procedure to be followed for sending and receiving of electronic record and
+the time and place of the despatch and receipt. This Chapter contains sections 4 to 10.
+4 S. 4. Legal recognition of electronic records.—Where any law provides that in- formation or any other matter shall be in writing or in the typewritten or printed form,
+then, not-withstanding anything contained in such law, such requirement shall be
+deemed to have been satisfied if such information or matter is—
+(a) rendered or made available in an electronic form; and
+(b) accessible so as to be usable for a subsequent reference.
+5 S. 5. Legal recognition of 18[electronic signatures].—Where any law provides that
+information or any other matter shall be authenticated by affixing the signature or any
+document should be signed or bear the signature of any person then, notwithstanding
+anything contained in such law, such requirement shall be deemed to have been satis- fied, if such information or matter is authenticated by means of 19[electronic signatures]
+affixed in such manner as may be prescribed by the Central Government.
+Explanation.—For the purposes of this section, “signed”, with its grammatical variations
+and cognate expressions, shall, with reference to a person, mean affixing of his
+hand written signature or any mark on any document and the expression “signature”
+shall be construed accordingly.
+6 S. 6. Use of electronic records and 20[electronic signatures] in Government and
+its agencies.—(1) Where any law provides for—
+(a) the filing of any form, application or any other document with any office,
+authority, body or agency owned or controlled by the appropriate Govern- ment in a particular manner;
+(b) the issue or grant of any licence, permit, sanction or approval by whatever
+name called in a particular manner;
+(c) the receipt or payment of money in a particular manner,
+then, notwithstanding anything contained in any other law for the time being in force,
+such requirement shall be deemed to have been satisfied if such filing, issue, grant, re- ceipt or payment, as the case may be, is effected by means of such electronic form as
+may be prescribed by the appropriate Government.
+(2) The appropriate Government may, for the purposes of sub-section (1), by rules,
+prescribe—
+(a) the manner and format in which such electronic records shall be filed, created
+or issued;
+(b) the manner or method of payment of any fee or charges for filing, creation
+or issue any electronic record under clause (a). 21[S. 6A. Delivery of service by service provider.—(1) The appropriate Govern- ment may, for the purposes of this Chapter and for efficient delivery of services to the
+public through electronic means authorise, by order, any service provider to set up,
+maintain and upgrade the computerised facilities and perform such other service as it
+may specify by notification in the Official Gazette.
+Explanation.—For the purposes of this section, service provider so authorised in- cludes any individual, private agency, private company, partnership firm, sole proprietor
+firm or any such other body or agency which has been granted permission by the appropriate
+Government to offer services through electronic means in accordance with the
+policy governing such service sector.
+(2) The appropriate Government may also authorise any service provider authorised
+under sub-section (1) to collect, retain and appropriate such service charges, as may be
+prescribed by the appropriate Government for the purpose of providing such services,
+from the person availing such service.
+(3) Subject to the provisions of sub-section (2), the appropriate Government may authorise
+the service providers to collect, retain and appropriate service charges under this
+section notwithstanding the fact that there is no express provision under the Act, rule,
+regulation or notification under which the service is provided to collect, retain and appropriate
+e-service charges by the service providers.
+(4) The appropriate Government shall, by notification in the Official Gazette, specify
+the scale of service charges which may be charged and collected by the service providers
+under this section :
+Provided that the appropriate Government may specify different scale of service charges
+for different types of services.]
+S. 7. Retention of electronic records.—(1) Where any law provides that documents,
+records or information shall be retained for any specific period, then, that requirement
+shall be deemed to have been satisfied if such documents, records or information are retained
+in the electronic form, if—
+(a) the information contained therein remains accessible so as to be usable for a
+subsequent reference;
+(b) the electronic record is retained in the format in which it was originally gen- erated, sent or received or in a format, which can be demonstrated to repre- sent accurately the information originally generated, sent or received;
+(c) the details which will facilitate the identification of the origin, destination,
+date and time of dispatch or receipt of such electronic record are available in
+the electronic record:
+Provided that this clause does not apply to any information which is automatically gen- erated solely for the purpose of enabling an electronic record to be dispatched or re- ceived.
+(2) Nothing in this section shall apply to any law that expressly provides for the retention
+of documents, records or information in the form of electronic records.
+2[S. 7A. Audit of documents etc., maintained in electronic form.—Where in any
+law for the time being in force, there is a provision for audit of documents, records or in- formation, that provision shall also be applicable for audit of documents, records or in- formation processed and maintained in the electronic form.]
+8 S. 8. Publication of rule, regulation, etc., in Electronic Gazette.—Where any law
+provides that any rule, regulation, order, bye-law, notification or any other matter shall
+be published in the Official Gazette, then, such requirement shall be deemed to have
+been satisfied if such rule, regulation, order, bye-law, notification or any other matter is
+published in the Official Gazette or Electronic Gazette:
+Provided that where any rule, regulation, order, bye-law, notifications or any other matter
+is published in the official gazette or Electronic Gazette, the date of publication shall
+be deemed to be the date of that Official Gazette which was first published in any form.
+9 S. 9. Sections 6, 7 and 8 not to confer right to insist document should be accepted
+in electronic form.—Nothing contained in sections 6, 7 and 8 shall confer a
+right upon any person to insist that any Ministry or Department of the Central Gov- ernment or the State Government or any authority or body established by or under any
+law or controlled or funded by the Central or State Government should accept, issue,
+create, retain, preserve any document in the form of electronic records or effect any
+monetary transaction in the electronic form.
+10 S. 10. Power to make rules by Central Government in respect of 23[electronic
+signature].—The Central Government may, for the purposes of this Act, by rules, pre- scribe—
+(a) the type of 24[electronic signature];
+(b) the manner and format in which the digital signature shall be affixed;
+(c) the manner or procedure, which facilitates identification of the person affixing
+the 25[electronic signature];
+(d) control processes and procedures to ensure adequate integrity, security and
+confidentiality of electronic records or payments; and
+(e) any other matter which is necessary to give legal effect to 26[electronic signatures].
+27[S. 10A. Validity of contracts formed through electronic means.—Where in a
+contract formation, the communication of proposals, the acceptance of proposals, the revocation of proposals and acceptances, as the case may be, are expressed in electronic
+form or by means of an electronic record, such contract shall not be deemed to be un- enforceable solely on the ground that such electronic form or means was used for that
+purpose.]

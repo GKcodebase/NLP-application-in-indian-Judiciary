@@ -1,0 +1,49 @@
+CHAPTER 4
+ATTRIBUTION, ACKNOWLEDGMENT AND DISPATCH OF
+ELECTRONIC RECORDS 11 S. 11. Attribution of electronic records.—An electronic record shall be attributed to
+the originator—
+(a) if it was sent by the originator himself;
+(b) by a person who had the authority to act on behalf of the originator in re- spect of that electronic record; or
+(c) by an information system programmed by or on behalf of the originator to
+operate automatically.
+S. 12. Acknowledgment of Receipt.—(1) Where the originator has not agreed with
+the addressee that the acknowledgment of receipt of electronic record be given in a particular
+form or by a particular method, an acknowledgment may be given by—
+(a) any communication by the addressee, automated or otherwise; or
+(b) any conduct of the addressee, sufficient to indicate to the originator that the
+electronic record has been received.
+(2) Where the originator has stipulated that the electronic record shall be binding only
+on receipt of an acknowledgment of such electronic record by him, then unless ac- knowledgment has been so received, the electronic record shall be deemed to have been
+never sent by the originator.
+(3) Where the originator has not stipulated that the electronic record shall be binding
+only on receipt of such acknowledgment, and the acknowledgment has not been re- ceived by the originator within the time specified or agreed or, if no time has been specified
+or agreed to within a reasonable time, then the originator may give notice to the
+addressee stating that no acknowledgment has been received by him and specifying a
+reasonable time by which the acknowledgment must be received by him and if no ac- knowledgment is received within the aforesaid time limit he may after giving notice to
+the addressee, treat the electronic record as though it has never been sent.
+13 S. 13. Time and place of dispatch and receipt of electronic record.—(1) Save as
+otherwise agreed to between the originator and the addressee, the dispatch of an electronic
+record occurs when it enters a computer resource outside the control of the originator.
+(2) Save as otherwise agreed between the originator and the addressee, the time of re- ceipt of an electronic record shall be determined as follows, namely:—
+(a) if the addressee has designated a computer resource for the purpose of re- ceiving electronic records,—
+(i) receipt occurs at the time when the electronic record enters the
+designated computer resource; or
+(ii) if the electronic record is sent to a computer resource of the addressee
+that is not the designated computer resource, receipt occurs
+at the time when the electronic record is retrieved by the addressee;
+(b) if the addressee has not designated a computer resource along with specified
+timings, if any, receipt occurs when the electronic record enters the computer
+resource of the addressee.
+(3) Save as otherwise agreed between the originator and the addressee, an electronic
+record is deemed to be dispatched at the place where the originator has his place of
+business, and is deemed to be received at the place where the addressee has his place of
+business.
+(4) The provisions of sub-section (2) shall apply notwithstanding that the place where
+the computer resource is located may be different from the place where the electronic
+record is deemed to have been received under sub-section (3). (5) For the purposes of this section,—
+(a) if the originator or the addressee has more than one place of business, the
+principal place of business, shall be the place of business;
+(b) if the originator or the addressee does not have a place of business, his usual
+place of residence shall be deemed to be the place of business;
+(c) “usual place of residence”, in relation to a body corporate, means the place
+where it is registered.

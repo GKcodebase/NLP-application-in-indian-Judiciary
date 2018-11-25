@@ -1,0 +1,33 @@
+CHAPTER 8
+DUTIES OF SUBSCRIBERS
+40
+Information Technology Act, 2000 www.iltb.net/resourses
+S. 40. Generating key pair.—Where any Digital Signature Certificate, the public key
+of which corresponds to the private key of that subscriber which is to be listed in the
+Digital Signature Certificate has been accepted by a subscriber, 52[* *], the subscriber
+shall generate 53[that key] pair by applying the security procedure.
+54[S. 40A. Duties of subscriber of Electronic Signature Certificate.—In respect of
+Electronic Signature Certificate the subscriber shall perform such duties as may be pre- scribed.]
+41 S. 41. Acceptance of Digital Signature Certificate.—(1) A subscriber shall be
+deemed to have accepted a Digital Signature Certificate if he publishes or authorises the
+publication of a Digital Signature Certificate—
+(a) to one or more persons;
+(b) in a repository, or
+otherwise demonstrates his approval of the Digital Signature Certificate in any manner.
+(2) By accepting a Digital Signature Certificate the subscriber certifies to all who rea- sonably rely on the information contained in the Digital Signature Certificate that—
+(a) the subscriber holds the private key corresponding to the public key listed in
+the Digital Signature Certificate and is entitled to hold the same;
+(b) all representations made by the subscriber to the Certifying Authority and all
+material relevant to the information contained in the Digital Signature Certificate
+are true;
+(c) all information in the Digital Signature Certificate that is within the
+knowledge of the subscriber is true.
+42 S. 42. Control of private key.—(1) Every subscriber shall exercise reasonable care to
+retain control of the private key corresponding to the public key listed in his Digital Signature
+Certificate and take all steps to prevent its disclosure 55[* * * *].
+(2) If the private key corresponding to the public key listed in the Digital Signature
+Certificate has been compromised, then, the subscriber shall communicate the same
+without any delay to the Certifying Authority in such manner as may be specified by the
+regulations.
+Explanation.—For the removal of doubts, it is hereby declared that the subscriber shall
+be liable till he has informed the Certifying Authority that the private key has been compromised.
