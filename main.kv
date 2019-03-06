@@ -1,0 +1,34 @@
+#:import FadeTransition kivy.uix.screenmanager.FadeTransition
+#:kivy 1.10.1
+
+ScreenManagement:
+    transition: FadeTransition()
+    MainScreen:
+    AnotherScreen:
+
+<MainScreen>:
+    text_input: input
+    name: 'main'
+    FloatLayout:
+        Label:
+            text:"MachineLearning Application for Indian Judiciary.\n                            Major Project ECED    "
+
+            font_size: 35
+        
+        Button:
+            on_release: app.root.current = 'other'
+            on_release: root.submit()
+            text: 'Result Screen'
+            pos_hint :{"x": .8, 'y':0}
+<AnotherScreen>:
+    name: 'other'
+
+    Button:
+        on_release: app.root.current = 'main'
+        text: 'Back to Home!...'
+        pos_hint :{"x": .8, 'y':0}
+
+<Button>:
+    font_size:12
+	color: 0,1,0,1
+	size_hint: 0.2, 0.15
