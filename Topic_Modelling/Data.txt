@@ -1,0 +1,2053 @@
+Attribution, Acknolwedgment and Despatch of Electronic Records
+11.Attribution of electronic records.
+
+An electronic record shall be attributed to the originator -
+
+if it was sent by the originator himself.
+by a person who had the authority to act on behalf of the originator in respect of that electronic record, or
+by an information system programmed by or on behalf of the originator to operate automatically.
+gif-image
+12. Acknowledgment of receipt.
+
+Where the originator has not agreed with the addressee that the acknowledgment of receipt of electronic record be given in a particular form or by a particular method, an acknowledgment may be given by -
+any communication by the addressee, automated or otherwise, or
+any conduct of the addressee, sufficient to indicate to the originator that the electronic record has been received.
+Where the originator has stipulated that the electronic record shall be binding only on receipt of an acknowledgment of such electronic record by him, then unless acknowledgment has been so received, the electronic record shall be deemed to have been never sent by the originator.
+Where the originator has not stipulated that the electronic record shall be binding only on receipt of such acknowledgment, and the acknowledgment has not been received by the originator within the time specified or agreed or, if no time has been specified or agreed to within a reasonable time, then the originator may give notice to the addressee stating that no acknowledgment has been received by him and specifying a reasonable time by which the acknowledgment must be received by him and if no acknowledgment is received within the aforesaid time limit he may after giving notice to the addressee, treat the electronic record as though it has never been sent.
+13. Time and place of despatch and receipt of electronic record.
+
+Save as otherwise agreed to between the originator and the addressee, the dispatch of an electronic record occurs when it enters a computer resource outside the control of the originator.
+Save as otherwise agreed between the originator and the addressee, the time of receipt of an electronic record shall be determined as follows, namely :-
+if the addressee has designated a computer resource for the purpose of receiving electronic records -
+receipt occurs at the time when the electronic, record enters the designated computer resource, or
+if the electronic record is sent to a computer resource of the addressee that is not the designated computer resource, receipt occurs at the time when the electronic record is retrieved by the addressee.
+if the addressee has not designated a computer resource along with specified timings, if any, receipt occurs when the electronic record enters the computer resource of the addressee.
+Save as otherwise agreed to between the originator and the addressee, an electronic record is deemed to be dispatched at the place where the originator has his place of business, and is deemed to be received at the place where the addressee has his place of business.
+The provisions of sub-section (2) shall apply notwithstanding that the place where the computer resource is located may be different from the place where the electronic record is deemed to have been received under sub-section (3).
+For the purposes of this section -
+if the originator or the addressee has more than one place of business, the principal place of business, shall be the place of business.
+if the originator or the addressee does not have a place of business, his usual place of residence shall be deemed to be the place of business.
+"usual place of residence", in relation to a body corporate, means the place where it is registered.
+CHAPTER 4
+ATTRIBUTION, ACKNOWLEDGMENT AND DISPATCH OF
+ELECTRONIC RECORDS 11 S. 11. Attribution of electronic records.—An electronic record shall be attributed to
+the originator—
+(a) if it was sent by the originator himself;
+(b) by a person who had the authority to act on behalf of the originator in re- spect of that electronic record; or
+(c) by an information system programmed by or on behalf of the originator to
+operate automatically.
+S. 12. Acknowledgment of Receipt.—(1) Where the originator has not agreed with
+the addressee that the acknowledgment of receipt of electronic record be given in a particular
+form or by a particular method, an acknowledgment may be given by—
+(a) any communication by the addressee, automated or otherwise; or
+(b) any conduct of the addressee, sufficient to indicate to the originator that the
+electronic record has been received.
+(2) Where the originator has stipulated that the electronic record shall be binding only
+on receipt of an acknowledgment of such electronic record by him, then unless ac- knowledgment has been so received, the electronic record shall be deemed to have been
+never sent by the originator.
+(3) Where the originator has not stipulated that the electronic record shall be binding
+only on receipt of such acknowledgment, and the acknowledgment has not been re- ceived by the originator within the time specified or agreed or, if no time has been specified
+or agreed to within a reasonable time, then the originator may give notice to the
+addressee stating that no acknowledgment has been received by him and specifying a
+reasonable time by which the acknowledgment must be received by him and if no ac- knowledgment is received within the aforesaid time limit he may after giving notice to
+the addressee, treat the electronic record as though it has never been sent.
+13 S. 13. Time and place of dispatch and receipt of electronic record.—(1) Save as
+otherwise agreed to between the originator and the addressee, the dispatch of an electronic
+record occurs when it enters a computer resource outside the control of the originator.
+(2) Save as otherwise agreed between the originator and the addressee, the time of re- ceipt of an electronic record shall be determined as follows, namely:—
+(a) if the addressee has designated a computer resource for the purpose of re- ceiving electronic records,—
+(i) receipt occurs at the time when the electronic record enters the
+designated computer resource; or
+(ii) if the electronic record is sent to a computer resource of the addressee
+that is not the designated computer resource, receipt occurs
+at the time when the electronic record is retrieved by the addressee;
+(b) if the addressee has not designated a computer resource along with specified
+timings, if any, receipt occurs when the electronic record enters the computer
+resource of the addressee.
+(3) Save as otherwise agreed between the originator and the addressee, an electronic
+record is deemed to be dispatched at the place where the originator has his place of
+business, and is deemed to be received at the place where the addressee has his place of
+business.
+(4) The provisions of sub-section (2) shall apply notwithstanding that the place where
+the computer resource is located may be different from the place where the electronic
+record is deemed to have been received under sub-section (3). (5) For the purposes of this section,—
+(a) if the originator or the addressee has more than one place of business, the
+principal place of business, shall be the place of business;
+(b) if the originator or the addressee does not have a place of business, his usual
+place of residence shall be deemed to be the place of business;
+(c) “usual place of residence”, in relation to a body corporate, means the place
+where it is registered.
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+The company whose address provided below  has not 
+ acknowledged the receipt of electronic record provided by us to them.
+They did not provide any acknowledgment in the form of any mode of communication for the receipt give by us to them  whether they received it or not.
+
+
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+The company whose address provided below  didn't provide us with a receipt at the time when the electronic record entered the designated system in the company.They failed to provide us with an acknowledgement that they received our payment.
+
+
+
+
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+The company whose address provided below  altered their usual place of residence,and gave us an address of some other place in the confirmation letter .The company was registered in another place and they couldn't provide the receipt with that address of the place  where it is registered.
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+T Act Provisions Related to Digital Signature
+
+Section 3 of IT Act, made the provision for it as: Authentication of electronic records.-
+
+(1) Subject to the provisions of this section, any subscriber may authenticate an electronic record by affixing his digital signature.
+
+In IT Act, chapter 3 related to electronic governance, sections 4 and 5 are quite relevant.
+
+Section 4 made the provision for Legal recognition of electronic records — where any law provides that information or any other matter shall be in writing, typewritten or printed form then not-withstanding anything contained in such law, given requirement shall be deemed to have been satisfied if such information or matter is—
+
+(a) rendered or made available in an electronic form; and
+
+(b) accessible so as to be usable for a subsequent reference
+
+Section 5 Legal recognition of [electronic signatures] — where law provides that information or any other matter shall be authenticated by affixing the signature or any document should be signed or bear the signature of any person then, notwithstanding anything contained in such law, such requirement shall be deemed to have been satisfied, if such information or matter is authenticated by means of [electronic signatures] affixed in such manner as may be prescribed by the Central Government.
+
+gavel1
+
+Digital Signature Vs. Digital Certificate
+
+Digital signatures are based on three pointers for authentication – Privacy, Non repudiation and Integrity in the virtual world, while the objectives of digital certificate are the authentication of documents, and bind the person who is putting the digital signature, which based on public key cryptography requires two separate keys, as secret and public. However, both the keys are linked together, one key encrypts the plain text, and another decrypts the cipher text, and neither key can perform both the functions. The other difference is digital signature is an electronic process of signing an electronic document while a Digital Certificate is a computer based record which is the identification of certifying agency or the identity of subscriber
+
+Digital Signature Vs. Electronic Signature
+
+The Information Technology Amendment Bill 2006, replaces the word “Digital” with the word “Electronic” at several places in the principal act, which creates a slight difference between the two, electronic signature is wide in nature, while the digital signature is one of the many kinds of electronic signature.
+
+Section 2(ta) “electronic signature” means authentication of any electronic record by a subscriber by means of an electronic technique specified in the second schedule and includes digital signature and section 2(p) defined “Digital Signature Certificate” means a Digital Signature Certificate issued Under sub-section (4) of section 35.
+
+The Indian Evidence Act and Digital Signature
+
+After the IT Act 2000, it was necessary to make an applicable amendment in the Indian Evidence act, to make it compatible.
+
+Section 3 in the definition of “Evidence”, for the words “all documents produced for the inspection of the Court”, the word “all document including electronic records produced for the inspection of the Court”
+
+Section 47A, says when the court has to form an opinion as to the digital signature or any person, the opinion of the certifying authority which has issued the Digital Signature Certificate is a relevant fact. It means while drawing the conclusion, court gives the weight of the digital signature as a relevant fact.
+
+Further 67A proof as to digital signature – except in the case of a secure digital signature, if the digital signature of any subscriber is alleged to have been affixed to an electronic record the fact that such digital signature is the digital signature of the subscriber must be proved.
+
+Section 85B exhibits the positive presumption as  Presumption as to electronic records and digital signatures.- (1) In any proceedings involving a secure electronic record, the Court shall presume unless contrary is proved, that the secure electronic record has not been altered since the specific point of time to which the secure status relates.
+
+Indian Penal Code
+
+Section 464 Making a false document: A person is said to make a false document or false electronic record—
+
+First — who dishonestly or fraudulently-
+
+Makes or transmits any electronic record or part of any electronic record;
+
+ affixes any [electronic signature] on any electronic record;
+
+makes any mark denoting the execution of a document or the authenticity of the  [electronic signature],
+
+with the intention of causing it to be believed that such a document or a part of document, electronic record or  [electronic signature] was made, signed, sealed, executed, transmitted or affixed by or by the authority of a person by whom or by whose authority he knows that it was not made, signed, sealed, executed or affixed; or
+
+Secondly —Who, without lawful authority, dishonestly or fraudulently, by cancellation or otherwise, alters a document or an electronic record in any material part thereof, after it has been made, executed or affixed with  [electronic signature] either by himself or by any other person, whether such person be living or dead at the time of such alteration; or
+
+Thirdly —Who dishonestly or fraudulently causes any person to sign, seal, execute or alter a document or an electronic record or to affix his  [electronic signature] on any electronic record knowing that such person by reason of unsoundness of mind or intoxication cannot, or that by reason of deception practiced upon him, he does not know the contents of the document or electronic record or the nature of the alteration.]
+Alteration of information  
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you the misuse of digital signature. This was done by any alteration to the information made after my authentication by electronic
+signature. 
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+CHAPTER 2
+16[DIGITAL SIGNATURE AND ELECTRONIC SIGNATURE]
+3 S. 3. Authentication of electronic records.—
+(1) Subject to the provisions of this section any subscriber may authenticate an electronic record by affixing his digital signature.
+(2) The authentication of the electronic record shall be effected by the use of asym- metric crypto system and hash function which envelop and transform the initial electronic
+record into another electronic record.
+Explanation.—For the purposes of this sub-section, “hash function” means an algo- rithm mapping or translation of one sequence of bits into another, generally smaller, set
+known as “hash result” such that an electronic record yields the same hash result every
+time the algorithm is executed with the same electronic record as its input making it
+computationally infeasible —
+(a) To derive or reconstruct the original electronic record from the hash result
+produced by the algorithm;
+(b) that two electronic records can produce the same hash result using the algo- rithm.
+(3) Any person by the use of a public key of the subscriber can verify the electronic
+record.
+(4) The private key and the public key are unique to the subscriber and constitute a
+functioning key pair.
+7[S. 3A. Electronic signature.—(1) Notwithstanding anything contained in section
+3, but subject to the provisions of sub-section (2), a subscriber may authenticate any
+electronic record by such electronic signature or electronic authentication technique
+which—
+(a) is considered reliable; and
+(b) may be specified in the Second Schedule.
+(2) For the purpose of this section any electronic signature or electronic authentication
+technique shall be considered reliable if—
+(a) the signature creation data or the authentication data are, within the context
+in which they are used, linked to the signatory or, as the case may be, the authenticator
+and to no other person;
+(b) the signature creation data or the authentication data were, at the time of
+signing , under the control of the signatory or, as the case may be, the authenticator
+and of no other person;
+(c) any alteration to the electronic signature made after affixing such signature is
+detectable;
+(d) any alteration to the information made after its authentication by electronic
+signature is detectable; and
+(e) it fulfils such other conditions which may be prescribed.
+(3) The Central Government may prescribe the procedure for the purpose of ascertaining
+whether electronic signature is that of the person by whom it is purported to
+have been affixed or authenticated.
+(4) The Central Government may, by notification in the Official Gazette, add to or
+omit any electronic signature or electronic authentication technique and the procedure
+for affixing such signature from the Second Schedule;
+Provided that no electronic signature or authentication technique shall be specified in
+the Second Schedule unless such signature or technique is reliable.
+(5) Every notification issued under sub-section (4) shall be laid before each House of
+Parliament.]
+Forced Authentication
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you the misuse of digital signature. This was done by forcing me to authenticate
+the electronic record by electronic authentication technique. This was done by threatening me and without my actual consent. I request you to take necessary steps to cancel the validity of my digital signature.
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+Forgery of crypto system
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you the misuse of digital signature. The forgery was done by the misuse of asymmetric crypto system and hash function which envelop and transform the initial electronic record into another electronic record.
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+1. Generating key pair
+
+Where any Digital Signature Certificate, the public key of which corresponds to the private key of that subscriber which is to be listed in the Digital Signature Certificate has been accepted by a subscriber, then, the subscriber shall generate the key pair by applying the security procedure.
+
+2. Acceptance of Digital Signature Certificate
+
+(1) A subscriber shall be deemed to have accepted a Digital Signature Certificate if he publishes or authorises the publication of a Digital Signature Certificate-
+
+(a) to one or more persons;
+
+(b) in a repository, or
+otherwise demonstrates his approval of the Digital Signature Certificate in any manner,
+
+(2) By accepting a Digital Signature the subscriber certifies to all who reasonable rely on the information contained in the Digital Signature Certificate that-
+
+(a) the subscriber holds the private key corresponding to the public key listed in the Digital Signature Certificate and is entitled to hold the same;
+
+(b) all representations made by the subscriber to the Certifying Authority and all material relevant to the information contained in the Digital Signature Certificate are true.;
+
+(c) all information in the Digital Signature Certificate that is within the knowledge of the subscriber is true.
+3. Control of private key
+(1) Every subscriber shall exercise shall exercise reasonable care to retain control of the private key corresponding to the public key listed in his Digital Signature Certificate and take all steps to prevent its disclosure to a person not authorised to affix the digital signature of the subscriber.
+
+(2) If the private key corresponding to the public key listed in the Digital Signature Certificate has been compromised, then, the subscriber shall communicate the same without and delay to the Certifying Authority in such manner as may be specified by the regulations.
+
+Explanation- For the removal of doubts, it is hereby declared that the subscriber shall be liable to till he has informed the Certifying Authority that the private key has been compromised.
+Where any Digital Signature Certificate, the public key of which corresponds to the private key of that subscriber which is to be listed in the Digital Signature Certificate has been accepted by a subscriber, (*) the subscriber shall generate that key pair by applying the security procedure
+DUTIES OF SUBSCRIBERS
+
+40. Generating key pair in the case of Digital Signature Certificate
+
+Where any Digital Signature Certificate, the public key of which corresponds to the private key of that subscriber which is to be listed in the Digital Signature Certificate has been accepted by a subscriber, then, the subscriber shall generate that the R1 key pair by applying the security procedure.
+
+42 41.  Control of private key in the case of Digital Signature Certificate
+
+(1) Every subscriber shall exercise reasonable care to retain control of the private key corresponding to the public key listed in his Digital Signature Certificate and take all steps to prevent its disclosure to a person not authorised to affix the digital signature of the subscriber.
+
+(2) If the private key corresponding to the public key listed in the Digital Signature Certificate has been compromised, then, the subscriber shall communicate the same without any delay to the Certifying Authority in such manner as may be specified by the regulations.
+
+Explanation- For the removal of doubts, it is hereby declared that the subscriber shall be liable till he has informed the Certifying Authority that the private key has been compromised.
+
+41A.  Duties of the subscribers in the case of Electronic  Signature: 
+
+12D[2]The subscriber shall be bound by such duties as the Central Government may prescribe in respect of electronic signature certificates and in the case of  Digital Signature in addition to those provided in Sections 40 and 41.
+
+421. Acceptance of DigitalElectronic14A Signature Certificate
+(1) A subscriber shall be deemed to have accepted an DigitalElectronic14A Signature Certificate if he publishes or authorises the publication of an DigitalElectronic14A Signature Certificate-
+
+(a) to one or more persons;
+
+(b) in a repository, or
+
+otherwise demonstrates his approval of the DigitalElectronic14A Signature Certificate in any manner,
+
+R2(2) By accepting an DigitalElectronic14A Signature the subscriber certifies to all who reasonably rely on the information contained in the DigitalElectronic14A Signature Certificate that-
+
+(a) in the case of Digital Signature the subscriber controls holds the private key corresponding to the public key listed in the Digital Digital Signature Certificate and is entitled to hold the same;
+
+(b) all representations made by the subscriber to the Certifying Authority and all material relevant to the information contained in the DigitalElectronic14A Signature Certificate are true.;
+
+(c) all information in the DigitalElectronic14A Signature Certificate that is within the knowledge of the subscriber is true;.
+
+(d)  the electronic signature certificate is being used in accordance with the certification practice statement of the Certifying Authority for the time being in force;. and
+
+(e)     he acknowledges and accepts the terms contained in the Certification Practice Statement of the Certifying Authority.
+
+42 Control of private key42a
+
+(1) Every subscriber shall exercise shall exercise reasonable care to retain control of the private key corresponding to the public key listed in his Digital Signature Certificate and take all steps to prevent its disclosure to a person not authorised to affix the digital signature of the subscriber.
+
+(2) If the private key corresponding to the public key listed in the Digital Signature Certificate has been compromised, then, the subscriber shall communicate the same without and delay to the Certifying Authority in such manner as may be specified by the regulations.
+
+Explanation- For the removal of doubts, it is hereby declared that the subscriber shall be liable to till he has informed the Certifying Authority that the private key has been compromised
+
+ 
+
+12C This chapter requires rearrangement because of technology neutral concept. The matter relating to digital certificate is placed first , then duties of the subscribers in case of certificate other than digital certificate
+
+R1 Amended vide order no. S.O. 1015(E) dated September 19, 2002
+
+12D As the other technology have not been developed fully as and when things mature the Government can prescribe duties
+
+ 14A In this clause and in number of other places the term “ Digital” has been changed to “Electronic”  to enable the Act to be technology neutral
+
+ R2 Amended vide order no. S.O. 1015(E) dated September 19, 2002
+
+42a This section has been deleted as it related to a CA and its subscriber
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+One of the writers of a book published by us was offered  to  accept a Digital Signature Certificate as he published a book for us.But  now he says he didn't get any such documents.We are attaching the image of the certificate we issued with dated signature.
+
+
+Please do the necessary to help u in the matter
+regulations.
+
+
+
+
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+One of our subscriber had his own digital signature,which was forged by another person.The subscriber did not  inform the Certifying Authority that the private key has been compromised.Now he claims that its our fault that all his profit were taken by some other person.
+
+
+
+
+Please do the necessary to help u in the matter
+regulations.
+
+
+
+
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+Our company head had his own digital signature,which was forged by another person thereby tried to harm us using the same.As our Digital Signature Certificate has been compromised by the person whole of our companu processes are freezed as of now.
+Please do the necessary to help u in the matter
+regulations.
+
+
+
+
+
+
+The name and address of the accused person is as under:
+Name:
+Provisions for e-governance under the IT Act, 2000
+These are the provisions under the IT Act, 2000 in the context of e-governance:
+
+1. Legal Recognition of Electronic Records (Section 4)
+Let’s say that a certain law requires a matter written, typewritten, or printed. Even in the case of such a law, the requirement is satisfied if the information is rendered or made available in an electronic form and also accessible for subsequent reference.
+
+2. Legal recognition of digital signatures (Section 5)
+Let’s say that the law requires a person’s signature to authenticate some information or a document. Notwithstanding anything contained in such law, if the person authenticates it with a digital signature in a manner that the Central Government prescribes, then he satisfies the requirement of the law.
+
+For the purpose of understanding this, signature means a person affixing his handwritten signature or a similar mark on the document.
+
+3. Use of electronic records and digital signatures in Government and its agencies (Section 6)
+(1) If any law provides for –
+
+the filing of a form, application, or any document with any Government-owned or controlled office, agency, body, or authority
+the grant or issue of any license, sanction, permit or approval in a particular manner
+also, the receipt or payment of money in a certain way
+Then, notwithstanding anything contained in any other law in force such filing, grant, issue, payment, or receipt is satisfied even if the person does it in an electronic form. The person needs to ensure that he follows the Government-approved format.
+
+(2) With respect to the sub-section (1), may prescribe:
+
+the format and manner of filing, creating or issuing such electronic records
+also, the manner and method of payment of any fees or charges for filing, creating or issuing any such records
+4. Retention of electronic records (Section 7)
+(1) Let’s say that the law requires the retention of certain records, documents or information for a specific period. In such cases, the requirement is also satisfied if the retention is in an electronic form, provided:
+
+the information contained therein is accessible and also usable for a subsequent reference.
+the format of the electronic record is the same as the one originally created, received or sent. Even if the format is changed, then it must accurately represent the original information.
+the electronic record contains details to facilitate the identification of the origin, destination, and also the date and time of the dispatch or receipt of the record.
+This is provided that the clause does not apply to any information which is automatically generated primarily for the purpose of enabling an electronic record for dispatch or receipt.
+
+(2) Nothing in this section applies to any law which expressly provides for the retention of records, documents or information electronically.
+
+5. Publication of rules, regulations, etc., in Electronic Gazette (Section 8)
+Let’s say that law requires the publishing of official regulation, rule, by-law, notification or any other matter in the Official Gazette. In such cases, the requirement is also satisfied if such rule, regulation, order, bye-law, notification or any other matter is published in the Official Gazette or Electronic Gazette.
+
+However, the date of publication of the rule, regulation, by-law, notification or any other matter is the date of the Gazette first published in any form – Official or Electronic.
+
+6. Section 6,7 and 8 do not confer a right to insist document should be accepted in Electronic form (Section 9)
+It is important to note that, nothing contained in Sections 6, 7, and 8 confer a right upon any person to insist either the acceptance, issuance, creation or also retention of any document or a monetary transaction in the electronic form from:
+
+Ministry or Department of the Central/State Government
+Also, any authority or body established under any law by the State/Central Government
+7. Power to make rules by Central Government in respect of digital signature (Section 10)
+The IT Act, 2000 empowers the Central Government to prescribe:
+
+Type of digital signature
+Also, the manner and format of affixing the digital signature
+Procedures which facilitate the identification of the person affixing the digital signature
+Control processes and procedures to ensure the integrity, security, and confidentiality of electronic payments or records
+Further, any other matter which is legally important for digital signatures
+Data Protection
+Section 43A of the Information Technology Act, 2000:
+
+Let’s say that a body corporate which possesses, deals or handles any sensitive personal data or information in a computer resource which it owns, controls or operates, is certainly negligent in implementing and maintaining reasonable security practices and procedures leading to a wrongful loss or gain to a person.
+
+In such cases, the body corporate is liable to pay damages by way of compensation. Further, these damages cannot exceed five crore rupees.
+
+Further, the Government of India notified the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011, under section 43A of the IT Act, 2000. These rules specifically pertain to sensitive personal information or data and are applicable to all body corporates within India.
+
+Solved Question
+Q1. Name the different provisions under the IT Act, 2000 pertaining to electronic records and e-governance.
+
+Answer:
+
+The provisions are:
+
+Legal recognition of electronic records – Section 4
+Legal recognition of digital signatures – Section 5
+Use of electronic records and digital signatures in the Government and also its agencies – Section 6
+Retention of electronic records – Section 7
+Publication in Electronic Gazette – Section 8
+No right to insist on the acceptance of documents in the electronic form – Section 9
+Central Government’s power to make rules pertaining to digital signatures – Section 10
+Electronic Governance
+4. Legal recognition of electronic records.
+Where any law provides that information or any other matter shall be in writing or in the typewritten or printed form, then, notwithstanding anything contained in such law, such requirement shall be deemed to have been satisfied if such information or matter is-
+
+rendered or made available in an electronic form, and
+accessible so as to be usable for a subsequent reference.
+5. Legal recognition of digital signatures.
+Where any law provides that information or any other matter shall be authenticated by affixing the signature or any document shall be signed or bear the signature of any person (hen, notwithstanding anything contained in such law, such requirement shall be deemed to have been satisfied, if such information or matter is authenticated by means of digital signature affixed in such manner as may be prescribed by the Central Government.
+
+Explanation.-For the purposes of this section, "signed", with its grammatical variations and cognate expressions, shall, with reference to a person, mean affixing of his hand written signature or any mark on any document and the expression "signature" shall be construed accordingly.
+
+6. Use of electronic records and digital signatures in Government and its agencies.
+(1) Where any law provides for-
+the filing of any form. application or any other document with any office, authority, body or agency owned or controlled by the appropriate Government in a particular manner.
+the issue or grant of any licence, permit, sanction or approval by whatever name called in a particular manner.
+the receipt or payment of money in a particular manner. 
+then, notwithstanding anything contained in any other law for the time being in force, such requirement shall be deemed to have been satisfied if such filing, issue, grant, receipt or payment, as the case may be, is effected by means of such electronic form as may be prescribed by the appropriate Government.
+The appropriate Government may, for the purposes of sub-section (1), by rules, prescribe-
+the manner and format in which such electronic records shall be filed, created or issued.
+the manner or method of payment of any fee or charges for filing, creation or issue any electronic record under clause (a) 
+gif-image
+7. Retention of electronic records.
+Where any law provides that documents, records or information shall be retained for any specific period, then, that requirement shall be deemed to have been satisfied if such documents, records or information are retained in the electronic form, if-
+the information contained therein remains accessible so as to be usable for a subsequent reference.
+the electronic record is retained in the format in which it was originally generated, sent or received or in a format which can be demonstrated to represent accurately the information originally generated, sent or received.
+the details which will facilitate the identification of the origin, destination, date and time of despatch or receipt of such electronic record are available in the electronic record: 
+Provided that this clause does not apply to any information which is automatically generated solely for the purpose of enabling an electronic record to be dispatched or received.
+Nothing in this section shall apply to any law that expressly provides for the retention of documents, records or information in the form of electronic records.
+8. Publication of rule, regulation, etc., in Electronic Gazette.
+Where any law provides that any rule, regulation, order, bye-law, notification or any other matter shall be published in the Official Gazette, then, such requirement shall be deemed to have been satisfied if such rule, regulation, order, bye-law, notification or any other matter is published in the Official Gazette or Electronic Gazette:
+
+Provided that where any rule, regulation, order, bye-law, notification or any other matter is published in the Official Gazette or Electronic Gazette, the date of publication shall be deemed to be the date of the Gazette which was first published in any form.
+
+9. Sections 6,7 and 8 not to confer right to insist document should be accepted in electronic form.
+Nothing contained in sections 6, 7 and 8 shall confer a right upon any person to insist that any Ministry or Department of the Central Government or the State Government or any authority or body established by or under any law or controlled or funded by the Central or State Government should accept, issue, create, retain and preserve any document in the form of electronic records or effect any monetary transaction in the electronic form.
+
+10. Power to make rules by Central Government in respect of digital signature.
+The Central Government may, for the purposes of this Act, by rules, prescribe-
+
+the type of digital signature.
+the manner and format in which the digital signature shall be affixed.
+the manner or procedure which facilitates identification of the person affixing the digital signature.
+control processes and procedures to ensure adequate integrity, security and confidentiality of electronic records or payments, and
+any other matter which is necessary to give legal effect to digital signatures
+
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+The company whose address provided below provides services like milk supply,food supply etc.As one of the consumers whose using their facilities we should only pay the  amount of money which is fixed by scale of service charges which may be charged and collected by the service providers.As of now the company is charging more that the scale of charges assigned by them.
+
+
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+Our company whose address provided below provides services like milk supply,food supply etc.One of the consumer whose address is provided belove refused to pay for the services provided by us.As a service providing company we are entrusted to collect service charges for the services provided by us.
+
+
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+The company whose address provided below provided us with documents without authenticated signature of the head of the company for the purchase of raw materials from our farm society.
+
+
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+Electronic Signature – Legal and Technical aspect
+The traditional signatures are hand written and are uniquely representative of one’s identity. The use of signature is mandatory in law in certain cases and holds an important legal position in the document as it signify two things, the identity of the person and its intent to it. The Signature is one’s identity on a document and is used in day to day transaction and in case of illiterate persons its fingerprint is considered as his signature. The handwritten signature is prone to forgery and tampering hence insufficient for online transaction and contracts. The online transaction requires unique and strong protection which is served by electronic signature.
+
+The concept of digital signature was introduced through Information Technology Act 2000 in India, which is enhanced with hybrid concept of electronic signature which is based on UNCITRAL Model Law on Electronic Signatures 2001. The electronic signature is a technologically neutral concept and includes a digital signature. The object and purpose of electronic signature are similar to that of traditional signature. In cyber world electronic signature ensures that the electronic records are authentic and legitimate as electronic signature are safer and cannot be forged and is convenient as the sender himself does not have to be present personally at the place to contract to sign the document. For example a person can sign a contract in India and send it to any part of the world to complete the transaction.
+
+UNCITRAL Model Law on Electronic Signatures 2001
+The purpose of UNCITRAL Model Law on Electronic Signatures 2001 provides following statement which signifies the importance of electronic signature.
+
+“The increased use of electronic authentication techniques as substitutes for handwritten signatures and other traditional authentication procedures has suggested the need for a specific legal framework to reduce uncertainty as to the legal effect that may result from the use of such modern techniques (which may be referred to generally as “electronic signatures”). The risk that diverging legislative approaches be taken in various countries with respect to electronic signatures calls for uniform legislative provisions to establish the basic rules of what is inherently an international phenomenon, where legal harmony as well as technical interoperability is a desirable objective.”
+
+ 
+
+
+Sec 2 (ta) of Information Technology Act 2000 had defines electronic signature as
+“Authentication of any electronic record by a subscriber by means of the electronic technique specified in the second schedule and includes digital signature.”
+
+The definition of electronic signature includes digital signature and other electronic technique which may be specified in the second schedule of the Act, thus an electronic signature means authentication of an electronic record by a subscriber by means of electronic techniques. The adoption of ‘electronic signature’ has made the Act technological neutral as it recognizes both the digital signature method based on cryptography technique and electronic signature using other technologies.
+
+Technical aspect of Digital Signature
+The digital signature is created and verified by using the Public Key Infrastructure (PKI) technology that requires two keys that is a public key and a private key for encrypting and decrypting the information. The message is encrypted with a public key can only be decrypted using the corresponding private key and vice versa. The unique feature in public key infrastructure is that the public and private keys are related to each other and only the public key can be used for encrypting messages that can be decrypted using the corresponding private key. The public key is shared, whereas the private key is known only to its possessor. The digital signature is based on Cryptography. Cryptography is the science to secure communications by converting the message (encrypting ) into an unreadable format and only the person with a secret key can decrypt (read) it. Cryptography systems can be broadly classified into two types i.e., symmetric-key and asymmetric.
+
+In symmetric systems, both the sender and recipient have same keys and asymmetric system each user has two keys a public key that is known to everyone and a private key that is known only the recipient of messages. In India signature uses an asymmetric system that has a public key and private key.
+
+Digital Signature Certificates
+Digital Signature Certificates are digital format certificate to prove identity in the digital world. The digital signature certificates are issued by Certifying Authorities under the authority of Controller of Certifying Authorities. A Digital Signature Certificate is an electronic document that can be used to verify that the public key belongs to the particular individual. Digital Signature Certificates contains Public key of the certificate owner, Name of the owner, Validity “from” and “to” dates, Name of the issuing authority, Serial number of the certificate, Digital signature of the issuing authority name of the person, etc. There are three different classes of digital certificate. They class I, class II and class III. Depending on the type, each digital certificate provides specific functions.
+
+Legal aspect Digital Signature
+Section 3 of the Information Technology Act 2000 provides for authentication of electronic records. It provides that the electronic records can be authenticated by using digital signatures. It lays down technology requirements for digital signatures. It prescribes the use of an asymmetric crypto system and hash function for authentication of electronic records. Authentication of an electronic document is important as it ensures that the message has not been tampered and confirms the creator’s identity, making it non repudiable, i.e., the sender cannot deny its creation. The object of authentication is achieved by the use of asymmetric system and hash function which convent the electronic message into an unreadable format to prevent tampering of electronic record.
+
+A hash function is the method or scheme used for encrypting and decrypts digital signatures. A hash function produces a hash value which is also known as a message digest. It plays an important role in ensuring that the message has not been tampered and information is safe and secure.
+
+Functions of Electronic Signature
+The concept of electronic signature was introduced under section 3A of the Information Technology (Amendment) Act 2008. An electronic signature means authentication of an electronic record by a subscriber by any means of electronic authentication techniques. An electronic signature technique can be used as an authorized electronic signature if such technique is notified by the central government in the official gazette or in the second schedule of the Act. There are different types of electronic signature, however, all of them are not secure; hence only the techniques notified in the official gazette or in the second schedule can be used as a legitimate electronic signature. For example typed name, a digitized image of a signature is also a form of electronic signature, but is prone to tampering and are insecure. The electronic signature technique has to be reliable to be recognized as an electronic signature. Section 3A of the Information Technology Act 2000 is based on Article 6 “Compliance with a requirement for a signature” of UNCITRAL Model Law on Electronic Signatures 2001. The following are the requirement of an electronic signature.
+
+a) It has to be reliable.
+b) The central government may notify in the official gazette the technique and procedure for electronic signature or specify in the second schedule of the Information Technology Act 2000.
+
+An electronic Signature shall be considered as reliable if it fulfills following requirement,
+
+ 
+
+
+a) The technique should be such that it can be linked to the creator of the message.
+b) The technique of electronic signature must be under the control of the maker of the signature.
+c) Any change or alteration to the electronic signature after affixation must be detectable. 
+d) Any change or alteration of data after affixing electronic signature must be detectable.
+
+The Central Government is the authority to declare the technique as reliable electronic signature and can add or remove any technique from the electronic authentication technique. As on date the central government has not issued any notification on the concept of electronic signature and thus the electronic signature has not gained much attention. In this regard the Delhi high court has directed the central government to frame policy on electronic signature for authentication of electronic records. The only method of authentication of electronic records in India presently being digital signature as there are no guidelines on use of electronic signature.
+
+The legal recognition of electronic signature has been provided under section 5 of information technology Act 2000. This section equates electronic signature as traditional handwritten signature. It provides that if any, information or document if confirmed by electronic signature shall have the same effect as the affixing of signature if done according to the prescribed manner. The central government shall prescribe the manner in which electronic signature has to be affixed.
+
+Offenses related to Electronic Signature
+The offenses related to electronic signature are generally related identity theft, publication of false electronic signature certificate, publication of electronic certificate with fraudulent purpose. Section 66C of the Act punishes for identity theft. This Act punishes fraudulent use of electronic signature of any other person and such person shall be punished with imprisonment of up to three years and will also liable to pay fines which may extend up to one lakh.
+
+Misrepresentation or suppression of material fact in order to obtain any license or electronic signature is an offense under section 71 of the Act. This section is applicable in following cases
+a) If a person makes a misrepresentation to the Controller or Certifying authority.
+b) If a person suppresses any material fact from, the Controller or Certifying authority.
+
+Such misrepresentation or suppression of material fact with the intent to obtain any license or electronic certificate from, the Controller or Certifying authority is punishable with imprisonment of up to two years and fine up to rupees one lakh. The information to be provided to the Controller or Certifying authority should be proper and correct and presentation of wrong, incorrect or false information is an offense under Section 71 of the Act.
+
+Publication of electronic signature certificate which is false in certain particulars is an offense under section 73 of the Act. The following shall amount to publication of false particulars in an electronic certificate,
+
+a) Publication of Electronic signature certificate which the certifying authority has not issued.
+b) Publication of Electronic signature certificate which subscriber of the certificate has not accepted.
+c) Publication of Electronic signature certificate which is revoked or suspended.
+
+Sec 74 of the Act punishes creation, publication or providing of electronic signature certificate for fraudulent or unlawful purpose with imprisonment for a term which may extend up to two years or a fine which may extend up to one lakh
+Revoking of Digital Signature Certificate
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you the mistake made by authorities while revoking the Digital Signature Certificate. It was revoked without
+giving me an opportunity of being heard in the matter.
+
+Please do the necessary to rectify this as soon as possible.
+
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+Rejection of application
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you the rejection of my application to issue an Electronic Signature Certificate by the Issuing Authority.I was not given a
+reasonable opportunity of showing cause against the proposed rejection.
+
+I request you to take legal action against the said person at the earliest.
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+Mistake in fact mentioned in Digital Signature Certificate
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you that a material fact represented in the Digital Signature Certificate issued to the below mentioned person is false and a part of the information has
+been concealed.
+
+Please do the necessary to rectify this as soon as possible.
+
+Details of the person;
+Name:
+Address:
+
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+Mistake in Digital Signature Certificate
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you the mistake made by authorities while issuing the Digital Signature Certificate. The information contained in the Digital Signature Certificate is not accurate.
+
+Please do the necessary to rectify this as soon as possible.
+
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+CHAPTER 7
+45[ELECTRONIC SIGNATURE] CERTIFICATES 35 S. 35. Certifying Authority to issue 46[Electronic Signature] Certificate.—(1)
+Any person may make an application to the Certifying Authority for the issue of a
+47[Electronic Signature] Certificate in such form as may be prescribed by the Central
+Government.
+(2) Every such application shall be accompanied by such fee not exceeding twenty- five thousand rupees as may be prescribed by the Central Government, to be paid to the
+Certifying Authority:
+Provided that while prescribing fees under sub-section (2) different fees may be pre- scribed for different classes of applicants.
+(3) Every such application shall be accompanied by a certification practice statement or
+where there is no such statement, a statement containing such particulars, as may be specified
+by regulations.
+(4) On receipt of an application under sub-section (1), the Certifying Authority may,
+after consideration of the certification practice statement or the other statement under
+sub-section (3) and after making such enquiries as it may deem fit, grant the 48[Electronic
+Signature] Certificate or for reasons to be recorded in writing, reject the application:
+49[* * *]
+50[Provided] that no application shall be rejected unless the applicant has been given a
+reasonable opportunity of showing cause against the proposed rejection.
+36 S. 36. Representations upon issuance of Digital Signature Certificate.—A Certifying
+Authority while issuing a Digital Signature Certificate shall certify that—
+(a) it has complied with the provisions of this Act and the rules and regulations
+made thereunder;
+(b) it has published the Digital Signature Certificate or otherwise made it availa- ble to such person relying on it and the subscriber has accepted it;
+(c) the subscriber holds the private key corresponding to the public key, listed in
+the Digital Signature Certificate;
+51[(ca) the subscriber holds a private key which is capable of creating a digital signature
+(cb) the public key to be listed in the certificate can be used to verify a digital
+signature affixed by the private key held by the subscriber;]
+(d) the subscriber’s public key and private key constitute a functioning key pair;
+(e) the information contained in the Digital Signature Certificate is accurate; and
+(f) it has no knowledge of any material fact, which if it had been included in the
+Digital Signature Certificate would adversely affect the reliability of the repre- sentations made in clauses (a) to (d).
+37 S. 37. Suspension of Digital Signature Certificate.—(1) Subject to the provisions
+of sub-section (2), the Certifying Authority which has issued a Digital Signature Certificate
+may suspend such Digital Signature Certificate,—
+(a) on receipt of a request to that effect from—
+(i) the subscriber listed in the Digital Signature Certificate; or
+(ii) any person duly authorised to act on behalf of that subscriber;
+(b) if it is of opinion that the Digital Signature Certificate should be suspended
+in public interest.
+(2) A Digital Signature Certificate shall not be suspended for a period exceeding fifteen
+days unless the subscriber has been given an opportunity of being heard in the matter.
+(3) On suspension of a Digital Signature Certificate under this section, the Certifying
+Authority shall communicate the same to the subscriber.
+38 S. 38. Revocation of Digital Signature Certificate.—(1) A Certifying Authority
+may revoke a Digital Signature Certificate issued by it—
+(a) where the subscriber or any other person authorised by him makes a request
+to that effect; or
+(b) upon the death of the subscriber; or
+(c) upon the dissolution of the firm or winding up of the company where the
+subscriber is a firm or a company.
+(2) Subject to the provisions of sub-section (3) and without prejudice to the provisions
+of sub-section (1), a Certifying Authority may revoke a Digital Signature Certificate
+which has been issued by it at any time, if it is of opinion that—
+(a) a material fact represented in the Digital Signature Certificate is false or has
+been concealed;
+(b) a requirement for issuance of the Digital Signature Certificate was not satis- fied;
+(c) the Certifying Authority’s private key or security system was compromised
+in a manner materially affecting the Digital Signature Certificate’s reliability;
+(d) the subscriber has been declared insolvent or dead or where a subscriber is a
+firm or a company, which has been dissolved, wound-up or otherwise
+ceased to exist.
+(3) A Digital Signature Certificate shall not be revoked unless the subscriber has been
+given an opportunity of being heard in the matter.
+(4) On revocation of a Digital Signature Certificate under this section, the Certifying
+Authority shall communicate the same to the subscriber.
+39 S. 39. Notice of suspension or revocation.—(1) Where a Digital Signature Certificate
+is suspended or revoked under section 37 or section 38, the Certifying Authority
+shall publish a notice of such suspension or revocation, as the case may be, in the repository
+specified in the Digital Signature Certificate for publication of such notice.
+(2) Where one or more repositories are specified, the Certifying Authority shall publish
+notices of such suspension or revocation, as the case may be, in all such repositories.
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+The case which was taken against our company was judged not based on evidences like digital audio, digital video etc rather by just taking few statements from some random people.We have evidence which support us  like a video showing our innocence 
+
+
+I request you to review the case against us again
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+A unique case which was filed by us again a famous company was not taken serously  by the court even though we provided them with all the required digital evidences.
+I request you to review the case again.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+A unique case which was filed by us again a famous company was not taken serously  by the court even though we provided them with all the required digital evidences.
+I request you to review the case again.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+The Central Government may, for the purposes of providing expert opinion on electronic form evidence before any court or other authority specify, by notification in the official Gazette, any department, body or agency of the Central Government or a State Government as an Examiner of Electronic Evidence.
+
+Explanation:- For the purpose of this section, “Electronic Form Evidence” means any information of probative value that is either stored or transmitted in electronic form and includes computer evidence, digital audio, digital video, cell phones, digital fax machines”.
+
+Pilot scheme for Notifying Examiner of Electronic Evidence Under section 79A of the Information Technology Act 2000
+
+MEITY Notification No 191)/2015-CLFE dated 02 February 2017
+
+Section 79A of the Information Technology Act, 2000 mandates Central Government to notify Examiner of Electronic Evidence for the purposes of providing expert opinion on electronic form evidence before any court or other authority.
+
+For identification and selection of Examiner of Electronic Evidence, Ministry of Electronics & Information Technology (MEITY) has designated and developed a scheme, initially to access and notify Examiner of Electronic Evidence on the pilot basis with 3 to 5 labs.
+
+The detailed scheme document is enclosed as Annexure – I and application form as Annexure – II Eligible Department, body or agency of the Central Government or a State Government are encouraged to apply in the pilot scheme. Based on successful assessment and approval, provisional notification as an examiner of electronic evidence will be issued to these labs.Section 45A in The Indian Evidence Act, 1872
+37 [ 45A Opinion of Examiner of Electronic Evidence. —When in a proceeding, the court has to form an opinion on any matter relating to any information transmitted or stored in any computer resource or any other electronic or digital form, the opinion of the Examiner of Electronic Evidence referred to in section 79A of the Information Technology Act, 2000 (21 of 2000) is a relevant fact. Explanation .—For the purposes of this section, an Examiner of Electronic Evidence shall be an expert;] Illustrations
+(a) The question is, whether the death of A was caused by poison. The opinions of experts as to the symptoms produced by the poison by which A is supposed to have died are relevant.
+(b) The question is, whether A, at the time of doing a certain act, was, by reason of unsoundness of mind, incapable of knowing the nature of the Act, or that he was doing what was either wrong or contrary to law. The opinions of experts upon the question whether the symptoms exhibited by A commonly show unsoundness of mind, and whether such unsoundness of mind usually renders persons incapable of knowing the nature of the acts which they do, or of knowing that what they do is either wrong or contrary to law, are relevant.
+(c) The question is, whether a certain document was written by A. Another document is produced which is proved or admitted to have been written by A. The opinions of experts on the question whether the two documents were written by the same person or by different persons, are relevant.Intermediary
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report that the intermediary we assigned has conspired or abetted or aided or induced by
+threats or promise in the commission of an unlawful act.
+
+Please do the necessary to rectify this as soon as possible.
+
+Details of the person;
+Name:
+Address:
+
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+4CHAPTER 12
+INTERMEDIARIES NOT TO BE LIABLE IN
+CERTAIN CASES 79 S. 79. Exemption from liability of intermediary in certain cases.—(1) Notwithstanding
+anything contained in any law for the time being in force but subject to the
+provisions of sub-section (2) and (3), an intermediary shall not be liable for any third
+party information, data, or communication link made available or hosted by him.
+(2) The provisions of sub-section (1) shall apply if—
+(a) the function of the intermediary is limited to providing access to a commu- nication system over which information made available by third parties is
+transmitted or temporarily stored or hosted; or
+(b) the intermediary does not—
+(i) initiate the transmission,
+(ii) select the receiver of the transmission, and
+(iii) select or modify the information contained in the transmission;
+(c) the intermediary observes due diligence while discharging his duties under
+this Act and also observes such other guidelines as the Central Government
+may prescribe in this behalf.
+(3) The provisions of sub-section (1) shall not apply if—
+(a) the intermediary has conspired or abetted or aided or induced, whether by
+threats or promise or otherwise in the commission of the unlawful act;
+(b) upon receiving actual knowledge, or on being notified by the appropriate
+Government or its agency that any information, data or communication link
+residing in or connected to a computer resource controlled by the interme- diary is being used to commit the unlawful act, the intermediary fails to ex- peditiously remove or disable access to that material on that resource without
+vitiating the evidence in any manner.
+Explanation.—For the purpose of this section, the expression “third party infor- mation” means any information dealt with by an intermediary in his capacity as an intermediary.
+LIABILITY OF NETWORK SERVICE PROVIDERS IN CYBERSPACE
+The Indian ITAct,2000 stipulates that Network service providers are not liable in certain cases, for any third party information or data made available by an ISP, if it proves that the offence was committed without his knowledge[1],, or that he had exercised all due diligence to prevent the commissioning of such offence
+[2]. A ‘network service provider’ means any person who provides access to information service in electronic form. For example: Internet service provider, cellular mobile services, customer access services, mobile satellite services etc. It essentially performs two tasks-to provide access to the network and to act as intermediary between an originator and addressee with respect to any particular electronic message.
+
+The position on ISP liability in India is the same as prevailing in other countries. However, with the enforcement of the IT Amendment Bill 2008, certain additional grounds will be added whereby an intermediary shall not be liable for any third party information, data, or communication link made available or hosted by him if the function of the intermediary is limited to providing access to a communication system over which information made available by third parties is transmitted or temporarily stored or hosted; or the intermediary does not initiate the transmission, select the receiver of the transmission, and select or modify the information contained in the transmission and the intermediary observes due diligence while discharging his duties under the Act .The amended Section 79 of the IT Act ( yet to be enforced) provides that intermediaries will be held liable if the intermediary has conspired or abetted or aided or induced, whether by threats or promise or otherwise in the commission of the unlawful act; or upon receiving actual knowledge, or on being notified by the appropriate Government or its agency that any information, data or communication link residing in or connected to a computer resource controlled by the intermediary is being used to commit the unlawful act, the intermediary fails to expeditiously remove or disable access to that material on that resource without vitiating the evidence in any manner.
+
+U.S Courts have ruled in some decisions that an ISP may be held liable incase of defamation, copyright infringement, child pornography, false advertisement or fraudulent misrepresentation by facilitating distribution of such material[3].However, passage of communications Decency Act 1996, particularly Section 230 (c)(1) has thrown more light on the issue and it aims to restrict the scope of liability of network service providers. In Zeran v America Online Inc[4], court held “Congress enacted Section 230to remove disincentives to selfregulation fearing that the specter of liability would deter service providers from blocking and screening offensive material. Section 230 forbid the imposition of publisher liability on a service provider for the exercise of its editorial and self regulatory functions”. In Doe v America Online , Inc[5] , the plaintiff sued AOL for allowing a subscriber named Russell to use its chatrooms for marketing videotapes and photographs consisting of child pornography in which plaintiff’s minor son appeared. The complaint alleged that AOL was negligent per se in allowing Russell to use its facilities for criminal distribution of obscene materials and it was negligent on common law principles. It was alleged that AOL had received complaints about Russell’s use of its facilities for unlawful purposes but that AOL neither warned Russell nor suspended his service. The Supreme Court of Florida held that Section 230 immunised AOL from liability for negligence based on a subscriber’s use of its facility to distribute child pornography. However, this unqualified immunity is lost if it either provides proprietary content or knowingly distributes the unlawful content. Therefore, Section 230 creates federal immunity to any cause of action that would make service providers liable for information originating with a third party user of the service[6]. In U.K strict rules on ISP’s liability exist.
+In Godfrey v Demon Internet ltd[7], the defendant ISP carried a newsgroup ‘soc.culture.thai.’ and stored postings for few days. Some one unknown in US made a defamatory posting about a U.K citizen who complained to remove the posting which remained displayed for long .The court held that Demon was informed of publishing a defamatory matter and he neither took reasonable steps to remove content and nor can be said to have no knowledge of the same. Hence, he could not escape liability under UK defamation Act 1996.
+
+
+
+_______________________________________________________
+[1] Knowledge here means actual or constructive knowledge of contents of the material which would put a reasonable person on notice
+
+[2] Section 79- Explanation- For the purpose of this section –
+(a)	“network service provider” means an intermediary;
+(b)	“Third party information” means any information dealt with by a network service or provider in his capacity as an intermediary.
+
+[3] See United States v. X .Citement Videos, 115 S.Ct. 464 (1994); Playboy Enterprises, Inc v. Frena, 839 F. Supp. 1552 (M.D. Fla 1993); See also Intellectual Property and the National Information Infrastructure: The Report of the Working Group on Intellectual Property Rights (Sept. 1995); Mark A. Lemley, “ The Economics of Improvement Intellectual Property Law”, 75 Tex. L. Rev. 989 (1997); Martin H. Samson, “ Trademark Lawsuits in Cyberspace”, N.Y.L.J., Dec. 2, 1996, at S10; Alan J. Hartnick, “ Copyright & Trademark on the Internet” (visited Oct. 23, 1997) Alan J. Hartnick, “ Copyright & Trademark on the Internet And Where to Sue”, N.Y.L.J., Feb. (1997).
+
+[4] 129F.3d 327,330-31(4th Cir. 1997)
+
+[5] 783 So.2d 1010 ( Fla. 2001)
+
+[6] See also Ben Ezra, Weinstein & Co v America online inc 206F.3d 980 (10th Cir.2000 ) and Schneider v Amazon.com,Inc 31P.3d 37(Was.Ct.App.2001). see EUDirective (2000/31/EC, dated June 8,2000) which is consistent with S.230 of Communications Decency Act,1996:Articles 12,13,14. ISP is not liable incase of automatic , intermediate and transient storage of information transmitted if storage is for purpose of transmission.ISP is not liable if provider has no actual knowledge of illegal activity or information or on gaining such knowledge acts expeditiously to remove unlawful content.
+
+[7] 4 AllER342High Court
+
+
+The Book - Potection of children on internet by Karnika Seth
+Computers, Internet and New Technology Laws by Karnika Seth
+Video Gallery
+Press Room
+Blog
+Free App on Cyber Law
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+As the intermediary we only provide
+information made available by third parties is hosted by us only.But consumers are filing cases against us for non availability of certain channels.Please take necessary steps to free us of all charges.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:1
+Sub: 
+Sir,
+As the intermediary we only provide
+information made available by third parties is transmitted to our consumers.But consumers are filing cases against us.Please take necessary steps to free us of all charges.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+A case was filed against me by a consumer of my services.I provide local cable tv channels to my customers.One of my customer filed a case against me because of the non availability of certain channels.Actually I act as the intermediary btw the  main channel agaency and its consumers.Please consider this letter and take necessary actions
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+The introduction of the internet has brought tremendous changes to our lives. People of all fields are increasingly using the computers to create, transmit and store information in the electronic form instead of the traditional papers, documents. Information stored in electronic forms has many advantages, it is cheaper, easier to store, easier to retrieve and for speedier to connection. Though it has many advantages, it has been misused by many people in order to gain themselves or for the sake or otherwise to harm others. The high and speedier connectivity to the world from any place has developed many crimes and these increased offenses led to the need for a law for protection. Some countries have been rather been vigilant and formed some laws governing the net. In order to keep in pace with the changing generation, the Indian parliament passed the law – Information Technology Act, 2000.[i] The IT Act 2000 has been conceptualized on the United Nations Commissions on International Trade Law (UNCITRAL) model law[ii].
+
+    The Government of India enacted its Information Technology Act, 2000 with the objectives stating officially as: “to provide legal recognition for transactions carried out by means of electronic data interchange and other means of electronic communication, commonly referred to as “electronic commerce”, which involve the use of alternatives to paper-based methods of communication and storage of information, to facilitate electronic filing of documents with the Government agencies and further to amend the Indian Penal Code, the Indian Evidence Act, 1872, the Bankers Books Evidence Act, 1891 and the Reserve Bank of India Act, 1934 and for matters connected therewith or incidental thereto.” [iii]
+
+CYBERCRIME
+Cybercrime is a generic term that refers to all criminal activities done using the medium of computers, the Internet, cyberspace and the worldwide web. Computer crime, or Cybercrime, refers to any crime that involves a computer and a network.[iv] The computer may have been used in the commission of a crime, or it may be the target.[v] Netcrime is criminal exploitation of the Internet.[vi]
+
+Dr. Debarati Halder and Dr. K. Jaishankar (2011) define Cybercrimes as: “Offences that are committed against individuals or groups of individuals with a criminal motive to intentionally harm the reputation of the victim or cause physical or mental harm to the victim directly or indirectly, using modern telecommunication networks such as Internet (Chat rooms, emails, notice boards and groups) and mobile phones (SMS/MMS)”.[vii] Such crimes may threaten a nation’s security and financial health.[viii] Issues surrounding these types of crimes have become high-profile, particularly those surrounding cracking, copyright infringement, child pornography, and child grooming. There are also problems of privacy when confidential information is lost or intercepted, lawfully or otherwise.
+
+An Australian nationwide survey conducted in 2006 found that two in three convicted cyber-criminals were between the ages of 15 and 26.
+
+Internationally, both governmental and non-state actors engage in cybercrimes, including espionage, financial theft, and other cross-border crimes. Activity crossing international borders and involving the interests of at least one nation-state is sometimes referred to as cyber warfare. The international legal system is attempting to hold actors accountable for their actions through the International Criminal Court.[ix]
+
+A report (sponsored by McAfee) estimates the annual damage to the global economy at $445 billion.[x]
+
+There isn’t really a fixed definition for cybercrime. The Indian Law has not given any definition to the term ‘cybercrime’. In fact, the Indian Penal Code does not use the term ‘cybercrime’ at any point even after its amendment by the Information Technology (Amendment) Act 2008, the Indian Cyberlaw. But “Cyber Security” is defined under Section (2) (b) means protecting information, equipment, devices computer, computer resource, communication device and information stored therein from unauthorized access, use, disclosure, disruption, modification or destruction.[xi]
+
+Cyber Crime is not defined officially in the IT Act or in any other legislation. In fact, it cannot be too. Offense or crime has been dealt with elaborately listing various acts and the punishments for each, under the Indian Penal Code, 1860 and related legislation. Hence, the concept of cybercrime is just a “combination of crime and computer”.
+
+Cybercrime in a narrow sense (computer crime): Any illegal behavior directed by means of electronic operations that targets the security of computer systems and the data processed by them.[xii]
+
+Cybercrime in a broader sense (computer-related crime):
+
+Any illegal behavior committed by means of, or in relation to, a computer system or network, including such crimes as illegal possession and offering or distributing information by means of a computer system or network.
+Any contract for the sale or conveyance of immovable property or any interest in such property;
+Any such class of documents or transactions as may be notified by the Central Government Confidential.
+CLASSIFICATION OF CYBER OFFENCES
+The increased rate of technology in computers has led to the enactment of Information Technology Act 2000. The converting of the paperwork into electronic records, the storage of the electronic data, has tremendously changed the scenario of the country.[xiii]
+
+Offenses: Cyber offenses are the unlawful acts which are carried in a very sophisticated manner in which either the computer is the tool or target or both. Cybercrime usually includes:
+
+(a) Unauthorized access of the computers (b) Data diddling (c) Virus/worms attack (d) Theft of computer system (e) Hacking (f) Denial of attacks (g) Logic bombs (h) Trojan attacks (i) Internet time theft (j) Web jacking (k) Email bombing  (l) Salami attacks (m) Physically damaging computer system.
+
+The offenses included in the IT Act 2000 are as follows[xiv]:
+
+Tampering with the computer source documents.
+Hacking with computer system.
+Publishing of information which is obscene in electronic form.
+Power of Controller to give directions
+Directions of Controller to a subscriber to extend facilities to decrypt information
+Protected system
+Penalty for misrepresentation
+Penalty for breach of confidentiality and privacy
+Penalty for publishing Digital Signature Certificate false in certain particulars
+Publication for fraudulent purpose
+Act to apply for offense or contravention committed outside India
+Confiscation
+Penalties or confiscation not to interfere with other punishments.
+Power to investigate offenses.
+Offenses UNDER THE IT ACT, 2000
+1. Tampering with computer source documents:
+Section 65 of this Act provides that Whoever knowingly or intentionally conceals, destroys or alters or intentionally or knowingly causes another to conceal, destroy or alter any computer source code used for a computer, computer Programme, computer system or computer network, when the computer source code is required to be kept or maintained by law for the being time in force, shall be punishable with imprisonment up to three year, or with fine which may extend up to two lakh rupees, or with both.
+
+Explanation: 
+For the purpose of this section “computer source code” means the listing of programmes, computer commands, design and layout and programme analysis of computer resource in any form.
+
+Object:
+The object of the section is to protect the “intellectual property” invested in the computer. It is an attempt to protect the computer source documents (codes) beyond what is available under the Copyright Law.
+
+This section extends towards the Copyright Act and helps the companies to protect the source code of their programmes.
+
+Section 65 is tried by any magistrate. This is cognizable and non- bailable offense.
+
+Imprisonment up to 3 years and or Fine up to Two lakh rupees.
+
+CASE LAWS
+Frios v. State of Kerela[xvi]:
+Facts: In this case, it was declared that the FRIENDS application software as a protected system. The author of the application challenged the notification and the constitutional validity of software under Section 70. The court upheld the validity of both.
+It included tampering with source code. Computer source code the electronic form, it can be printed on paper.
+
+Held: The court held that Tampering with Source code is punishable with three years jail and or two lakh rupees fine of rupees two lakh rupees for altering, concealing and destroying the source code.
+
+Syed Asifuddin case[xvii]:
+
+Facts: In this case, the Tata Indicom employees were arrested for manipulation of the electronic 32- bit number (ESN) programmed into cell phones theft were exclusively franchised to Reliance Infocom.
+Held: Court held that Tampering with source code invokes Section 65 of the Information Technology Act.
+
+Parliament Attack Case:
+Facts: In this case, several terrorists attacked Parliament House on 13 December 2001. In this Case, the Digital evidence played an important role during their prosecution. The accused argued that computers and evidence can easily be tampered and hence, should not be relied.
+In Parliament case, several smart device storage disks and devices, a Laptop was recovered from the truck intercepted at Srinagar pursuant to information given by two suspects. The laptop included the evidence of fake identity cards, video files containing clips of the political leaders with the background of Parliament in the background shot from T.V news channels. In this case design of Ministry of Home Affairs car sticker, there was game “wolf pack” with user name of ‘Ashiq’, there was the name in one of the fake identity cards used by the terrorist. No back up was taken. Therefore, it was challenged in the Court.
+
+Held: Challenges to the accuracy of computer evidence should be established by the challenger. Mere theoretical and generic doubts cannot be cast on the evidence.
+
+2. Hacking with the computer system:
+Section 66 provides that-  (1) Whoever with the intent to cause or knowing that he is likely to cause wrongful loss or damage to the public or any person destroys or deletes or alters any information residing in a computer resource or diminishes its value or utility or affects it injuriously by any means, commits hacking.
+
+(2) Whoever commits hacking shall be punished with imprisonment up to three years, or with fine which may extend up to two lakh rupees, or with both.
+
+Explanation: The section tells about the hacking activity.
+
+Punishment: Imprisoned up to three years and fine which may extend up to two lakh rupees Or with both.
+
+CASE LAWS
+R v. Gold & Schifreen[xviii]:
+In this case, it is observed that the accused gained access to the British telecom Prestl Gold computers networks file amount to dishonest trick and not a criminal offense.
+
+R v. Whiteley[xix]:
+In this case, the accused gained unauthorized access to the Joint Academic Network (JANET) and deleted, added files and changed the passwords to deny access to the authorized users.
+The perspective of the section does not merely protect the information but to protect the integrity and security of computer resources from attacks by unauthorized person seeking to enter such resource, whatever may be the intention or motive.
+
+Cases Reported In India:
+Official website of Maharastra government hacked. The official website of the government of Maharashtra was hacked by Hackers Cool Al- Jazeera, and claimed them they were from Saudi Arabia.
+
+3. Publishing of obscene information in electronic form:
+Section 67 of this Act provides that Whoever publishes or transmits or causes to be published in the electronic form, any material which is lascivious or appeals to the prurient interest or if its effect is such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstance, to read see or hear the matter contained or embodied in it, shall be punished on first conviction with imprisonment of either description for a term which may extend to five years and with fine which may extend to one lakh rupees and in the event of a second or subsequent conviction with imprisonment of either description for a term which may extend to ten years and also with fine which may extend to two lakh rupees.
+
+CASE LAWS:
+The State of Tamil Nadu v. Suhas Katti.
+Facts: This case is about posting obscene, defamatory and annoying message about a divorcee woman in the Yahoo message group. E-mails were forwarded to the victim for information by the accused through a false e-mail account opened by him in the name of the victim. These postings resulted in annoying phone calls to the lady. Based on the complaint police nabbed the accused. He was a known family friend of the victim and was interested in marrying her. She married to another person, but that marriage ended in divorce and the accused started contacting her once again. And her reluctance to marry him he started harassing her through the internet.[xx]
+
+Held: The accused is found guilty of offenses under section 469, 509 IPC and 67 of the IT Act 2000 and the accused is convicted and is sentenced for the offense to undergo RI for 2 years under 469 IPC and to pay fine of Rs.500/-and for the offense u/s 509 IPC sentenced to undergo 1 year Simple imprisonment and to pay fine of Rs.500/- and for the offense u/s 67 of IT Act 2000 to undergo RI for 2 years and to pay fine of Rs.4000/- All sentences to run concurrently.”
+
+The accused paid fine amount and he was lodged at Central Prison, Chennai. This is considered the first case convicted under section 67 of Information Technology Act 2000 in India.
+
+In a recent case, a groom’s family received numerous emails containing defamatory information about the prospective bride. Fortunately, they did not believe the emails and chose to take the matter to the police. The sender of the emails turned out to be the girl’s step-father, who did not want the girl to get married, as he would have lost control over her property, of which he was the legal guardian.
+
+Avnish Bajaj (CEO of bazzee.com – now a part of the eBay group of companies) case.
+Facts: There were three accused first is the Delhi schoolboy and IIT Kharagpur Ravi Raj and the service provider Avnish Bajaj.
+
+The law on the subject is very clear. The sections slapped on the three accused were Section 292 (sale, distribution, public exhibition, etc., of an obscene object) and Section 294 (obscene acts, songs, etc., in a public place) of the Indian Penal Code (IPC), and Section 67 (publishing information which is obscene in electronic form) of the Information Technology Act 2000. In addition, the schoolboy faces a charge under Section 201 of the IPC (destruction of evidence), for there is apprehension that he had destroyed the mobile phone that he used in the episode. These offenses invite a stiff penalty, namely, imprisonment ranging from two to five years, in the case of a first-time conviction, and/or fines.
+
+Held: In this case, the Service provider Avnish Bajaj was later acquitted and the Delhi schoolboy was granted bail by Juvenile Justice Board and was taken into police charge and detained into Observation Home for two days.
+
+4. Power of Controller to give directions:
+Section 68 of this Act provides that (1) The Controller may, by order, direct a Certifying Authority or any employee of such Authority to take such measures or cease carrying on such activities as specified in the order if those are necessary to ensure compliance with the provisions of this Act, rules or any regulations made thereunder.
+
+(2) Any person who fails to comply with any order under sub-section (1) shall be guilty of an offense and shall be liable on conviction to imprisonment for a term not exceeding three years or to a fine not exceeding two lakh rupees or to both.
+
+Explanation: Any person who fails to comply with any order under subsection (1) of the above section, shall be guilty of an offense and shall be convicted for a term not less than three years or to a fine exceeding two lakh rupees or to both.
+
+The offense under this section is non-bailable & cognizable.
+
+Punishment: Imprisonment up to a term not exceeding three years or fine not exceeding two lakh rupees.
+
+5. Directions of Controller to a subscriber to extend facilities to decrypt information:
+Section 69  provides that-  (1) If the Controller is satisfied that it is necessary or expedient so to do in the interest of the sovereignty or integrity of India, the security of the State, friendly relations with foreign States or public order or for preventing incitement to the commission of any cognizable offense; for reasons to be recorded in writing, by order, direct any agency of the Government to intercept any information transmitted through any computer resource.
+
+(2) The subscriber or any person in charge of the computer resource shall, when called upon by any agency which has been directed under sub-section (1), extend all facilities and technical assistance to decrypt the information.
+
+(3) The subscriber or any person who fails to assist the agency referred to in subsection shall be punished with imprisonment for a term which may extend to seven years.
+Punishment: Imprisonment for a term which may extend to seven years. The offense is cognizable and non- bailable.
+
+6. Protected System:
+Section 70 of this Act provides that –
+
+(1) The appropriate Government may, by notification in the Official Gazette, declare that any computer, computer system or computer network to be a protected system.
+(2) The appropriate Government may, by order in writing, authorize the persons who are authorized to access protected systems notified under sub-section (1).
+(3) Any person who secures access or attempts to secure access to a protected system in contravention of the provision of this section shall be punished with imprisonment of either description for a term which may extend to ten years and shall also be liable to fine.
+
+Explanation: This section grants the power to the appropriate government to declare any computer, computer system or computer network, to be a protected system. Only authorized person has the right to access to protected system.
+
+Punishment: The imprisonment which may extend to ten years and fine.
+
+7. Penalty for misrepresentation:
+Section 71 provides that- (1) Whoever makes any misrepresentation to, or suppresses any material fact from, the Controller or the Certifying Authority for obtaining any license or Digital Signature Certificate, as the case may be, shall be punished with imprisonment for a term which may extend to two years, or which fine which may extend to one lakh rupees, or with both.
+
+Punishment: Imprisonment which may extend to two years or fine may extend to one lakh rupees or with both.
+
+8. Penalty for breach of confidentiality and privacy:
+Section 72 provides that- Save as otherwise provide in this Act or any other law for the time being in force, any person who, in pursuance of any of the powers conferred under this Act, rules or regulation made thereunder, has secured assess to any electronic record, book, register, correspondence, information, document or other material without the consent of the person concerned discloses such material to any other person shall be punished with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both.
+
+Explanation: This section relates to any person who in pursuance of any of the powers conferred by the Act or it allied rules and regulations have secured access to any: Electronic record, books, register, correspondence, information, document, or other material.
+
+If such a person discloses such information, he will be punished. It would not apply to disclosure of personal information of a person by a website, by his email service provider.
+
+Punishment: Term which may extend to two years or fine up to one lakh rupees or with both.
+
+9. Penalty for publishing Digital Signature Certificate false in certain particulars:
+Section 73 provides that – (1) No person shall publish a Digital Signature Certificate or otherwise make it available to any other person with the knowledge that-
+
+(a) The Certifying Authority listed in the certificate has not issued it; or
+(b) The subscriber listed in the certificate has not accepted it; or
+(c) The certificate has been revoked or suspended unless such publication is for the purpose of verifying a digital signature created prior to such suspension or revocation.
+(2) Any person who contravenes the provisions of sub-section (1) shall be punished with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both.
+
+Explanation: The Certifying Authority listed in the certificate has not issued it or, The subscriber listed in the certificate has not accepted it or the certificate has been revoked or suspended.
+
+The Certifying authority may also suspend the Digital Signature Certificate if it is of the opinion that the digital signature certificate should be suspended in public interest.
+
+A digital signature may not be revoked unless the subscriber has been given opportunity of being heard in the matter. On revocation, the Certifying Authority need to communicate the same with the subscriber. Such publication is not an offense it is the purpose of verifying a digital signature created prior to such suspension or revocation.
+
+Punishment:  Imprisonment of a term of which may extend to two Years or fine may extend to 1 lakh rupees or with both.
+
+CASE LAWS:
+Bennett Coleman & Co. v. Union of India[xxi]
+In this case, the publication has been stated that ‘publication means dissemination and circulation’. In the context of the digital medium, the term publication includes and transmission of information or data in electronic form.
+
+10. Publication for fraudulent purpose:
+Section 74 provides that- Whoever knowingly creates, publishes or otherwise makes available a Digital Signature Certificate for any fraudulent or unlawful purpose shall be punished with imprisonment for a term which may extend to two years, or with fine which extends to one lakh rupees, or with both.
+
+Explanation: This section prescribes punishment for the following acts:
+
+Knowingly creating a digital signature certificate for any
+
+fraudulent purpose or,
+unlawful purpose.
+Knowingly publishing a digital signature certificate for any
+
+fraudulent purpose or
+unlawful purpose
+Knowingly making available a digital signature certificate for any
+
+fraudulent purpose or
+unlawful purpose.
+Punishment: Imprisonment for a term up to two years or fine up to one lakh or both.
+
+11. Act to apply for offense or contravention committed outside India:
+Section 75 provides that-  (1) Subject to the provisions of sub-section (2), the provisions of this Act shall apply also to any offense or contravention committed outside India by any person irrespective of his nationality.
+
+For the purposes of sub-section (1), this Act shall apply to an offense or
+Contravention committed outside India by any person if the act or conduct constituting the offense or contravention involves a computer, computer system or computer network located in India.
+
+Explanation: This section has a broader perspective including cyber crime, committed by cyber criminals, of any nationality, any territoriality.
+
+CASE LAW:
+R v. Governor of Brixton prison and another[xxii]
+
+Facts: In this case the Citibank faced the wrath of a hacker on its cash management system, resulting in illegal transfer of funds from customers account into the accounts of the hacker, later identified as Valdimer Levin and his accomplices. After Levin was arrested he was extradited to the United States. One of the most important issues was the jurisdictional issue, the ‘place of origin’ of cyber crime.
+
+Held: The Court held that the real-time nature of the communication link between Levin and Citibank computer meant that Levin’s keystrokes were actually occurring on the Citibank computer. It is thus important that in order to resolve the disputes related to jurisdiction, the issue of territoriality and nationality must be placed by much broader criteria embracing principles of reasonableness and fairness to accommodate overlapping or conflicting interests of states, in spirit of universal jurisdiction.
+
+12. Confiscation:
+
+Section 76 provides that-  Any computer, computer system, floppies, compact disks, tape drives or any other accessories related thereto, in respect of which any provisions of this Act, rules, orders or regulations made thereunder has been or is being contravened, shall be liable to confiscation. :
+
+Provided that where it is established to the satisfaction of the court adjudicating the confiscation that the person in whose possession, power or control of any such computer, computer system, floppies, compact disks, tape drives or any other accessories relating thereto is found is not responsible for the contravention of the provisions of this Act, rules orders or regulations made thereunder, the court may, instead of making an order for confiscation of such computer, computer system, floppies, compact disks, tape drives or any other accessories related thereto, make such other order authorized by this Act against the person contravening of the provisions of this Act, rules, orders or regulations made thereunder as it may think fit.
+
+Explanation: The aforesaid section highlights that all devices whether computer, computer system, floppies, compact disks, tape drives or any other storage, communication, input or output device which helped in the contravention of any provision of this Act, rules, orders, or regulations made under there under liable to be confiscated.
+
+13. Penalties or confiscation not to interfere with other punishments:
+
+Section 77 provides that –  No penalty imposed or confiscation made under this Act shall prevent the imposition of any other punishment to which the person affected thereby is liable under any other law for the time being in force.
+
+Explanation: The aforesaid section lays down a mandatory condition, which states the Penalties or confiscation not to interfere with other punishments to which the person affected thereby is liable under any other law for the time being in force.
+
+Power to investigate offenses:
+
+Section 78 provides that – Notwithstanding anything contained in the Code of Criminal Procedure, 1973, a police officer not below the rank of Deputy Superintendent of Police shall investigate any offense under this Act.
+
+CONCLUSION
+Due to the increase in digital technology, various offenses are increasing day by day. Therefore, the IT Act 2000 need to be amended in order to include those offenses which are now not included in the Act.  In India, cybercrime is not of high rate. Therefore, we have time in order to tighten the cyber laws and include the offenses which are now not included in the IT Act 2000.[xxiii]
+
+Since the beginning of civilization, man has always been motivated by the need to make progress and better the existing technologies. This has led to tremendous development and progress which has been a launching pad for further developments. Of all the significant advances made by mankind from the beginning to date, probably the most important of them is the development of the Internet.
+
+However, the rapid evolution of the Internet has also raised numerous legal issues and questions. As the scenario continues to be still not clear, countries throughout the world are resorting to different approaches towards controlling, regulating and facilitating electronic communication and commerce.
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+The person whose address provided below dishonestly retained a  stolen
+communication device and used it to offend others in his college.The communication device was stolen from one of his classmates itself.
+
+
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+The person whose address provided below used  electronic mail for the purpose of causing inconvenience to the faculties in his college.He used images which insulted the faculties.
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+The person whose address provided below tampered with computer source documents in the school he studied.He tried to change his marks from the computer system by altering the source code.
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+43. Penalty for damage to computer, computer system, etc.-
+If any person without permission of the owner or any other person who is in charge of a computer, computer system or computer network,- accesses or secures access to such computer, computer system or computer network downloads, copies or extracts any data, computer data base information from such computer, computer system or computer network including information or data held or stored in any removable storage medium.
+
+
+
+
+ 
+Introduces or causes to be introduced any computer contaminant or computer virus into any computer, computer system or computer network;
+
+damages or causes to be damaged and computer, computer system or computer network, data, computer database or any other programmes residing in such computer, computer system or computer network;
+
+disrupts or causes disruption of any computer, computer system or computer network;
+
+denies or causes the denial of access to any person authorised to access any computer, computer system or computer network by any means;
+
+provides any assistance to any person to facilitate access to a computer, computer system or computer network in contravention of the provisions of this Act, rules or regulations made thereunder;
+
+charges the services availed of by a person to the account of another person by tampering with or manipulating any computer, computer system or compute network he shall be liable to pay damages by way of compensation not exceeding one crore rupees to the person so affected.
+
+Explanation.-For the purposes of this section.- (i) “computer contaminant” means any set of computer instructions that are designed –
+
+(a) to modify, destroy, record, transmit date or programme residing within a computer, computer system or computer network; or
+
+(b) by any means to usurp the normal operation of the computer, compute system, or computer network;
+
+(ii) “computer database” means a representation of information,
+
+knowledge, facts, concepts or instructions in text, image, audio, video that are being prepared or have been prepare in a formalised manner or have been produced by a computer, computer system or computer network and are intended for use in a computer, computer system or computer network;
+
+(iii) “computer virus” means any computer instruction, information, data or programme that destroys, damages, degrades adversely affects the performance of a computer resources or attaches itself to another itself to another computer resources and operates when a programme, date or instruction is executed or some other even takes place in that computer resource;
+
+(iv) “damage” means to destroy, alter, delete, add, modify or re-arrange any computer resource by any means.
+
+44. Penalty for failure to furnish information, return, etc.-
+If any person who is required under this Act or any rules or regulations made thereunder to- (a) furnish any document, return or report to the Controller or the Certifying Authority fails to furnish the same, he shall be liable to a penalty not exceeding one lakh and fifty thousand rupees for each such failure;
+
+(b) file any return or furnish any information, books or other documents within the time specified therefor in the regulations fails to file return or furnish the same within the time specified therefor in the regulations, he shall be liable to a penalty not exceeding five thousand rupees for every day during which such failure continues;
+
+(c) maintain books of account or records fails to maintain the same, he shall be liable to a penalty no exceeding ten thousand rupees for every day during which the failure continues.
+
+45. Residuary penalty.-
+Whoever contravenes any rules or regulations made under this Act, for the contravention of which no penalty has been separately provided, shall be liable to pay a compensation not exceeding twenty-five thousand rupees to the person affected by such contravention or a penalty not exceeding twenty-five thousand rupees.
+
+46. Power to adjudicate. –
+(1) For the purpose of adjudging under this Chapter whether any person has committed a contravention of any of the provisions of this Act or of any rule, regulation, direction or order made thereunder the Central
+
+
+Start your own law firm? PathLegal Branding
+
+
+Government shall, subject to the provisions of sub section (3), appoint any officer not below the rank of a Director to the Government of India or an equivalent officer of a State Government to be an adjudicating officer for holding an inquiry in the manner prescribed by the Central Government .
+
+(2) The adjudicating officer shall, after giving the person referred to in sub-section (1) a reasonable opportunity for making representation in the matter and if, on such inquiry, he is satisfied that the person has committed the contravention, he may impose such penalty or award such compensation as he thinks fit in accordance with the provisions of that section.
+
+(3) No person shall be appointed as an adjudicating officer unless he possesses such experience in the filed of Information Technology and legal or judicial experience as may be prescribed by the Central Government.
+
+(4) Where more than one adjudicating officers are appointed, the Central Government shall specify by order the matters and places with respect to which such officers shall exercise their jurisdiction.
+
+(5) Every adjudicating officer shall have the powers of a civil court which are conferred on the Cyber Appellate Tribunal under sub-section (2) of section (2) of section 58, and-
+
+(a) all proceedings before it shall be deemed to be judicial proceedings within the meaning of section 193 and 228 of the Indian Penal Code (45 of 1860);
+
+(b) shall be deemed to be a civil court for the purpose of section 345 and 346 of the Code of Criminal Procedure, 1973 (2 of 1974).
+
+
+
+
+ 
+47. Factors to be taken into account by the adjudicating officer. –
+While adjudging the quantum of compensation under this Chapter, the adjudicating officer shall have due regard to the following factors, namely:-
+
+(a) the amount of gain of unfair advantage, whenever quantifiable, made as a result of the default;
+
+(b) the amount of loss caused to any person as a result of the default;
+
+(c) the repetitive nature of the default.
+
+ CHAPTER 9
+6[PENALTIES, COMPENSATION AND ADJUDICATION]
+43 S. 43. 57[Penalty and compensation] for damage to computer, computer system,
+etc.—If any person without permission of the owner or any other person who is
+incharge of a computer, computer system or computer network,—
+(a) accesses or secures access to such computer, computer system or computer
+network 58[or computer resource]
+(b) downloads, copies or extracts any data, computer data base or information
+from such computer, computer system or computer network including in- formation or data held or stored in any removable storage medium;
+(c) introduces or causes to be introduced any computer contaminant or com- puter virus into any computer, computer system or computer network;
+(d) damages or causes to be damaged any computer, computer system or com- puter network, data, computer data base or any other programmes residing
+in such computer, computer system or computer network;
+(e) disrupts or causes disruption of any computer, computer system or com- puter network;
+(f) denies or causes the denial of access to any person authorised to access any
+computer, computer system or computer network by any means;
+(g) provides any assistance to any person to facilitate access to a computer,
+computer system or computer network in contravention of the provisions of
+this Act, roles or regulations made thereunder;
+(h) charges the services availed of by a person to the account of another person
+by tampering with or manipulating any computer, computer system, or
+computer network,
+59[(i) destroys, deletes or alters any information residing in a computer resource or
+diminishes its value or utility or affects it injuriously by any means;
+(j) steal, conceals, destroys or alters or causes any person to seal, conceal, de- stroy or alter any computer source code used for a computer resource with
+an intention to cause damage;]
+60[he shall be liable to pay damages by way of compensation to the person so affected.]
+Explanation.—For the purposes of this section,—
+(i) “computer contaminant” means any set of computer instructions that are
+designed—
+(a) to modify, destroy, record, transmit data or programme residing
+within a computer, computer system or computer network; or
+(b) by any means to usurp the normal operation of the computer,
+computer system, or computer network;
+(ii) “computer database” means a representation of information, knowledge,
+facts, concepts or instructions in text, image, audio, video that are being
+prepared or have been prepared in a formalised manner or have been pro- duced by a computer, computer system or computer network and are intended
+for use in a computer, computer system or computer network;
+(iii) “computer virus” means any computer instruction, information, data or
+programme that destroys, damages, degrades or adversely affects the performance
+of a computer resource or attaches itself to another computer re- source and operates when a programme, data or instruction is executed or
+some other event takes place in that computer resource;
+(iv) “damage” means to destroy, alter, delete, add, modify or rearrange any com- puter resource by any means.
+61[(v) “computer source code” means the listing of programs, computer com- mands, design and layout and programme analysis of computer resource in
+any form.]
+S. 43A62[S. 43A. Compensation for failure to protect data.—Where a body corporate,
+possessing, dealing or handling any sensitive personal data or information in a computer
+resource which it owns, controls or operates, in negligent in implementing and maintaining
+reasonable security practices and procedures and thereby causes wrongful loss or
+wrongful gain to any person, such body corporate shall be liable to pay damages by way
+of compensation to the person so affected.
+Explanation.—For the purposes of this section,—
+(i) “body corporate” means any company and includes a firm, sole proprietorship
+or other association of individuals engaged in commercial or profes- sional activities;
+(ii) “reasonable security practices and procedures” means security practices and
+procedures designed to protect such information from unauthorised access,
+damage, use modification, disclosure or impairment, as may be specified in
+an agreement between the parties or as may be specified in any law for the
+time being in force and in the absence of such agreement or any law, such
+reasonable security practices and procedures, as may be prescribed by the
+Central Government in consultation with such professional bodies or asso- ciations as it may deem fit;
+(iii) “sensitive personal data or information” means such personal information as
+may be prescribed by the Central Government in consultation with such
+professional bodies or associations as it may deem fit.]
+44 S. 44. Penalty for failure to furnish information, return, etc.—If any person who
+is required under this Act or any rules or regulations made thereunder to—
+(a) furnish any document, return or report to the Controller or the Certifying
+Authority fails to furnish the same, he shall be liable to a penalty not exceeding
+one lakh and fifty thousand rupees for each such failure;
+(b) file any return or furnish any information, books or other documents within
+the time specified therefor in the regulations fails to file return or furnish the
+same within the time specified therefore in the regulations, he shall be liable
+to a penalty not exceeding five thousand rupees for every day during which
+such failure continues;
+(c) maintain books of account or records fails to maintain the same, he shall be
+liable to a penalty not exceeding ten thousand rupees for every day during
+which the failure continues.
+45 S. 45. Residuary penalty.—Whoever contravenes any rules or regulations made un- der this Act, for the contravention of which no penalty has been separately provided,
+shall be liable to pay a compensation not exceeding twenty-five thousand rupees to the
+person affected by such contravention or a penalty not exceeding twenty-five thousand
+rupees.
+46 S. 46. Power to adjudicate.—(1) For the purpose of adjudging under this Chapter
+whether any person has committed a contravention of any of the provisions of this Act
+or of any rule, regulation, 63[direction or order made thereunder which renders him lia- ble to pay penalty or compensation] the Central Government shall, subject to the provisions
+of sub-section (3), appoint any officer not below the rank of a Director to the
+Government of India or an equivalent officer of a State Government to be an adjudicating
+officer for holding an inquiry in the manner prescribed by the Central Government.
+64[(1A) The adjudicating officer appointed under sub-section (1) shall exercise jurisdiction
+to adjudicate matters in which the claim for injury or damage does not exceed rupees five
+crore:
+Provided that the jurisdiction in respect of the claim for injury or damage exceeding ru- pees five crore shall vest with the competent court.]
+(2) After giving the person referred to in sub-section (1) a reasonable opportunity for making
+representation in the matter and if, on such inquiry, he is satisfied that the person has
+committed the contravention, he may impose such penalty or award such compensation as
+he thinks fit in accordance with the provisions of that section.
+(3) No person shall be appointed as an adjudicating officer unless he possesses such
+experience in the field of Information Technology and legal or judicial experience as
+may be prescribed by the Central Government.
+(4) Where more than one adjudicating officers are appointed, the Central Government
+shall specify by order the matters and places with respect to which such officers shall
+exercise their jurisdiction.
+(5) Every adjudicating officer shall have the powers of a civil court which are con- ferred on the Cyber Appellate Tribunal under sub-section (2) of section 58, and—
+(a) all proceedings before it shall be deemed to be judicial proceedings within
+the meaning of sections 193 and 228 (45 of 1860) of the Indian Penal Code;
+(b) shall be deemed to be a civil court for the purposes of sections 345 and 346 of
+the Code of Criminal Procedure, 1973 (2 of 1974).
+65[(c) shall be deemed to be a civil court for purposes of Order XXI of the Civil Pro- cedure Code, 1908 (5 of 1908).]
+47 S. 47. Factors to be taken into account by the adjudicating officer.—While adjudging
+the quantum of compensation under this Chapter, the adjudicating officer shall have
+due regard to the following factors, namely—
+(a) the amount of gain of unfair advantage, wherever quantifiable, made as a
+result of the default;
+(b) the amount of loss caused to any person as a result of the default;
+(c) the repetitive nature of the default.
+Introduction of virus into system
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and a person had secured access to our computer system and computer
+network without our permission. She has introduced or caused to be introduced any computer contaminant or computer virus into our computer, computer system or computer network
+She has also caused damages or caused to be damaged our computer system and computer network, data, computer data base and other programmes residing
+in our computer system and computer network.
+I request you to take legal action against the said person at the earliest.
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+Hacking of system
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and a person had secured access to our computer system and computer
+network without our permission. He has downloaded, copied and extracted our personal data, computer data base and information
+from such computer, computer system or computer network including information or data held or stored in any removable storage medium.
+
+
+I request you to take legal action against the said person at the earliest.
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+Hacking of system and deleting information
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and a person had secured access to our computer system and computer
+network without our permission.She has destroyed, deleted and altered information residing in the computer resource and
+diminished its value or utility and affected it injuriously.She has also stole, concealed, destroyed and altered the computer resource with
+an intention to cause damage.
+
+I request you to take legal action against the said person at the earliest.
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+Secure Electronic Records and Secure Digital Signatures
+14. Secure electronic record.
+
+Where any security procedure has been applied to an electronic record at a specific point of time. then such record shall be deemed to be a secure electronic record from such point of time to the time of verification.
+
+15. Secure digital signature.
+
+If, by application of a security procedure agreed to by the parties concerned, it can be verified that a digital signature, at the time it was affixed, was-
+
+unique to the subscriber affixing it.
+capable of identifying such subscriber.
+created in a manner or using a means under the exclusive control of the subscriber and is linked to the electronic record to which it relates in such a manner that if the electronic record was altered the digital signature would be invalidated.
+then such digital signature shall be deemed to be a secure digital signature.
+
+16. Security procedure.
+
+The Central Government shall for the purposes of this Act prescribe the security procedure having regard to commercial circumstances prevailing at the time when the procedure was used, including-
+
+the nature of the transaction.
+the level of sophistication of the parties with reference to their technological capacity.
+the volume of similar transactions engaged in by other parties.
+the availability of alternatives offered to but rejected by any party.
+the cost of alternative procedures, and
+the procedures in general use for similar types of transactions or communications.
+
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT sections 14 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you the misuse of digital signature of our company by one of our employ.In case of our digital signature,it was our private property.
+
+
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you the misuse of electronic signature of our company by one of consumers.Our electronic signature is deemed to be a secure electronic signature.
+
+
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+To
+The DCP/SP
+Place:
+Sub: 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report you the misuse of electronic records of our company by one of our employ.Our electronic document is subjected to a protected  electronic record at the time of the start of our company itself.  
+I request you to take legal action against the said person at the earliest.
+
+
+The name and address of the accused person is as under:
+Name:
+Fathers name:
+Address;
+Contact No. :
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+Issue of Certificate
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report that the below mentioned applicant was issued the Electronic Signature Certificate out of partiality. He has not satisfied all the norms required. The applicant has not fulfilled the
+requirements with respect to qualification, expertise, manpower, financial resources and
+other infrastructure facilities, which are necessary to issue Digital Signature Certificates
+as may be prescribed by the Central Government.
+
+Please do the necessary to rectify this as soon as possible.
+
+Details of the person;
+Name:
+Address:
+
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+CHAPTER 6
+REGULATION OF CERTIFYING AUTHORITIES 17 S. 17. Appointment of Controller and other officers.—(1) The Central Govern- ment may, by notification in the Official Gazette, appoint a Controller of Certifying Authorities
+for the purposes of this Act and may also by the same or subsequent notification
+appoint such number of Deputy Controllers 30[Assistant Controllers, other officers
+and employees] as it deems fit.
+(2) The Controller shall discharge his functions under this Act subject to the general
+control and directions of the Central Government.
+(3) The Deputy Controllers and Assistant Controllers shall perform the functions- assigned to them by the Controller under the general superintendent and control of the
+Controller.
+(4) The qualifications, experience and terms and conditions of service of Controller, Deputy
+Controllers 31[Assistant Controllers, other officers and employees] shall be such as may
+be prescribed by the Central Government.
+(5) The head office and Branch Office of the office of the Controller shall be at such
+places as the Central Government may specify, and these may be established at such
+places as the Central Government may think fit.
+(6) There shall be a seal of the Office of the Controller.
+18 S. 18. Functions of Controller.—The Controller may perform all or any of the following
+functions, namely:—
+(a) exercising supervision over the activities of the Certifying Authorities;
+(b) certifying public keys of the certifying authorities;
+(c) laying down the standards to be maintained by the Certifying Authorities;
+(d) specifying the qualifications and experience which employees of the Certifying
+Authorities should possess;
+(e) specifying the conditions subject to which the Certifying Authorities shall
+conduct their business;
+CHAPTER 6
+REGULATION OF CERTIFYING AUTHORITIES 17 S. 17. Appointment of Controller and other officers.—(1) The Central Govern- ment may, by notification in the Official Gazette, appoint a Controller of Certifying Authorities
+for the purposes of this Act and may also by the same or subsequent notification
+appoint such number of Deputy Controllers 30[Assistant Controllers, other officers
+and employees] as it deems fit.
+(2) The Controller shall discharge his functions under this Act subject to the general
+control and directions of the Central Government.
+(3) The Deputy Controllers and Assistant Controllers shall perform the functions- assigned to them by the Controller under the general superintendent and control of the
+Controller.
+(4) The qualifications, experience and terms and conditions of service of Controller, Deputy
+Controllers 31[Assistant Controllers, other officers and employees] shall be such as may
+be prescribed by the Central Government.
+(5) The head office and Branch Office of the office of the Controller shall be at such
+places as the Central Government may specify, and these may be established at such
+places as the Central Government may think fit.
+(6) There shall be a seal of the Office of the Controller.
+18 S. 18. Functions of Controller.—The Controller may perform all or any of the following
+functions, namely:—
+(a) exercising supervision over the activities of the Certifying Authorities;
+(b) certifying public keys of the certifying authorities;
+(c) laying down the standards to be maintained by the Certifying Authorities;
+(d) specifying the qualifications and experience which employees of the Certifying
+Authorities should possess;
+(e) specifying the conditions subject to which the Certifying Authorities shall
+conduct their business;
+(f) specifying the contents of written, printed or visual material and advertise- ments that may be distributed or used in respect of a Digital Signature Certificate
+and the Public Key;
+(g) specifying the form and content of a Digital Signature Certificate and the
+key;
+(h) specifying the form and manner in which accounts shall be maintained by
+the Certifying Authorities;
+(i) specifying the terms and conditions subject to which auditors may be appointed
+and the remuneration to be paid to them;
+(j) facilitating the establishment of any electronic system by a Certifying Authority
+either solely or jointly with other Certifying Authorities and regulation
+of such systems;
+(k) specifying the manner in which the Certifying Authorities shall conduct their
+dealings with the subscribers;
+(l) resolving any conflict of interests between the Certifying Authorities and the
+subscribers;
+(m) laying down the duties of the Certifying Authorities;
+(n) maintaining a data-base containing of disclosure record of every Certifying
+Authority containing such particulars as may be specified by regulations,
+which shall be accessible to public.
+19 S. 19. Recognition of foreign Certifying Authorities.—(1) Subject to such conditions
+and restrictions as may be specified by regulations, the Controller may with the
+previous approval of the Central Government, and by notification in the Official Ga- zette, recognise any Foreign Certifying Authority as a Certifying Authority for the purposes
+of this Act.
+(2) Where any Certifying Authority is recognised under sub-section (1), the 32[Electronic
+Signature] Certificate issued by such Certifying Authority shall be valid for the
+purposes of this Act.
+(3) The Controller may, if he is satisfied that any Certifying Authority has contravened
+any of the conditions and restrictions subject to which it was granted recognition under
+sub-section (1) he may, for reasons to be recorded in writing, by notification in the Official
+Gazette, revoke such recognition.
+20 S. 20. Controller to act as repository.—33[* * * * *]
+21 S. 21. Licence to issue 34[Electronic Signature] Certificates.—(1) Subject to the
+provisions of sub-section (2), any person may make` an application, to the Controller,
+for a licence to issue Digital Signature Certificates.
+(2) No licence shall be issued under sub-section (7), unless the applicant fulfills such
+requirements with respect to qualification, expertise, manpower, financial resources and
+other infrastructure facilities, which are necessary to issue Digital Signature Certificates
+as may be prescribed by the Central Government.
+(3) A licence granted under this section shall—
+(a) be valid for such period as may be prescribed by the Central Government;
+(b) not be transferable or heritable;
+(c) be subject to such terms and conditions as may be specified by the regulations.
+22 S. 22. Application for Licence.—(1) Every application for issue of a licence shall be
+in such form as may be prescribed by the Central Government.
+(2) Every application for issue of a licence shall be accompanied by—
+(a) a certification practice statement;
+(b) a statement including the procedures with respect to identification of the
+applicant;
+(c) payment of such fees, not exceeding twenty-five thousand rupees as may be
+prescribed by the Central Government;
+(d) such other documents, as may be prescribed by the Central Government.
+23 S. 23. Renewal of Licence.—An application for renewal of a licence shall be—
+(a) in such form;
+(b) accompanied by such fees, not exceeding five thousand rupees,
+as may be prescribed by the Central Government and shall be made not less than forty- five days before the date of expiry of the period of validity of the licence:
+Provided that an application for the renewal of the licence made after the expiry of the
+licence may be entertained on payment of such late fee, not exceeding five hundred ru- pees, as may be prescribed.
+24 S. 24. Procedure for grant or rejection of Licence.—The Controller may, on re- ceipt of an application under sub-section (1) of section 21, after considering the docu- ments accompanying the application and such other factors, as he deems fit, grant the
+licence or reject the application:
+Provided that no application shall be rejected under this section unless the applicant has
+been given a reasonable opportunity of presenting his case.
+25 S. 25. Suspension of Licence.—(1) The Controller may, if he is satisfied after making
+such inquiry, as he may think fit, that a Certifying Authority has,—
+(a) made a statement in, or in relation to, the application for the issue or renew- al of the licence, which is incorrect or false in material particulars;
+(b) failed to comply with the terms and conditions subject to which the licence
+was granted;
+35[(c) failed to maintain the procedures and standards specified in section 30];
+(d) contravened any provisions of this Act, rule, regulation or order made there- under,
+revoke the licence:
+Provided that no licence shall be revoked unless the Certifying Authority has been given
+a reasonable opportunity of showing cause against the proposed revocation.
+(2) The Controller may, if he has reasonable cause to believe that there is any ground for
+revoking a licence under sub-section (1), by order suspend such licence pending the com- pletion of any inquiry ordered by him:
+Provided that no licence shall be suspended for a period exceeding ten days unless the
+Certifying Authority has been given a reasonable opportunity of showing cause against
+the proposed suspension.
+(3) No Certifying Authority whose license has been suspended shall issue any 36[Electronic
+Signature] Certificate during such suspension.
+26 S. 26. Notice of suspension or revocation of licence.—(1) Where the licence of
+the Certifying Authority is suspended or revoked, the Controller shall publish notice of
+such suspension or revocation, as the case may be, in the data-base maintained by him.
+(2) Where one or more repositories are specified, the Controller shall publish notices
+of such suspension or revocation, as the case may be, in all such repositories.
+Provided that the data base containing the notice of such suspension or revocation, as
+the case may be, shall be made available through a web site which shall be accessible
+round the clock:
+Provided further that the Controller may, if he considers necessary, publicise the contents
+of data base in such electronic or other media, as he may consider appropriate.
+27 S. 27. Power to delegate.—The Controller may, in writing, authorise the Deputy
+Controller, Assistant Controller or any officer to exercise any of the powers of the Controller
+under this Chapter.
+28 S. 28. Power to investigate contraventions.—(1) The Controller or any officer authorised
+by him in this behalf shall take up for investigation any contravention of the
+provisions of this Act, rules or regulations made thereunder.
+(2) The Controller or any officer authorised by him in this behalf shall exercise the like
+powers which are conferred on Income-tax authorities under Chapter XIII of the In- come-tax Act, 1961 (43 of 1961) and shall exercise such powers, subject to such limitations
+laid down under that Act.
+29 S. 29. Access to computers and data.—(1) Without prejudice to the provisions of
+sub-section (1) of section 69, the Controller or any person authorised by him shall, if he has reasonable cause to suspect that 37[any contravention of the provisions of this chapter],
+has been committed, have access to any computer system, any apparatus, data or
+any other material connected with such system, for the purpose of searching or causing
+a search to be made for obtaining any information or data contained in or available to
+such computer system.
+(2) For the purposes of sub-section (1), the Controller or any person authorised by
+him may, by order, direct any person incharge of, or otherwise concerned with the operation
+of, the computer system, data apparatus or material, to provide him with such
+reasonable technical and other assistance as he may consider necessary.
+30 S. 30. Certifying Authority to follow certain procedures.—Every Certifying Authority
+shall—
+(a) make use of hardware, software, and procedures that are secure from intru- sion and misuse:
+(b) provide a reasonable level of reliability in its services which are reasonably
+suited to the performance of intended functions;
+(c) adhere to security procedures to ensure that the secrecy and privacy of the
+38[electronic signatures] are assured; 39[* * *]
+40[(ca) be the repository of all Electronic Signature Certificates issued under this
+Act;
+(cb) publish information regarding its practices, Electronic Signature Certificates
+and current status of such certificates; and]
+(d) observe such other standards as may be specified by regulations.
+31 S. 31. Certifying Authority to ensure compliance of the Act, etc.—Every Certifying
+Authority shall ensure that every person employed or otherwise engaged by it com- plies, in the course of his employment or engagement, with the provisions of this Act,
+rules, regulations and orders made thereunder.
+32 S. 32. Display of licence.—Every Certifying Authority shall display its licence at a
+conspicuous place of the premises in which it carries on its business.
+33 S. 33. Surrender of licence.—(1) Every Certifying Authority whose licence is sus- pended or revoked shall immediately after such suspension or revocation, surrender the
+licence to the Controller.
+(2) Where any Certifying Authority fails to surrender a licence under sub-section (1),
+the person in whose favour a licence is issued, shall be guilty of an offence and shall be punished with imprisonment which may extend up to six months or a fine which may
+extend up to ten thousand rupees or with both.
+34 S. 34. Disclosure.—(1) Every Certifying Authority shall disclose in the manner specified
+by regulations—
+(a) its 41[Electronic Signatures] Certificate 42[* * *]
+(b) any certification practice statement relevant thereto;
+(c) notice of the revocation or suspension of its Certifying Authority certificate, if
+any; and
+(d) any other fact that materially and adversely affects either the reliability of a
+43[Electronic Signature] Certificate, which that Authority has issued, or the
+Authority’s ability to perform its services.
+(2) Where in the opinion of the Certifying Authority any event has occurred or any
+situation has arisen which may materially and adversely affect the integrity of its com- puter system or the conditions subject to which a 44[Electronic Signature] Certificate was
+granted, then, the Certifying Authority shall—
+(a) use reasonable efforts to notify any person who is likely to be affected by
+that occurrence; or
+(b) act in accordance with the procedure specified in its certification practice
+statement to deal with such event or situation.
+
+License Revoked
+To
+The DCP/SP
+Place:
+Sub: Complaint under IT ACT 
+Sir,
+We are a company working at the address mentioned below and we are constrained to report that the licence issued to our partner has been suspended or revoked. They were supposed to immediately after such suspension or revocation, surrender the
+licence to the Controller. They have not done this till now.
+
+Please do the necessary to rectify this as soon as possible.
+
+Details of the person;
+Name:
+Address:
+
+Thanking you,
+Yours truly,
+Name
+Father’s name
+Address
+Contact number
+
+
+
+
