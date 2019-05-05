@@ -1,0 +1,72 @@
+CHAPTER 7
+45[ELECTRONIC SIGNATURE] CERTIFICATES 35 S. 35. Certifying Authority to issue 46[Electronic Signature] Certificate.—(1)
+Any person may make an application to the Certifying Authority for the issue of a
+47[Electronic Signature] Certificate in such form as may be prescribed by the Central
+Government.
+(2) Every such application shall be accompanied by such fee not exceeding twenty- five thousand rupees as may be prescribed by the Central Government, to be paid to the
+Certifying Authority:
+Provided that while prescribing fees under sub-section (2) different fees may be pre- scribed for different classes of applicants.
+(3) Every such application shall be accompanied by a certification practice statement or
+where there is no such statement, a statement containing such particulars, as may be specified
+by regulations.
+(4) On receipt of an application under sub-section (1), the Certifying Authority may,
+after consideration of the certification practice statement or the other statement under
+sub-section (3) and after making such enquiries as it may deem fit, grant the 48[Electronic
+Signature] Certificate or for reasons to be recorded in writing, reject the application:
+49[* * *]
+50[Provided] that no application shall be rejected unless the applicant has been given a
+reasonable opportunity of showing cause against the proposed rejection.
+36 S. 36. Representations upon issuance of Digital Signature Certificate.—A Certifying
+Authority while issuing a Digital Signature Certificate shall certify that—
+(a) it has complied with the provisions of this Act and the rules and regulations
+made thereunder;
+(b) it has published the Digital Signature Certificate or otherwise made it availa- ble to such person relying on it and the subscriber has accepted it;
+(c) the subscriber holds the private key corresponding to the public key, listed in
+the Digital Signature Certificate;
+51[(ca) the subscriber holds a private key which is capable of creating a digital signature
+(cb) the public key to be listed in the certificate can be used to verify a digital
+signature affixed by the private key held by the subscriber;]
+(d) the subscriber’s public key and private key constitute a functioning key pair;
+(e) the information contained in the Digital Signature Certificate is accurate; and
+(f) it has no knowledge of any material fact, which if it had been included in the
+Digital Signature Certificate would adversely affect the reliability of the repre- sentations made in clauses (a) to (d).
+37 S. 37. Suspension of Digital Signature Certificate.—(1) Subject to the provisions
+of sub-section (2), the Certifying Authority which has issued a Digital Signature Certificate
+may suspend such Digital Signature Certificate,—
+(a) on receipt of a request to that effect from—
+(i) the subscriber listed in the Digital Signature Certificate; or
+(ii) any person duly authorised to act on behalf of that subscriber;
+(b) if it is of opinion that the Digital Signature Certificate should be suspended
+in public interest.
+(2) A Digital Signature Certificate shall not be suspended for a period exceeding fifteen
+days unless the subscriber has been given an opportunity of being heard in the matter.
+(3) On suspension of a Digital Signature Certificate under this section, the Certifying
+Authority shall communicate the same to the subscriber.
+38 S. 38. Revocation of Digital Signature Certificate.—(1) A Certifying Authority
+may revoke a Digital Signature Certificate issued by it—
+(a) where the subscriber or any other person authorised by him makes a request
+to that effect; or
+(b) upon the death of the subscriber; or
+(c) upon the dissolution of the firm or winding up of the company where the
+subscriber is a firm or a company.
+(2) Subject to the provisions of sub-section (3) and without prejudice to the provisions
+of sub-section (1), a Certifying Authority may revoke a Digital Signature Certificate
+which has been issued by it at any time, if it is of opinion that—
+(a) a material fact represented in the Digital Signature Certificate is false or has
+been concealed;
+(b) a requirement for issuance of the Digital Signature Certificate was not satis- fied;
+(c) the Certifying Authority’s private key or security system was compromised
+in a manner materially affecting the Digital Signature Certificate’s reliability;
+(d) the subscriber has been declared insolvent or dead or where a subscriber is a
+firm or a company, which has been dissolved, wound-up or otherwise
+ceased to exist.
+(3) A Digital Signature Certificate shall not be revoked unless the subscriber has been
+given an opportunity of being heard in the matter.
+(4) On revocation of a Digital Signature Certificate under this section, the Certifying
+Authority shall communicate the same to the subscriber.
+39 S. 39. Notice of suspension or revocation.—(1) Where a Digital Signature Certificate
+is suspended or revoked under section 37 or section 38, the Certifying Authority
+shall publish a notice of such suspension or revocation, as the case may be, in the repository
+specified in the Digital Signature Certificate for publication of such notice.
+(2) Where one or more repositories are specified, the Certifying Authority shall publish
+notices of such suspension or revocation, as the case may be, in all such repositories.

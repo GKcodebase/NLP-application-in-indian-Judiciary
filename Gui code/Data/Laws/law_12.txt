@@ -1,0 +1,195 @@
+CHAPTER 6
+REGULATION OF CERTIFYING AUTHORITIES 17 S. 17. Appointment of Controller and other officers.—(1) The Central Govern- ment may, by notification in the Official Gazette, appoint a Controller of Certifying Authorities
+for the purposes of this Act and may also by the same or subsequent notification
+appoint such number of Deputy Controllers 30[Assistant Controllers, other officers
+and employees] as it deems fit.
+(2) The Controller shall discharge his functions under this Act subject to the general
+control and directions of the Central Government.
+(3) The Deputy Controllers and Assistant Controllers shall perform the functions- assigned to them by the Controller under the general superintendent and control of the
+Controller.
+(4) The qualifications, experience and terms and conditions of service of Controller, Deputy
+Controllers 31[Assistant Controllers, other officers and employees] shall be such as may
+be prescribed by the Central Government.
+(5) The head office and Branch Office of the office of the Controller shall be at such
+places as the Central Government may specify, and these may be established at such
+places as the Central Government may think fit.
+(6) There shall be a seal of the Office of the Controller.
+18 S. 18. Functions of Controller.—The Controller may perform all or any of the following
+functions, namely:—
+(a) exercising supervision over the activities of the Certifying Authorities;
+(b) certifying public keys of the certifying authorities;
+(c) laying down the standards to be maintained by the Certifying Authorities;
+(d) specifying the qualifications and experience which employees of the Certifying
+Authorities should possess;
+(e) specifying the conditions subject to which the Certifying Authorities shall
+conduct their business;
+CHAPTER 6
+REGULATION OF CERTIFYING AUTHORITIES 17 S. 17. Appointment of Controller and other officers.—(1) The Central Govern- ment may, by notification in the Official Gazette, appoint a Controller of Certifying Authorities
+for the purposes of this Act and may also by the same or subsequent notification
+appoint such number of Deputy Controllers 30[Assistant Controllers, other officers
+and employees] as it deems fit.
+(2) The Controller shall discharge his functions under this Act subject to the general
+control and directions of the Central Government.
+(3) The Deputy Controllers and Assistant Controllers shall perform the functions- assigned to them by the Controller under the general superintendent and control of the
+Controller.
+(4) The qualifications, experience and terms and conditions of service of Controller, Deputy
+Controllers 31[Assistant Controllers, other officers and employees] shall be such as may
+be prescribed by the Central Government.
+(5) The head office and Branch Office of the office of the Controller shall be at such
+places as the Central Government may specify, and these may be established at such
+places as the Central Government may think fit.
+(6) There shall be a seal of the Office of the Controller.
+18 S. 18. Functions of Controller.—The Controller may perform all or any of the following
+functions, namely:—
+(a) exercising supervision over the activities of the Certifying Authorities;
+(b) certifying public keys of the certifying authorities;
+(c) laying down the standards to be maintained by the Certifying Authorities;
+(d) specifying the qualifications and experience which employees of the Certifying
+Authorities should possess;
+(e) specifying the conditions subject to which the Certifying Authorities shall
+conduct their business;
+(f) specifying the contents of written, printed or visual material and advertise- ments that may be distributed or used in respect of a Digital Signature Certificate
+and the Public Key;
+(g) specifying the form and content of a Digital Signature Certificate and the
+key;
+(h) specifying the form and manner in which accounts shall be maintained by
+the Certifying Authorities;
+(i) specifying the terms and conditions subject to which auditors may be appointed
+and the remuneration to be paid to them;
+(j) facilitating the establishment of any electronic system by a Certifying Authority
+either solely or jointly with other Certifying Authorities and regulation
+of such systems;
+(k) specifying the manner in which the Certifying Authorities shall conduct their
+dealings with the subscribers;
+(l) resolving any conflict of interests between the Certifying Authorities and the
+subscribers;
+(m) laying down the duties of the Certifying Authorities;
+(n) maintaining a data-base containing of disclosure record of every Certifying
+Authority containing such particulars as may be specified by regulations,
+which shall be accessible to public.
+19 S. 19. Recognition of foreign Certifying Authorities.—(1) Subject to such conditions
+and restrictions as may be specified by regulations, the Controller may with the
+previous approval of the Central Government, and by notification in the Official Ga- zette, recognise any Foreign Certifying Authority as a Certifying Authority for the purposes
+of this Act.
+(2) Where any Certifying Authority is recognised under sub-section (1), the 32[Electronic
+Signature] Certificate issued by such Certifying Authority shall be valid for the
+purposes of this Act.
+(3) The Controller may, if he is satisfied that any Certifying Authority has contravened
+any of the conditions and restrictions subject to which it was granted recognition under
+sub-section (1) he may, for reasons to be recorded in writing, by notification in the Official
+Gazette, revoke such recognition.
+20 S. 20. Controller to act as repository.—33[* * * * *]
+21 S. 21. Licence to issue 34[Electronic Signature] Certificates.—(1) Subject to the
+provisions of sub-section (2), any person may make` an application, to the Controller,
+for a licence to issue Digital Signature Certificates.
+(2) No licence shall be issued under sub-section (7), unless the applicant fulfills such
+requirements with respect to qualification, expertise, manpower, financial resources and
+other infrastructure facilities, which are necessary to issue Digital Signature Certificates
+as may be prescribed by the Central Government.
+(3) A licence granted under this section shall—
+(a) be valid for such period as may be prescribed by the Central Government;
+(b) not be transferable or heritable;
+(c) be subject to such terms and conditions as may be specified by the regulations.
+22 S. 22. Application for Licence.—(1) Every application for issue of a licence shall be
+in such form as may be prescribed by the Central Government.
+(2) Every application for issue of a licence shall be accompanied by—
+(a) a certification practice statement;
+(b) a statement including the procedures with respect to identification of the
+applicant;
+(c) payment of such fees, not exceeding twenty-five thousand rupees as may be
+prescribed by the Central Government;
+(d) such other documents, as may be prescribed by the Central Government.
+23 S. 23. Renewal of Licence.—An application for renewal of a licence shall be—
+(a) in such form;
+(b) accompanied by such fees, not exceeding five thousand rupees,
+as may be prescribed by the Central Government and shall be made not less than forty- five days before the date of expiry of the period of validity of the licence:
+Provided that an application for the renewal of the licence made after the expiry of the
+licence may be entertained on payment of such late fee, not exceeding five hundred ru- pees, as may be prescribed.
+24 S. 24. Procedure for grant or rejection of Licence.—The Controller may, on re- ceipt of an application under sub-section (1) of section 21, after considering the docu- ments accompanying the application and such other factors, as he deems fit, grant the
+licence or reject the application:
+Provided that no application shall be rejected under this section unless the applicant has
+been given a reasonable opportunity of presenting his case.
+25 S. 25. Suspension of Licence.—(1) The Controller may, if he is satisfied after making
+such inquiry, as he may think fit, that a Certifying Authority has,—
+(a) made a statement in, or in relation to, the application for the issue or renew- al of the licence, which is incorrect or false in material particulars;
+(b) failed to comply with the terms and conditions subject to which the licence
+was granted;
+35[(c) failed to maintain the procedures and standards specified in section 30];
+(d) contravened any provisions of this Act, rule, regulation or order made there- under,
+revoke the licence:
+Provided that no licence shall be revoked unless the Certifying Authority has been given
+a reasonable opportunity of showing cause against the proposed revocation.
+(2) The Controller may, if he has reasonable cause to believe that there is any ground for
+revoking a licence under sub-section (1), by order suspend such licence pending the com- pletion of any inquiry ordered by him:
+Provided that no licence shall be suspended for a period exceeding ten days unless the
+Certifying Authority has been given a reasonable opportunity of showing cause against
+the proposed suspension.
+(3) No Certifying Authority whose license has been suspended shall issue any 36[Electronic
+Signature] Certificate during such suspension.
+26 S. 26. Notice of suspension or revocation of licence.—(1) Where the licence of
+the Certifying Authority is suspended or revoked, the Controller shall publish notice of
+such suspension or revocation, as the case may be, in the data-base maintained by him.
+(2) Where one or more repositories are specified, the Controller shall publish notices
+of such suspension or revocation, as the case may be, in all such repositories.
+Provided that the data base containing the notice of such suspension or revocation, as
+the case may be, shall be made available through a web site which shall be accessible
+round the clock:
+Provided further that the Controller may, if he considers necessary, publicise the contents
+of data base in such electronic or other media, as he may consider appropriate.
+27 S. 27. Power to delegate.—The Controller may, in writing, authorise the Deputy
+Controller, Assistant Controller or any officer to exercise any of the powers of the Controller
+under this Chapter.
+28 S. 28. Power to investigate contraventions.—(1) The Controller or any officer authorised
+by him in this behalf shall take up for investigation any contravention of the
+provisions of this Act, rules or regulations made thereunder.
+(2) The Controller or any officer authorised by him in this behalf shall exercise the like
+powers which are conferred on Income-tax authorities under Chapter XIII of the In- come-tax Act, 1961 (43 of 1961) and shall exercise such powers, subject to such limitations
+laid down under that Act.
+29 S. 29. Access to computers and data.—(1) Without prejudice to the provisions of
+sub-section (1) of section 69, the Controller or any person authorised by him shall, if he has reasonable cause to suspect that 37[any contravention of the provisions of this chapter],
+has been committed, have access to any computer system, any apparatus, data or
+any other material connected with such system, for the purpose of searching or causing
+a search to be made for obtaining any information or data contained in or available to
+such computer system.
+(2) For the purposes of sub-section (1), the Controller or any person authorised by
+him may, by order, direct any person incharge of, or otherwise concerned with the operation
+of, the computer system, data apparatus or material, to provide him with such
+reasonable technical and other assistance as he may consider necessary.
+30 S. 30. Certifying Authority to follow certain procedures.—Every Certifying Authority
+shall—
+(a) make use of hardware, software, and procedures that are secure from intru- sion and misuse:
+(b) provide a reasonable level of reliability in its services which are reasonably
+suited to the performance of intended functions;
+(c) adhere to security procedures to ensure that the secrecy and privacy of the
+38[electronic signatures] are assured; 39[* * *]
+40[(ca) be the repository of all Electronic Signature Certificates issued under this
+Act;
+(cb) publish information regarding its practices, Electronic Signature Certificates
+and current status of such certificates; and]
+(d) observe such other standards as may be specified by regulations.
+31 S. 31. Certifying Authority to ensure compliance of the Act, etc.—Every Certifying
+Authority shall ensure that every person employed or otherwise engaged by it com- plies, in the course of his employment or engagement, with the provisions of this Act,
+rules, regulations and orders made thereunder.
+32 S. 32. Display of licence.—Every Certifying Authority shall display its licence at a
+conspicuous place of the premises in which it carries on its business.
+33 S. 33. Surrender of licence.—(1) Every Certifying Authority whose licence is sus- pended or revoked shall immediately after such suspension or revocation, surrender the
+licence to the Controller.
+(2) Where any Certifying Authority fails to surrender a licence under sub-section (1),
+the person in whose favour a licence is issued, shall be guilty of an offence and shall be punished with imprisonment which may extend up to six months or a fine which may
+extend up to ten thousand rupees or with both.
+34 S. 34. Disclosure.—(1) Every Certifying Authority shall disclose in the manner specified
+by regulations—
+(a) its 41[Electronic Signatures] Certificate 42[* * *]
+(b) any certification practice statement relevant thereto;
+(c) notice of the revocation or suspension of its Certifying Authority certificate, if
+any; and
+(d) any other fact that materially and adversely affects either the reliability of a
+43[Electronic Signature] Certificate, which that Authority has issued, or the
+Authority’s ability to perform its services.
+(2) Where in the opinion of the Certifying Authority any event has occurred or any
+situation has arisen which may materially and adversely affect the integrity of its com- puter system or the conditions subject to which a 44[Electronic Signature] Certificate was
+granted, then, the Certifying Authority shall—
+(a) use reasonable efforts to notify any person who is likely to be affected by
+that occurrence; or
+(b) act in accordance with the procedure specified in its certification practice
+statement to deal with such event or situation.
