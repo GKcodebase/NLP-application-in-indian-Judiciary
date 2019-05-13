@@ -1,0 +1,28 @@
+[Name ]
+[Position]
+[Contact Number]
+[Email Address]
+
+
+[Date]
+
+
+[Name of the Officer]
+[Area]
+[Street Name]
+[City, State, ZIP Code]
+
+
+Dear Mr. /Ms. /Mrs. [Name of the Supervisor],
+
+Please accept this letter as a formal complaint regarding the patent infringement of my Patent for XYZ product. Another company has also introduced a similar product in the market. This is very unethical since I have the exclusive patent rights for the production technology.
+
+Thank you in advance for your quick attention to this matter.
+
+
+Sincerely,
+
+
+
+[Name and Signature]
+
