@@ -1,0 +1,557 @@
+Help me.	എന്നെ സഹായിക്കൂ.
+I forgot.	ഞാന്‍ മറന്നു.
+I am sure.	എനിക്ക് ഉറപ്പാണ്.
+I'm awake.	ഞാൻ ഉണർന്നിരിക്കുകയാണ്.
+Slow down.	പതുക്കെ ചെയ്യൂ.
+I hate Tom.	ഞാന്‍ ടോമിനെ വെറുക്കുന്നു.
+I like you.	എനിക്ക് നിന്നെ ഇഷ്ടമാണ്.
+It's yours.	ഇത് നിങ്ങളുടെതാണ്.
+Let's pray.	നമുക്ക് പ്രാര്‍ത്ഥിക്കാം.
+That's fun.	അത് വിനോദമാണ്‌ .
+That's her.	അത് അവളാണ് .
+That's him.	അത് അവനാണ് .
+That's his.	അത് അവന്റേതാണ് .
+He can swim.	അവന് നീന്താൻ കഴിയും.
+I also went.	ഞാനും പോയി.
+That's hers.	അത് അവളുടെതാണ് .
+That's wise.	അത് വിവേകപരം ആണ് .
+Tom giggled.	ടോം ചിരിച്ചു.
+Walk slowly.	പതുക്കെ നടക്കുക.
+Come with us.	ഞങ്ങളുടെ കൂടെ വരൂ.
+Give me half.	പകുതി എനിക്ക് തരൂ.
+I understand.	ഞാൻ മനസ്സിലാക്കുന്നു.
+I want money.	എനിക്ക് കാശ് വേണം.
+That's Tom's.	അത് ടോമിന്റെതാണ് .
+This is ours.	ഇത് ഞങ്ങളുടെതാണ്.
+Tom screamed.	ടോം നിലവിളിച്ചു.
+Trust no one.	ആരെയും വിശ്വസിക്കരുത്.
+Don't give up!	വിട്ടു കൊടുക്കരുത്
+He's ruthless.	അവന്‍ ദയയില്ലാത്തവന്‍ ആണ്.
+I am American.	ഞാൻ ഒരു അമേരിക്കൻ ആണ്.
+I believe you.	ഞാൻ നിന്നെ വിശ്വസിക്കുന്നു.
+I hate coffee.	എനിക്ക് കാപ്പി ഇഷ്ടമല്ല.
+I lost my key.	എനിക്ക് എന്റെ താക്കോൽ നഷ്ടപ്പെട്ടു.
+I'll kill you.	ഞാൻ നിന്നെ കൊല്ലും.
+Shut the door.	ആ വാതിൽ അടയ്ക്കൂ.
+That's lovely.	അത് മനോഹരമാണ് .
+That's untrue.	അത് അസത്യമാണ് .
+You've failed.	നിങ്ങള്‍ പരാജയപ്പെട്ടു.
+Don't touch it.	അത് തൊടരുത്
+He sells fruit.	അവന്‍ ഫലങ്ങള്‍ വില്‍ക്കുന്നു.
+He talks a lot.	അവന്‍ ധാരാളം സംസാരിക്കാറുണ്ട്.
+I want to live.	എനിക്ക് ജീവിക്കണം.
+I'll come back.	ഞാൻ തിരിച്ചുവരും.
+Leave it to me.	അതെനിക്ക് വിട്ടു തരിക.
+Listen closely.	ശ്രദ്ധാപൂര്‍വ്വം കേള്‍ക്കു.
+She cooks well.	അവള്‍ നന്നായി പാചകം ചെയ്യും.
+That's alright.	അത് ശരിതന്നെ.
+That's evident.	അത് സ്പഷ്ടമാണ് .
+That's foolish.	അത് മണ്ടത്തരമാണ് .
+That's logical.	അത് യുക്തിസഹമാണ്.
+Tom understood.	ടോം മനസിലാക്കി.
+Who broke this?	ആരാണിത് പൊട്ടിച്ചത്?
+Did he go there?	അവൻ അവിടെ പോയോ?
+Do you remember?	നിനക്ക് ഓർമ്മയുണ്ടോ.
+Her father died.	അവളുടെ അച്ഛൻ മരിച്ചു.
+I am from Egypt.	ഞാൻ ഈജിപ്തിൽ നിന്നാണ്.
+I bit my tongue.	ഞാന്‍ എന്റെ നാവ് കടിച്ചു.
+I just got back.	ഞാൻ ഇപ്പോൾ തിരിച്ച് എത്തിയതേയുള്ളൂ.
+I need a hammer.	എനിക്കൊരു ചുറ്റിക വേണം.
+I teach English.	ഞാൻ ഇംഗ്ലീഷ് പഠിപ്പിക്കുന്നു.
+Isn't that mine?	അത് എന്റേതല്ലേ?
+Merry Christmas!	ക്രിസ്തുമസ് ആശംസകള്‍.
+She scolded him.	അവൾ അവനെ ശാസിച്ചു.
+That's doubtful.	അത് സംശയകരമാണ് .
+The sea is blue.	കടല്‍ നീലയാണ്.
+They'll kill me.	അവർ എന്നെ കൊല്ലും.
+This is our bag.	ഇത് ഞങ്ങളുടെ ബാഗ്‌ ആണ്.
+Today is Monday.	ഇന്ന് തിങ്കളാഴ്ചയാണ്.
+Where is my car?	എന്റെ കാര്‍ എവിടെയാണ്?
+Who betrayed us?	ആരാണ് നമ്മളെ ചതിച്ചത്?
+Who's that girl?	ആരാണ് ആ പെൺകുട്ടി?
+Accidents happen.	അപകടങ്ങൾ സംഭവിക്കുന്നു.
+At last, he came.	അവസാനം, അവൻ വന്നു.
+Do you like snow?	നിനക്ക് മഞ്ഞ് ഇഷ്ടമാണോ?
+Don't make noise.	ശബ്ദമുണ്ടാക്കരുത്.
+He must not live.	അവൻ ജീവിക്കാൻ പാടില്ല.
+Her hair is long.	അവളുടെ മുടി നീണ്ടതാണ്.
+I am an engineer.	ഞാൻ ഒരു എഞ്ചിനീയർ ആണ്.
+I work in a bank.	ഞാൻ ഒരു ബാങ്കിൽ ജോലി ചെയ്യുന്നു.
+I'm already done.	ഞാന്‍ ചെയ്തു കഴിഞ്ഞിരിക്കുന്നു.
+I'm really tired.	ഞാന്‍ ശരിക്കും തളര്‍ന്നു.
+Is this your pen?	ഇതു നിന്റെ പേനയാണോ?
+My throat is dry.	എന്റെ തൊണ്ട വരണ്ടിക്കുകയാണ്.
+People love dogs.	ആൾക്കാർക്ക് നായകളെ ഇഷ്ടമാണ്.
+Please wait here.	ദയവായി ഇവിടെ കാത്തിരിക്കൂ.
+Quit complaining.	കുറ്റം പറയുന്നത് നിര്‍ത്തു.
+That car is mine.	ആ കാർ എന്റേതാണ്.
+That's ludicrous.	അത് പരിഹാസ്യമാണ് .
+The sky was dark.	ആകാശം ഇരുണ്ടിരുന്നു.
+This dog is mine.	ഇതെന്റെ നായയാണ്.
+We heard her cry.	ഞങ്ങള്‍ അവള്‍ കരയുന്നത് കേട്ടു.
+What is the time?	സമയം എത്രയായി?
+What should I do?	ഞാൻ എന്താണ് ചെയ്യേണ്ടത്?
+You may sit here.	നിനക്ക് ഇവിടെ ഇരിക്കാം.
+Give me five days.	എനിക്ക് അഞ്ച് ദിവസത്തെ സമയം തരൂ.
+Have they seen us?	അവർ നമ്മളെ കണ്ടിട്ടുണ്ടാവുമോ?
+He must have left.	അവൻ പോയി കാണും.
+He told the truth.	അവൻ സത്യം പറഞ്ഞു.
+I can't read this.	എനിക്ക് ഇത് വായിക്കാൻ കഴിയുന്നില്ല.
+I played football.	ഞാന്‍ കാല്‍പ്പന്ത് കളിച്ചു.
+I will do my best.	എന്നാല്‍ ചെയ്യാന്‍ കഴിയുന്നതൊക്കെ ഞാന്‍ ചെയ്യും.
+I'm a new student.	ഞാന്‍ ഒരു പുതിയ വിദ്യാര്‍ഥി ആണ്.
+I'm not a student.	ഞാനൊരു വിദ്യാര്‍ത്ഥിയല്ല.
+Is that a red pen?	അതൊരു ചുവന്ന പേനയാണോ?
+It's a dictionary.	അതൊരു നിഘണ്ടുവാണ്.
+That's acceptable.	അത് അംഗീകരിക്കാവുന്നതാണ് .
+That's impossible.	അത് അസാധ്യമാണ്.
+That's sufficient.	അത് പര്യാപ്തമാണ് .
+This is good meat.	ഇത് നല്ല മാംസം ആണ് .
+Where is my diary?	എൻറെ ഡയറി എവിടെയാണ്.
+You and I are men.	നീയും ഞാനും പുരുഷന്മാരാണ്.
+You are a teacher.	നിങ്ങൾ ഒരു അധ്യാപകനാണ്.
+Come along with us.	ഞങ്ങളുടെ കൂടെ വരൂ.
+He asked for money.	അവൻ പണത്തിനായി ആവശ്യപ്പെട്ടു.
+He asked my mother.	അവൻ എന്റെ അമ്മയോടു ചോദിച്ചു.
+He closed the door.	അവൻ വാതിൽ അടച്ചു.
+He doesn't like us.	അവന് ഞങ്ങളെ ഇഷ്ടമല്ല.
+He heard the noise.	അവന്‍ ആ ശബ്ദം കേട്ടു.
+He wants a new car.	അവനൊരു പുതിയ കാർ വേണം.
+He weighs 70 kilos.	അവന് എഴുപത് കിലോ ഭാരമുണ്ട്.
+I can get you more.	എനിക്ക് ഇനിയും നിങ്ങള്‍ക്ക് തരാന്‍ കഴിയും.
+I can't sleep well.	എനിക്ക് നന്നായി ഉറങ്ങാന്‍ പറ്റുന്നില്ല.
+I have two cameras.	എനിക്ക് രണ്ട് ക്യാമറകളുണ്ട്.
+I like short poems.	എനിക്ക് ചെറിയ കവിതകൾ ഇഷ്ടമാണ്.
+I like to watch TV.	എനിക്ക് ടിവി കാണാൻ ഇഷ്ടമാണ്.
+I plowed the field.	ഞാന്‍ നിലം ഉഴുതു.
+I'm coming at once.	ഞാൻ ഇപ്പോൾ തന്നെ വരികയാണ്.
+It is dark outside.	പുറത്ത് ഇരുട്ടാണ്.
+My stomach is full.	എന്റെ വയറ് നിറഞ്ഞു.
+The door is locked.	വാതില്‍ പൂട്ടിയിരിക്കുന്നു.
+The earth is round.	ഭൂമി ഉരുണ്ടതാണ്.
+The earth is round.	ഭൂമി ഉരുണ്ടത്‌ ആണ്.
+These pens are his.	ഈ പേനകൾ അവന്റേതാണ്.
+This is a triangle.	ഇത് ഒരു ത്രികോണം ആണ്.
+We don't have time.	നമുക്ക് സമയമില്ല.
+We were very tired.	ഞങ്ങൾ വളരെയധികം ക്ഷീണിച്ചിരുന്നു.
+What does Tom mean?	ടോം അര്‍ത്ഥമാക്കിയത് എന്താണ്?
+Where does it hurt?	എവിടെയാണ് വേദനിക്കുന്നത്?
+All I want is money.	എനിക്കാവശ്യം പണം മാത്രമാണ്.
+Come again tomorrow.	നാളെ വീണ്ടും വരൂ.
+He is a nice person.	അവൻ ഒരു നല്ല മനുഷ്യനാണ്.
+He wrote one letter.	അവൻ ഒരു കത്തെഴുതി.
+I came at about six.	ഞാന്‍ ആറു മണിയോട് അടുപ്പിച്ചു വന്നു.
+I can get you fired.	എനിക്ക് നിങ്ങളെ ജോലിയില്‍ നിന്നും പുറതാക്കിപ്പിക്കാന്‍ കഴിയും.
+I can give it a try.	എനിക്ക് ഇത് പ്രയോഗിച്ചു നോക്കാന്‍ കഴിയും.
+I have been to Rome.	ഞാന്‍ റോമില്‍ പോയിട്ടുണ്ട്.
+I want to live here.	എനിക്ക് ഇവിടെ ജീവിക്കാന്‍ ആഗ്രഹമുണ്ട്.
+I'll think about it.	ഞാൻ അതിനെക്കുറിച്ച് ആലോചിക്കാം.
+I'm against the war.	ഞാൻ യുദ്ധത്തിനെതിരെയാണ്.
+I'm not an American.	ഞാൻ ഒരു അമേരിക്കക്കാരനല്ല.
+It may rain tonight.	ഇന്ന് രാത്രി മഴ പെയ്തേക്കും.
+She likes ice cream.	അവള്‍ക്ക് ഐസ് ക്രീം ഇഷ്ടമാണ്.
+She stopped smoking.	അവൾ പുകവലി നിർത്തി.
+They're useless now.	അവരെക്കൊണ്ട് ഇപ്പോൾ ഉപയോഗമില്ല.
+This may be correct.	ഇത് ശരിയായിരിക്കാം.
+Tom turned the page.	ടോം പേജ് മറിച്ചു.
+We have enough time.	ഞങ്ങൾക്ക് ആവശ്യത്തിന് സമയമുണ്ട്.
+We obeyed the rules.	ഞങ്ങൾ നിയമങ്ങൾ അനുസരിച്ചു.
+Count to one hundred.	നൂറ് വരെ എണ്ണൂ.
+Have you finished it?	നീ അത് തീർത്തോ?
+He asked me to dance.	അവൻ എന്നോട് നൃത്തം ചെയ്യാൻ ആവശ്യപ്പെട്ടു.
+He sent me a present.	അവനെനിക്കൊരു സമ്മാനം അയച്ചു തന്നു.
+I can give it a shot.	എനിക്ക് ഇത് പ്രയോഗിച്ചു നോക്കാന്‍ കഴിയും.
+I have a green shirt.	എനിക്ക് ഒരു പച്ച കുപ്പായം ഉണ്ട്.
+I need a new bicycle.	എനിക്ക് ഒരു പുതിയ സൈക്കിൾ വേണം.
+I need to study math.	എനിക്ക് കണക്ക് പഠിക്കേണ്ടതായിയുണ്ട്.
+I think you know Tom.	നിങ്ങള്ക്ക് ടോമിനെ അറിയാം എന്ന് ഞാന്‍ വിചാരിക്കുന്നു.
+My clothes are there.	എന്റെ വസ്ത്രങ്ങൾ അവിടെയാണ്.
+She likes these cats.	അവൾക്ക് ഈ പൂച്ചകളെ ഇഷ്ടമാണ്.
+Someone stole my bag.	ആരോ എന്റെ ബാഗ് മോഷ്ടിച്ചു.
+You've misunderstood.	നിങ്ങള്‍ തെറ്റിദ്ധരിച്ചു.
+Give it to me, please.	ദയവായി, അതെനിക്കു തരൂ.
+He and I are teachers.	അവനും ഞാനും അദ്ധ്യാപകരാണ്.
+He began to eat lunch.	അവന്‍ ഊണ് കഴിക്കാന്‍ തുടങ്ങി.
+He fell off the horse.	അവൻ കുതിരപ്പുറത്ത് നിന്ന് താഴെ വീണു.
+He is always studying.	അവൻ എപ്പോഴും പഠിച്ചു കൊണ്ടിരിക്കും.
+He was born in Africa.	അവൻ ആഫ്രിക്കയിലാണ് ജനിച്ചത്.
+How was the math test?	കണക്ക് പരീക്ഷ എങ്ങനെയുണ്ടായിരുന്നു?
+I can give you a lift.	എനിക്ക് നിങ്ങള്‍ക്ക് ലിഫ്റ്റ്‌ തരാന്‍ കഴിയും.
+I have a wooden table.	എനിക്കൊരു തടിമേശയുണ്ട്.
+I'm a big fan of golf.	ഞാൻ ഗോൾഫിന്റെ വലിയ ആരാധകനാണ്.
+It made me very happy.	അത് എന്നെ വളരെ സന്തോഷവാനാക്കി.
+Nobody understands me.	ആരും എന്നെ മനസ്സിലാക്കുന്നില്ല.
+She decided not to go.	അവൾ പോകുന്നില്ല എന്ന് തീരുമാനിച്ചു.
+They hated each other.	അവര്‍ പരസ്പരം വെറുത്തു.
+They settled in Japan.	അവര്‍ ജപ്പാനില്‍ സ്ഥിരതാമസമാക്കി.
+What else do you want?	വേറെ എന്താണ് നിനക്ക് വേണ്ടത്?
+Where is my newspaper?	എൻറെ വർത്തമാനപത്രം എവിടെയാണ്.
+Where is your brother?	നിന്റെ സഹോദരനെവിടെയാണ്?
+Will it rain tomorrow?	നാളെ മഴ പെയ്യുമോ?
+I am afraid of heights.	എനിക്ക് ഉയരം ഭയമാണ്.
+I believe you know Tom.	നിങ്ങള്‍ക്ക് ടോമിനെ അറിയാം എന്ന് ഞാന്‍ വിശ്വസിക്കുന്നു.
+I can't sleep at night.	എനിക്ക് രാത്രി ഉറങ്ങാൻ കഴിയുന്നില്ല.
+I don't believe in God.	ഞാന്‍ ദൈവത്തില്‍ വിശ്വസിക്കുന്നില്ല.
+I have heard the story.	ഞാൻ ഈ കഥ കേട്ടിട്ടുണ്ട്.
+I like music very much.	എനിക്ക് സംഗീതം വളരെ ഇഷ്ടമാണ്.
+I live with my parents.	ഞാൻ എന്റെ മാതാപിതാക്കളുടെ കൂടെയാണ് ജീവിക്കുന്നത്.
+I think we should talk.	നമ്മള്‍ തമ്മില്‍ സംസാരിക്കണം എന്ന് ഞാന്‍ വിചാരിക്കുന്നു.
+I will gladly help you.	ഞാന്‍ സന്തോഷത്തോടെ നിങ്ങളെ സഹായിക്കാം.
+Nobody came to help me.	ആരും എന്നെ സഹായിക്കാൻ വന്നില്ല.
+Please open the bottle.	ദയവായി ഈ കുപ്പി തുറക്കുക.
+Please open the window.	ദയവായി ആ ജനാല തുറക്കൂ
+That is not your knife.	അത് നിന്റെ കത്തിയല്ല.
+This is a wooden table.	ഇതൊരു തടിമേശയാണ്.
+We plan to stay a week.	ഞങ്ങൾ ഒരാഴ്ച തങ്ങാനാണ് ആലോചിക്കുന്നത്.
+What do you like to do?	നിനക്ക് എന്തു ചെയ്യാനാണ് ഇഷ്ടം.
+Don't forget to call me.	എന്നെ വിളിക്കാൻ മറക്കരുത്.
+Everyone makes mistakes.	എല്ലാവർക്കും തെറ്റുപറ്റും.
+He began to feel afraid.	അവൻ ഭയപ്പെടാൻ തുടങ്ങി.
+He is no stranger to me.	അവൻ എനിക്കൊരു അപരിചതനല്ല.
+He lay down on his back.	അവന്‍ മലര്‍ന്നു കിടന്നു.
+He's writing a book now.	അവൻ ഇപ്പോൾ ഒരു പുസ്തകം എഴുതുകയാണ്.
+I sometimes cook dinner.	ഞാൻ ചിലപ്പോൾ അത്താഴം പാകം ചെയ്യും.
+I think you can help us.	നിങ്ങള്‍ക്ക് ഞങ്ങളെ സഹായിക്കാന്‍ കഴിയും എന്ന് ഞാന്‍ വിചാരിക്കുന്നു.
+Measure twice, cut once.	രണ്ടു തവണ അളക്കൂ, ഒരു തവണ മുറിക്കൂ.
+She has attractive eyes.	അവൾക്ക് ആകർഷണീയമായ കണ്ണുകളുണ്ട്.
+She might come tomorrow.	അവൾ നാളെ വന്നേക്കും.
+This chair is too small.	ഈ കസേര വളരെ ചെറുതാണ്.
+What year were you born?	നിങ്ങള്‍ ഏതു വര്‍ഷമാണ് ജനിച്ചത്?
+What year were you born?	നിങ്ങള്‍ ഏതു വര്‍ഷം ആണ് ജനിച്ചത്‌ ?
+You don't know who I am.	ഞാൻ ആരാണെന്ന് നിനക്കറിയില്ല.
+You must read this book.	നിങ്ങള്‍ ഈ പുസ്തകം വായിക്കണം.
+Come and see me tomorrow.	എന്നെ നാളെ വന്നു കാണൂ.
+English is easy to learn.	ഇംഗ്ലീഷ് പഠിക്കാന്‍ എളുപ്പമാണ്.
+He looked at her angrily.	അവൻ അവളെ ദേഷ്യത്തോടെ നോക്കി.
+He's greedy and ruthless.	അവന്‍ അത്യാഗ്രഹിയും ദയാരഹിതനും ആണ്.
+How do you say this word?	ഈ വാക്ക് എങ്ങനെയാണ് ഉച്ചരിക്കുന്നത്.
+I can give Tom a message.	എനിക്ക് ടോമിന് ഒരു മെസ്സേജ് കൊടുക്കാന്‍ കഴിയും.
+I don't know how to cook.	എനിക്ക് പാചകം ചെയ്യാന്‍ അറിയില്ല.
+I like the way you smile.	എനിക്ക് നീ ചിരിക്കുന്ന രീതി ഇഷ്ടമാണ്.
+Mary is quite attractive.	മേരി അതീവ സുന്ദരി ആണ് .
+Nobody tells me anything.	ആരും എന്നോടൊന്നും പറയാറില്ല.
+Sorry. It's all my fault.	ക്ഷമിക്കണം. എല്ലാം എന്റെ തെറ്റാണ്.
+Sugar dissolves in water.	പഞ്ചസാര വെള്ളത്തിൽ അലിയുന്നു.
+The cat caught the mouse.	പൂച്ച എലിയെ പിടിച്ചു.
+There is no time to lose.	നഷ്ടപ്പെടുത്താൻ സമയമില്ല.
+Tom didn't need any help.	ടോമിന് ഒരു സഹായവും ആവശ്യമില്ലായിരുന്നു.
+Tom went straight to bed.	ടോം നേരെ ഉറങ്ങാൻ പോയി.
+We expect a lot from him.	ഞങ്ങൾ അവനിൽ നിന്നും ഏറെ പ്രതീക്ഷിക്കുന്നു.
+We go to school to study.	ഞങ്ങൾ സ്കൂളിലേക്ക് പഠിക്കാനാണ് പോകുന്നത്.
+We have very little time.	നമുക്കു വളരെക്കുറച്ചു സമയം മാത്രമേയുള്ളൂ.
+What he did wasn't wrong.	അവൻ ചെയ്തത് എന്താണോ അത് തെറ്റല്ല.
+Cookie is under the table.	മധുരപലഹാരം മേശക്കു കീഴിൽ ഉണ്ട്.
+He can run faster than me.	അവന് എന്നേക്കാൾ വേഗത്തിൽ ഓടാൻ കഴിയും.
+He got good marks in math.	അവന് കണക്കിൽ നല്ല മാർക്ക് കിട്ടി.
+He ran into the classroom.	അവൻ ക്ലാസ് മുറിയിലേക്ക് ഓടി.
+He wants to go to America.	അവന് അമേരിക്കയില്‍ പോകാന്‍ ആഗ്രഹമുണ്ട്.
+How many guests are there?	എത്ര അതിഥികളുണ്ട്?
+Hunger drove him to steal.	വിശപ്പ് അവനെ മോഷ്ടിക്കാന്‍ പ്രേരിപ്പിച്ചു.
+I am going to play tennis.	ഞാൻ ടെന്നിസ് കളിക്കാൻ പോവുകയാണ്.
+I don't have any children.	എനിക്ക് കുട്ടികളില്ല.
+I got the ticket for free.	എനിക്ക് ടികറ്റ് സൗജന്യമായി ലഭിച്ചു.
+I like swimming very much.	എനിക്ക് നീന്തൽ വളരെ ഇഷ്ടമാണ്.
+I will give you this book.	ഞാൻ നിനക്ക് ഈ പുസ്തകം തരാം.
+My father is a bank clerk.	എന്റെ അച്ഛൻ ഒരു ബാങ്ക് ക്ലാർക്കാണ്.
+Park the car in the shade.	കാറ് തണലില്‍ നിര്‍ത്തൂ.
+She has a small black dog.	അവള്‍ക്കൊരു ചെറിയ കറുത്ത പട്ടിയുണ്ട്.
+Sugar is soluble in water.	പഞ്ചസാര വെള്ളത്തില്‍ ലയിക്കും.
+Tell her that I am hungry.	എനിക്ക് വിശക്കുന്നു എന്ന് അവളോട്‌ പറയു.
+The cat scratched my hand.	ആ പൂച്ച എന്റെ കൈയിൽ മാന്തി.
+The price of meat dropped.	ഇറച്ചിയുടെ വില കുറഞ്ഞു.
+The town grew into a city.	ആ പട്ടണം ഒരു നഗരമായ് വളർന്നു.
+They did not give up hope.	അവര്‍ പ്രതീക്ഷ കൈവിട്ടില്ല.
+They had a baby last week.	കഴിഞ്ഞയാഴ്ച അവര്‍ക്കൊരു കുട്ടിയുണ്ടായി.
+Today is Independence Day.	ഇന്ന് സ്വാതന്ത്ര്യദിനമാണ്.
+Tom is growing a mustache.	ടോം മീശ വളർത്തുകയാണ്.
+Who will be the next pope?	അടുത്ത പോപ്പ് ആരായിരിക്കും?
+Have you ever seen a whale?	നിങ്ങള്‍ എപ്പോഴെങ്കിലും ഒരു തിമിംഗലത്തെ കണ്ടിട്ടുണ്ടോ?
+He comes here once a month.	അവൻ ഇവിടെ മാസത്തിലൊരിക്കൽ വരും.
+He decided to go to France.	അവൻ ഫ്രാൻസിലേക്ക് പോകാൻ തീരുമാനിച്ചു.
+He's much younger than Tom.	അവൻ ടോമിനേക്കാൾ വളരെ ചെറുപ്പമാണ്.
+I challenged him to a game.	ഞാൻ അവനെ ഒരു കളിക്കായി വെല്ലുവിളിച്ചു.
+I leave for Paris tomorrow.	ഞാൻ നാളെ പാരീസിലേക്ക് പുറപ്പെടും.
+I think you know the rules.	നിങ്ങള്‍ക്ക് നിയമങ്ങള്‍ അറിയാം എന്ന് ഞാന്‍ വിചാരിക്കുന്നു.
+I think you should go home.	നിങ്ങൾ വീട്ടിലേക്കു പോകണം എന്ന് ഞാൻ കരുതുന്നു.
+I've read both these books.	ഞാൻ ഈ രണ്ട് പുസ്തകങ്ങളും വായിച്ചിട്ടുണ്ട്.
+It is cheaper to go by bus.	ബസ്സില്‍ പോകുന്നതാണ് ലാഭം.
+My birthday is on March 22.	എന്റെ ജന്മദിനം മാർച്ച് 22-നാണ്.
+My son is taller than I am.	എന്റെ മകന് എന്നേക്കാള്‍ ഉയരമുണ്ട്.
+Next Thursday is a holiday.	അടുത്ത വ്യാഴാഴ്ച ഒരു അവധിദിവസമാണ്.
+No one could find the cave.	ആർക്കും ഗുഹ കണ്ടെത്താനായില്ല.
+Nothing would persuade him.	ഒന്നിനും അവനെ സ്വാധീനിക്കാന്‍ കഴിയുകയില്ല.
+The cat slept on the table.	ആ പൂച്ച മേശപ്പുറത്ത് ഉറങ്ങി.
+This dictionary isn't mine.	ഈ നിഘണ്ടു എന്റേതല്ല.
+This table is made of wood.	ഈ മേശ തടി കൊണ്ട് ഉണ്ടാക്കിയതാണ്.
+Vienna is a beautiful city.	വിയന്ന മനോഹരമായ ഒരു നഗരമാണ്.
+We will discuss that later.	നമുക്ക് അത് പിന്നെ ചര്‍ച്ച ചെയ്യാം.
+Whenever I call, he is out.	ഞാനെപ്പോൾ വിളിക്കുമ്പോഴും, അവൻ പുറത്തായിരിക്കും.
+You're smarter than Tom is.	നിങ്ങൾ ടോമിനെക്കാൾ സമർത്ഥനാണ്.
+He likes baseball very much.	അവന് ബേസ്ബോൾ വളരെയധികം ഇഷ്ടമാണ്.
+I can get you out of prison.	എനിക്ക് നിങ്ങളെ ജയിലില്‍ നിന്നും പുറത്തിറക്കാന്‍ കഴിയും.
+I want to be back in Boston.	എനിക്ക് ബോസ്ടനിലേക്ക് തിരിച്ചു വരണം.
+I will do anything but this.	ഞാന്‍ ഇതൊഴിച്ച് വേറെ എന്തു വേണമെങ്കിലും ചെയ്യാം.
+Questions never hurt anyone.	ചോദ്യങ്ങള്‍ ഇതുവരെ ആരെയും വേദനിപ്പിച്ചിട്ടില്ല.
+She married a rich merchant.	അവൾ ഒരു ധനികനായ വ്യാപാരിയെ വിവാഹം ചെയ്തു.
+She seems to be a good cook.	അവള്‍ നല്ല ഒരു പാചകക്കാരി ആണെന്ന് തോന്നുന്നു.
+That room is not very large.	ആ മുറി അത്ര വലുതല്ല.
+That will be enough for now.	ഇപ്പോഴത്തേക്ക് അതു മതിയാകും.
+The medicine saved her life.	ആ മരുന്ന് അവളുടെ ജീവന്‍ രക്ഷിച്ചു.
+There's no point in waiting.	കാത്തിരുന്നിട്ട് കാര്യമില്ല.
+They would never meet again.	അവര്‍ ഒരിക്കലും കണ്ടുമുട്ടുമായിരുന്നില്ല.
+This song is familiar to us.	ഈ പാട്ട് ഞങ്ങൾക്ക് സുപരിചിതമാണ്.
+Who is your favorite player?	നിന്റെ പ്രിയപ്പെട്ട കളിക്കാരനാരാണ്?
+Will you come back tomorrow?	നീ നാളെ തിരിച്ചു വരുമോ?
+All men are equal before God.	ദൈവത്തിന് മുമ്പിൽ എല്ലാ മനുഷ്യരും തുല്യരാണ്.
+Don't misunderstand my words.	എന്റെ വാക്കുകൾ തെറ്റിദ്ധരിക്കരുത്.
+Fish can't live out of water.	മത്സ്യങ്ങൾക്ക് വെള്ളത്തിന് പുറത്ത് ജീവിക്കാൻ സാധിക്കില്ല.
+He asked her where she lived.	അവൻ അവൾ എവിടെയാണ് താമസിക്കുന്നത് എന്നു ചോദിച്ചു.
+He gave a nice present to me.	അവൻ എനിക്ക് ഒരു നല്ല സമ്മാനം തന്നു.
+How does this disease spread?	ഈ രോഗം എങ്ങനെയാണ് പടരുന്നത്?
+I am beginning to understand.	ഞാൻ മനസ്സിലാക്കാൻ തുടങ്ങുന്നു.
+I believe you know the rules.	നിങ്ങള്‍ക്ക് നിയമങ്ങള്‍ അറിയാം എന്ന് ഞാന്‍ വിശ്വസിക്കുന്നു.
+I bought this book yesterday.	ഞാൻ ഈ പുസ്തകം ഇന്നലെയാണ് വാങ്ങിച്ചത്.
+I brush my teeth twice a day.	ഞാൻ ഒരു ദിവസത്തിൽ രണ്ടു തവണ പല്ല് തേയ്ക്കും.
+I had a bad dream last night.	ഞാൻ ഇന്നലെ രാത്രി ഒരു ദുസ്വപ്നം കണ്ടു.
+I have no money in my pocket.	എന്റെ കീശയിൽ കാശില്ല.
+I remember seeing him before.	ഞാന്‍ അവനെ മുമ്പ് കണ്ടതായി ഓര്‍ക്കുന്നു.
+I thought that he would come.	ഞാന്‍ അവന്‍ വരുമെന്ന് വിചാരിച്ചു.
+No one ever saw such a thing.	ആരും അങ്ങനെയൊരു സാധനം കണ്ടിട്ടേയില്ല.
+Please write about your home.	ദയവായി നിങ്ങളുടെ വീടിനെ പറ്റി എഴുതുക.
+She can't ride a bicycle yet.	അവൾക്കിതു വരെ ഒരു സൈക്കിൾ ഓടിക്കാൻ അറിയില്ല.
+She is ignorant of the world.	അവള്‍ക്ക് ലോകവിവരം ഇല്ലായിരുന്നു.
+The rainbow has seven colors.	മഴവില്ലിന് ഏഴ് നിറങ്ങളുണ്ട്.
+This house has two bathrooms.	ഈ വീട്ടിൽ രണ്ട് കുളിമുറികളുണ്ട്.
+Tom doesn't eat meat or eggs.	ടോം മാംസവും മുട്ടയും കഴിക്കാറില്ല.
+We cannot play baseball here.	നമുക്കിവിടെ ബേസ് ബോള്‍ കളിയ്ക്കാന്‍ സാധിക്കില്ല.
+Who will be elected chairman?	ചെയർമാനായി ആരെയാണ് തെരഞ്ഞെടുക്കാൻ പോകുന്നത്?
+You should have come earlier.	നീ നേരത്തെ വരണമായിരുന്നു.
+Did you leave the window open?	നീ ജനാല തുറന്നിട്ടിരുന്നോ?
+Fish cannot live out of water.	മത്സ്യങ്ങള്‍ക്ക് വെള്ളത്തിന് പുറത്ത് ജീവിക്കാന്‍ സാധിക്കില്ല.
+He lives in that yellow house.	അവൻ ആ മഞ്ഞ വീട്ടിലാണ് താമസിക്കുന്നത്.
+He was hurt in a car accident.	അവന് ഒരു കാർ അപകടത്തിൽ പരിക്കേറ്റു.
+I bought a book about animals.	ഞാൻ മൃഗങ്ങളെ പറ്റിയുള്ള ഒരു പുസ്തകം വാങ്ങിച്ചു.
+I came to Japan two years ago.	ഞാൻ ജപ്പാനിൽ രണ്ട് വർഷം മുമ്പാണ് വന്നത്.
+I can get you one if you like.	നിങ്ങള്‍ക്ക് ഇഷ്ടമാണെങ്കില്‍ ഇതുപോലൊരെണ്ണം തരാന്‍ കഴിയും.
+I caught three fish yesterday.	ഞാൻ ഇന്നലെ മൂന്ന് മത്സ്യങ്ങളെ പിടിച്ചു.
+I get up at six every morning.	ഞാൻ എന്നും രാവിലെ ആറ് മണിക്ക് എഴുന്നേൽക്കും.
+I sent it to you two days ago.	ഞാൻ രണ്ട് ദിവസം മുമ്പ് അത് നിനക്ക് അയച്ചു.
+I was wearing my best clothes.	ഞാൻ എന്റെ ഏറ്റവും മികച്ച വസ്ത്രങ്ങളാണ് ധരിച്ചിരുന്നത്.
+I will show you some pictures.	ഞാൻ നിനക്ക് കുറച്ച് ചിത്രങ്ങൾ കാണിച്ചു തരാം.
+I wrote down her phone number.	ഞാൻ അവളുടെ ഫോൺ നമ്പർ എഴുതിയെടുത്തു.
+I'll call you some other time.	ഞാൻ നിന്നെ പിന്നെ എപ്പോഴെങ്കിലും വിളിക്കാം.
+It is no use arguing about it.	അതിനെപ്പറ്റി തര്‍ക്കിച്ചിട്ട് ഒരു കാര്യവുമില്ല.
+No one lives in this building.	ഈ കെട്ടിടത്തില്‍ ആരും താമസിക്കുന്നില്ല.
+The news spread like wildfire.	ആ വാര്‍ത്ത കാട്ടുതീ പോലെ പടര്‍ന്നു.
+Can you come on Sunday evening?	ഞായറാഴ്ച വൈകുന്നേരം നിനക്ക് വരാൻ പറ്റുമോ?
+Did you go to school yesterday?	നീ ഇന്നലെ സ്കൂളിൽ പോയോ?
+Even a child can understand it.	ഒരു കുട്ടിക്ക് പോലും അതു മനസ്സിലാക്കാൻ കഴിയും.
+He came home three hours later.	അവൻ മൂന്ന് മണിക്കൂർ കഴിഞ്ഞ് വീട്ടിൽ തിരിച്ചെത്തി.
+He did the crossword with ease.	അവൻ വളരെ എളുപ്പത്തിൽ പദപ്രശ്നം പൂരിപ്പിച്ചു.
+He is confident of his ability.	അവന് അവന്റെ കഴിവിൽ ആത്മവിശ്വാസമുണ്ട്.
+He's a student at this college.	അവൻ ഈ കലാലയത്തിലെ വിദ്യാർത്ഥിയാണ്.
+I can give it to you right now.	എനിക്ക് ഇത് ഇപ്പോള്‍ തന്നെ നിങ്ങള്ക്ക് നല്കാന്‍ കഴിയും.
+I can't make out what she said.	അവള്‍ പറഞ്ഞതെന്താണെന്ന് എനിക്ക് മനസ്സിലാക്കാന്‍ സാധിക്കുന്നില്ല.
+I gave her her dictionary back.	ഞാൻ അവളുടെ നിഘണ്ടു അവൾക്ക് തിരിച്ചു കൊടുത്തു.
+It rained five successive days.	അഞ്ച് ദിവസം തുടർച്ചയായി മഴ പെയ്തു.
+It's the voice of an old woman.	അതൊരു വയസ്സായ സ്ത്രീയുടെ ശബ്ദമാണ്.
+The main streets are very wide.	പ്രധാന വീഥികളെല്ലാം വളരെ വലുതാണ്.
+We learned how to read English.	ഞങ്ങൾ ഇംഗ്ലീഷ് വായിക്കാൻ പഠിച്ചു.
+What do you see in the picture?	നീ ആ ചിത്രത്തില്‍ എന്താണ് കാണുന്നത്?
+Who are you trying to convince?	ആരെ ആണ് നിങ്ങള്‍ വിശ്വസിപ്പിക്കാന്‍ ശ്രമിക്കുന്നത് ?
+You should have listened to me.	നീ ഞാൻ പറഞ്ഞത് കേൾക്കണമായിരുന്നു.
+Both my parents are at home now.	എന്റെ മാതാപിതാക്കൾ രണ്ടുപേരും ഇപ്പോൾ വീട്ടിലുണ്ട്.
+Coffee is Brazil's main product.	ബ്രസീലിന്റെ പ്രധാന ഉല്പന്നം കാപ്പിയാണ്.
+Four multiplied by two is eight.	നാലിനെ രണ്ട് കൊണ്ട് ഗുണിച്ചാൽ എട്ട് കിട്ടും.
+He does not come here every day.	അവന്‍ എല്ലാദിവസവും ഇവിടെ വരാറില്ല.
+His horse jumped over the fence.	അവന്റെ കുതിര വേലിക്ക് മുകളിലൂടെ ചാടി.
+How did you spend your vacation?	നീ എങ്ങനെ നിന്റെ അവധിക്കാലം ചെലവഴിച്ചു?
+I am concerned about his health.	എനിക്ക് അവന്റെ ആരോഗ്യത്തെപ്പറ്റി ആശങ്കയുണ്ട്.
+I am not frightened of anything.	എനിക്ക് ഒന്നിനെപ്പറ്റിയും ഭയമില്ല.
+I can give you a lift into town.	എനിക്ക് നിങ്ങള്‍ക്ക് ടൌണിലേക്ക് ഒരു ലിഫ്റ്റ്‌ തരാന്‍ കഴിയും.
+I caught the ball with one hand.	ഞാൻ ഒരു കൈ കൊണ്ട് പന്ത് പിടിച്ചു.
+I didn't know that he was there.	അവൻ അവിടെയുണ്ടായിരുന്നുവെന്ന് എനിക്കറിയില്ലായിരുന്നു.
+I visited him on Sunday morning.	ഞാൻ ഞായറാഴ്ച രാവിലെ അവനെ സന്ദർശിച്ചു.
+I was able to solve the problem.	എനിക്ക് ആ പ്രശ്നം പരിഹരിക്കാന്‍ സാധിച്ചു.
+London was bombed several times.	ലണ്ടന്‍ പല തവണ ബോംബ്‌ ചെയ്യപ്പെട്ടു.
+She gets up early every morning.	അവൾ എന്നും രാവിലെ നേരത്തെ എഴുന്നേൽക്കും.
+She has been dead for ten years.	അവൾ മരിച്ചിട്ട് പത്ത് വർഷങ്ങൾ ആയി.
+She thought that I was a doctor.	ഞാൻ ഒരു ഡോക്ടറാണെന്ന് അവൾ വിചാരിച്ചിരുന്നു.
+She traveled all over the world.	അവള്‍ ലോകമെമ്പാടും സഞ്ചരിച്ചു.
+She'll be seventeen in February.	അവൾക്ക് ഫെബ്രുവരിയിൽ പതിനേഴ് തികയും.
+Sight is one of the five senses.	കാഴ്ച അഞ്ച് ഇന്ദ്രിയങ്ങളിൽ ഒന്നാണ്.
+The door was locked from within.	ആ വാതില്‍ അകത്തു നിന്ന് പൂട്ടിയിരിക്കുകയായിരുന്നു.
+Two families live in that house.	ആ വീട്ടിൽ രണ്ട് കുടുംബങ്ങൾ താമസിക്കുന്നു.
+We didn't have TV in those days.	ഞങ്ങൾക്ക് അക്കാലത്ത് ടിവിയുണ്ടായിരുന്നില്ല.
+Wild animals live in the forest.	വന്യ മൃഗങ്ങള്‍ കാട്ടിലാണ് ജീവിക്കുന്നത്.
+You must return the book to him.	നീ ഈ പുസ്തകം അവന് തിരിച്ചു നൽകണം.
+At last, they came to a decision.	അവസാനം, അവർ ഒരു തീരുമാനത്തിൽ എത്തി.
+Both of them are kind and honest.	രണ്ടുപേരും ദയാലുക്കളും ആത്മാര്‍ത്ഥതയുള്ളവരുമാണ്.
+Do you know what color she likes?	അവൾക്കേതു നിറമാണ് ഇഷ്ടമുള്ളതെന്ന് നിനക്ക് അറിയാമോ?
+He doesn't know how to play golf.	അവന് ഗോൾഫ് എങ്ങനെയാണ് കളിക്കുന്നതെന്ന് അറിയില്ല.
+He will return to Japan some day.	അവൻ ജപ്പാനിലേക്ക് എന്നെങ്കിലും ഒരിക്കൽ തിരിച്ചു പോകും.
+I am leaving town for a few days.	ഞാൻ കുറച്ച് ദിവസത്തേക്ക് പട്ടണം വിടുകയാണ്.
+I have two brothers and a sister.	എനിക്ക് രണ്ട് സഹോദരന്മാരും ഒരു സഹോദരിയും ഉണ്ട്.
+I ordered them to leave the room.	ഞാൻ അവരോട് മുറി വിട്ട് പോകാൻ കല്പിച്ചു.
+I recognized him at first glance.	ആദ്യനോട്ടത്തിൽ തന്നെ ഞാൻ അവനെ തിരിച്ചറിഞ്ഞു.
+I remember meeting you somewhere.	ഞാൻ നിങ്ങളെ എവിടെയോ കണ്ടതായി ഓർക്കുന്നു.
+It rained as soon as he got home.	അവന്‍ വീട്ടില്‍ എത്തിച്ചേര്‍ന്നയുടന്‍ മഴ പെയ്യാന്‍ തുടങ്ങി.
+My monthly salary is 300,000 yen.	മൂന്ന് ലക്ഷം യെൻ ആണ് എന്റെ പ്രതിമാസ ശമ്പളം.
+Nobody can do two things at once.	ആര്‍ക്കും രണ്ടു കാര്യങ്ങള്‍ ഒരേ സമയത്ത് ചെയ്യാന്‍ സാധിക്കുകയില്ല.
+Nothing was to be seen but water.	വെള്ളമല്ലാതെ മറ്റൊന്നും കണ്ടില്ല.
+Please tell us about your family.	ദയവായി നിങ്ങളുടെ കുടുംബത്തെ പറ്റി ഞങ്ങളോട് പറയൂ.
+She will be famous in the future.	അവള്‍ ഭാവിയില്‍ പ്രശസ്തയാകും.
+Taxi fares will go up next month.	ടാക്സി വാടക അടുത്ത മാസം കൂടും.
+The terrorists attacked a mosque.	തീവ്രവാദികള്‍ ഒരു പള്ളി ആക്രമിച്ചു.
+There are many fish in this lake.	ഈ കായലിൽ വളരെയധികം മത്സ്യങ്ങളുണ്ട്.
+They gave him a chance to escape.	അവർ അവന് രക്ഷപ്പെടാൻ ഒരവസരം കൊടുത്തു.
+This book contains many pictures.	ഈ പുസ്തകത്തിൽ കുറെ ചിത്രങ്ങളുണ്ട്.
+This country is safe from attack.	ഈ രാജ്യം ആക്രമണത്തിൽ നിന്നും സുരക്ഷിതമാണ്.
+Tom lived in Japan for ten years.	ടോം ജപ്പാനില്‍ പത്തു വര്‍ഷം ജീവിച്ചു.
+We have lived in Osaka six years.	ഞങ്ങള്‍ ആറ് വര്ഷം ഒസകയില്‍ താമസിച്ചിരുന്നു.
+We stayed there for three months.	ഞങ്ങള്‍ അവിടെ മൂന്ന് മാസം താമസിച്ചു.
+Do you have an English dictionary?	നിങ്ങളുടെ കൈയ്യിൽ ഒരു ഇംഗ്ലീഷ് നിഘണ്ടുവുണ്ടോ?
+His brother is always watching TV.	അവന്റെ സഹോദരൻ എപ്പോഴും ടി.വി. കണ്ടുകൊണ്ടിരിക്കും.
+I can get you everything you need.	നിങ്ങള്‍ക്ക് ആവശ്യമായതെല്ലാം നല്കാന്‍ എനിക്ക് കഴിയും.
+I couldn't recognize him at first.	എനിക്ക് ആദ്യം അവനെ തിരിച്ചറിയാൻ കഴിഞ്ഞില്ല.
+I don't think it'll rain tomorrow.	നാളെ മഴ പെയ്യുമെന്ന് എനിക്ക് തോന്നുന്നില്ല.
+I'd like to visit England someday.	എനിക്ക് എന്നെങ്കിലും ഒരിക്കൽ ഇംഗ്ലണ്ട് സന്ദർശിക്കണമെന്നുണ്ട്.
+It happened between eight and ten.	എട്ടിനും പത്തിനുമിടയ്ക്കാണ് അതു സംഭവിച്ചത്.
+She stirred the soup with a spoon.	അവൾ സ്പൂൺ കൊണ്ട് സൂപ്പ് ഇളക്കി.
+She taught music for thirty years.	അവള്‍ മുപ്പതു വര്‍ഷം സംഗീതം പഠിപ്പിച്ചു.
+She went from one shop to another.	അവൾ ഒരു കടയിൽ നിന്ന് മറ്റൊന്നിലേക്ക് പോയി.
+Someday I'd like to go to England.	എന്നെങ്കിലും ഒരിക്കൽ എനിക്ക് ഇംഗ്ലണ്ടിൽ പോകണമെന്നുണ്ട്.
+They are willing to do it for you.	അവർ നിനക്ക് വേണ്ടി അത് ചെയ്യാൻ തയ്യാറാണ്.
+This is how the accident happened.	ഇങ്ങനെയാണ് ആ അപകടം നടന്നത്.
+Unfortunately, I cannot help them.	ദൗര്‍ഭാഗ്യവശാല്‍ എനിക്കവരെ സഹായിക്കാന്‍ കഴിയില്ല.
+What did you do yesterday evening?	നീ ഇന്നലെ വൈകുന്നേരം എന്താണ് ചെയ്തത്?
+He came back home three days later.	അവന്‍ മൂന്ന് ദിവസം കഴിഞ്ഞ് വീട്ടില്‍ തിരിച്ചെത്തി.
+How long is the Golden Gate Bridge?	ഗോൾഡൻ ഗേറ്റ് ബ്രിഡ്ജിന്റെ നീളം എത്രയാണ്?
+I asked my boss for a pay increase.	ഞാൻ എന്റെ മേലധികാരിയോട് ശമ്പളം കൂട്ടി ചോദിച്ചു.
+I don't know how to spell the word.	എനിക്ക് വാക്ക് എങ്ങനെ സ്പെല്ല് ചെയ്യണം എന്ന് അറിയില്ല.
+I don't know what I want right now.	ഇപ്പോള്‍ എനിക്ക് എന്ത് വേണമെന്ന് എനിക്കറിയില്ല.
+I don't know who to ask for advice.	ആരോട് ഉപദേശം ചോദിക്കണമെന്ന് എനിക്കറിയില്ല.
+I studied English when I was there.	ഞാന്‍ അവിടെയായിരുന്നപ്പോള്‍ ഇംഗ്ലീഷ് പഠിച്ചു.
+The number of students is dropping.	കുട്ടികളുടെ എണ്ണം കുറഞ്ഞുവരികയാണ്.
+Tom and I were very busy last week.	ടോമും ഞാനും കഴിഞ്ഞയാഴ്ച വളരെ തിരക്കിലായിരുന്നു.
+What's your favorite domestic beer?	എന്താണ് നിങ്ങളുടെ ഇഷ്ടപ്പെട്ട നാടന്‍ ബിയര്‍?
+When are you going to quit smoking?	നീ എപ്പോഴാണ് പുകവലി ഉപേക്ഷിക്കാൻ പോകുന്നത്?
+I do not like mathematics very much.	എനിക്ക് കണക്ക് അത്ര ഇഷ്ടമല്ല.
+I've never been to my uncle's house.	ഞാൻ ഇതുവരെ എന്റെ അമ്മാവന്റെ വീട്ടിൽ പോയിട്ടില്ല.
+She talks as if she knew everything.	അവൾക്കെല്ലാം അറിയാം എന്നപ്പോലെയാണ് അവൾ സംസാരിക്കുന്നത്.
+She was very surprised at the sight.	അവൾ ആ കാഴ്ച കണ്ട് വളരെയധികം അത്ഭുതപ്പെട്ടു.
+The doctor will be here in a minute.	ഒരു മിനുട്ടിനകം ഡോക്ടർ ഇവിടെ എത്തും.
+As far as I know, he's an honest man.	എന്റെ അറിവില്‍ അവനൊരു സത്യസന്ധനമാണ്.
+His explanation was not satisfactory.	അവന്റെ വിശദീകരണം തൃപ്തികരമല്ലായിരുന്നു.
+I believe you've been looking for me.	നിങ്ങള്‍ എന്നെ അന്വേഷിക്കുകയായിരുന്നു എന്ന് ഞാന്‍ വിശ്വസിക്കുന്നു.
+I don't know what you're looking for.	നിങ്ങൾ എന്താണ് അന്വേഷിക്കുന്നത് എന്ന് എനിക്ക് അറിയില്ല.
+It is not easy to speak English well.	ഇംഗ്ലീഷ് നന്നായി സംസാരിക്കാൻ അത്ര എളുപ്പമല്ല.
+My brother has never climbed Mt Fuji.	എന്റെ സഹോദരൻ ഒരിക്കലും ഫുജി കൊടുമുടി കീഴടക്കിയിട്ടില്ല.
+That gold ring belonged to my mother.	ആ സ്വര്‍ണമോതിരം എന്റെ അമ്മയുടേതാണ്.
+There are twenty four hours in a day.	ഒരു ദിവസത്തില്‍ ഇരുപത്തി നാല് മണിക്കൂര്‍ ഉണ്ട്.
+This is the best camera in the store.	ഈ കടയിലെ എറ്റവും മികച്ച ക്യാമറ ഇതാണ്.
+He caught the ball with his left hand.	അവന്റെ ഇടതുകൈ കൊണ്ട് അവൻ പന്ത് പിടിച്ചു.
+He dedicated his life to medical work.	അവൻ വൈദ്യശാസ്ത്രത്തിനുവേണ്ടി അവന്റെ ജീവിതം സമർപ്പിച്ചു.
+He followed in his father's footsteps.	അവൻ അവന്റെ അച്ഛന്റെ കാൽപ്പാടുകൾ പിന്തുടർന്നു.
+How many cats are there in this house?	ഈ വീട്ടിൽ എത്ര പൂച്ചകളുണ്ട്?
+I don't have money, but I have dreams.	എനിക്ക് പണമില്ല, പക്ഷേ എനിക്ക് സ്വപ്നങ്ങളുണ്ട്.
+I spent three hours repairing the car.	ഞാന്‍ കാര്‍ നന്നാക്കുന്നതിന് വേണ്ടി മൂന്ന് മണിക്കൂര്‍ ചെലവഴിച്ചു.
+It is bad manners to eat with a knife.	കത്തി ഉപയോഗിച്ച് കഴിക്കുന്നത് ഒരു മോശം ശീലമാണ്.
+The shop was closed when I went there.	ഞാൻ അവിടെ ചെന്നപ്പോൾ കട അടച്ചിരുന്നു.
+There are forty students in our class.	ഞങ്ങളുടെ ക്ലാസ്സിൽ നാൽപ്പത് വിദ്യാർത്ഥികളുണ്ട്.
+He is worthy to be captain of our team.	അവൻ നമ്മുടെ ടീമിന്റെ നായകനാകാൻ യോഗ്യനാണ്.
+I can give you some useful information.	എനിക്ക് നിങ്ങള്‍ക്ക് കുറച്ചു ആവശ്യകരമായ ഇന്‍ഫര്‍മേഷന്‍ തരാം കഴിയും.
+I can give you something for your pain.	നിങ്ങളുടെ വേദനക്ക് എനിക്ക് എന്തെങ്ങിലും തരാന്‍ കഴിയും.
+I have no wish to live in a large city.	ഒരു വലിയ നഗരത്തിൽ ജീവിക്കാൻ എനിക്ക് ഒരാഗ്രഹവുമില്ല.
+It is impossible to live without water.	വെള്ളമില്ലാതെ ജീവിക്കുന്നത് അസാധ്യമാണ്.
+It's difficult to answer this question.	ഈ ചോദ്യത്തിന് ഉത്തരം പറയാൻ ബുദ്ധിമുട്ടാണ്.
+Thank you for inviting me to the party.	എന്നെ വിരുന്നിലേക്ക് ക്ഷണിച്ചതിന് നന്ദി.
+The moon is the earth's only satellite.	ചന്ദ്രൻ ഭൂമിയുടെ ഏക ഉപഗ്രഹമാണ്.
+The summer vacation ended all too soon.	വേനൽ അവധിക്കാലം വളരെ പെട്ടെന്ന് അവസാനിച്ചു.
+We found it impossible to persuade him.	അവനെ സ്വാധീനിക്കുക എന്നുള്ളത് അസാധ്യമാണെന്ന് ഞങ്ങൾ കണ്ടെത്തി.
+What is the real cause of this tragedy?	ഈ ദുരന്തത്തിന്റെ യഥാർത്ഥ കാരണം എന്താണ്?
+Won't you come to my house next Sunday?	അടുത്ത ഞായറാഴ്ച നീ എന്റെ വീട്ടിലേക്ക് വരില്ലേ?
+Do you know anything about Tom's family?	ടോമിന്റെ കുടുംബത്തെപ്പറ്റി നിനക്കെന്തെങ്കിലും അറിയാമോ?
+Don't enter the room without permission.	അനുവാദമില്ലാതെ മുറിയിൽ പ്രവേശിക്കരുത്.
+He was sentenced to three years in jail.	അവനെ മൂന്ന് വര്‍ഷത്തെ തടവിനായി വിധിച്ചു.
+Is it true that you were in Madrid then?	അപ്പോൾ നിങ്ങൾ മാഡ്രിഡിൽ ആയിരുന്നു എന്നത് ശരിയാണോ?
+Many people were killed in the accident.	ആ അപകടത്തിൻ നിരവധി പേർ കൊല്ലപ്പെട്ടു.
+My sister washes her shoes every Sunday.	എന്റെ സഹോദരി എല്ലാ ഞായറാഴ്ചയും അവളുടെ ചെരിപ്പുകള്‍ കഴുകും.
+Please raise your hand before you speak.	ദയവായി നിങ്ങള്‍ സംസാരിക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ കൈ ഉയര്‍ത്തുക.
+Please wrap it like a Christmas present.	ദയവായി ഇതൊരു ക്രിസ്മസ് സമ്മാനം പോലെ പൊതിയൂ.
+They are looking for a house to live in.	അവർ താമസിക്കാനായി ഒരു വീടു നോക്കിക്കൊണ്ടിരിക്കുകയാണ്.
+They laughed and cried at the same time.	അവർ ഒരേ സമയം ചിരിക്കുകയും കരയുകയും ചെയ്തു.
+They won't allow us to enter the garden.	പൂന്തോട്ടത്തിൽ പ്രവേശിക്കാൻ അവർ നമ്മളെ അനുവദിക്കില്ല.
+Tom was sitting in the front of the bus.	ടോം ബസ്സിന്റെ മുമ്പിൽ ഇരിക്കുകയായിരുന്നു.
+Education is an investment in the future.	വിദ്യാഭ്യാസം ഭാവിയിലേക്കുള്ള ഒരു നിക്ഷേപമാണ്.
+I can give you some money if you need it.	എനിക്ക് നിങ്ങള്ക്ക് ആവശ്യമെങ്കില്‍ കുറച്ചു പൈസ തരാന്‍ കഴിയും.
+I demand an explanation for this mistake.	ഞാൻ ഈ തെറ്റിനുള്ള വിശദീകരമണം ആവശ്യപ്പെടുന്നു.
+I didn't go out because it was very cold.	വളരെ തണുപ്പായതിനാൽ ഞാൻ പുറത്തു പോയില്ല.
+I don't feel like studying English today.	എനിക്ക് ഇന്ന് ഇംഗ്ലീഷ് പഠിക്കാൻ തോന്നുന്നില്ല.
+I remember having seen this movie before.	ഞാൻ ഈ സിനിമ മുമ്പ് കണ്ടതായി ഓർക്കുന്നു.
+It will be raining at this time tomorrow.	നാളെ ഇതേ സമയത്ത് മഴ പെയ്യുകയായിരിക്കും.
+The ostrich has wings, but it cannot fly.	ഒട്ടകപ്പക്ഷിക്ക് ചിറകുകളുണ്ട്, പക്ഷേ അതിന് പറക്കാന്‍ സാധിക്കില്ല.
+Tom thought Mary wasn't a very good cook.	മേരി നല്ലൊരു പാചകക്കാരി അല്ലെന്നു ടോം കരുതി.
+Which came first, the chicken or the egg?	ഏതാണ് ആദ്യം വന്നത്, കോഴിയോ അതോ മുട്ടയോ?
+I can give you some medicine for the pain.	എനിക്ക് നിങ്ങള്‍ക്ക് കുറച്ചു വേദനയ്ക്കുള്ള മരുന്ന് തരാന്‍ കഴിയും.
+It is said that he has a lot of old coins.	അവന്റെ കൈയ്യിൽ വളരെയധികം പഴയ നാണയങ്ങൾ ഉള്ളതായി പറയപ്പെടുന്നു.
+She is an expert when it comes to cooking.	അവൾ ഒരു പാചക വിദഗ്ധയാണ്.
+The cat was scared by an unfamiliar noise.	അപരിചിതമായ ശബ്ദം കേട്ട പൂച്ച ഭയന്നു.
+The garden was larger than I had expected.	ഞാന്‍ പ്രതീക്ഷച്ചതിനേക്കാള്‍ വലുതാണ് ഈ പൂന്തോട്ടം.
+The meaning of this sentence is ambiguous.	ഈ വാക്യത്തിന് ഒന്നില്‍ കൂടുതല്‍ അര്‍ത്ഥങ്ങളുണ്ട്.
+It's the biggest house in the neighborhood.	ഈ അയൽപ്പക്കത്തെ ഏറ്റവും വലിയ വീടാണത്.
+She left without saying even a single word.	ഒരു വാക്ക് പോലും മിണ്ടാതെ അവൾ പോയി.
+Such an accident is likely to happen again.	അതുപോലൊരു അപകടം വീണ്ടും ഉണ്ടാകാന്‍ സാധ്യത ഉണ്ട് .
+This novel is very difficult to understand.	ഈ നോവൽ മനസ്സിലാക്കാൻ വളരെ പ്രയാസമാണ്.
+As soon as I saw him, I burst into laughter.	അവനെ കണ്ടപ്പോൾ തന്നെ ഞാൻ പൊട്ടിച്ചിരിക്കാൻ തുടങ്ങി.
+Do you know who conquered Mt. Everest first?	എവറസ്റ്റ് കൊടുമുടി ആദ്യമായി കീഴടക്കിയതാരാണെന്ന് നിനക്കറിയാമോ?
+I can't understand the meaning of this word.	എനിക്ക് ഈ വാക്കിന്റെ അർത്ഥം മനസ്സിലാകുന്നില്ല.
+I remember having seen him somewhere before.	ഞാൻ അവനെ മുമ്പെവിടെയോ കണ്ടതായി ഓർക്കുന്നു.
+The government has been reforming education.	സർക്കാർ വിദ്യാഭ്യാസത്തെ പരിഷ്ക്കരിച്ചു കൊണ്ടിരിക്കുകയാണ്.
+Tom is more experienced in business than me.	ടോം വ്യാപാരത്തില്‍ എന്നേക്കാള്‍ അനുഭവജ്ഞന്‍ ആണ്.
+American students are falling behind in math.	അമേരിക്കന്‍ വിദ്യാര്‍ത്ഥികള്‍ കണക്കില്‍ പിന്തള്ളപ്പെട്ടു കൊണ്ടിരിക്കുകയാണ്.
+Do you know what time that accident happened?	എത്ര മണിക്കാണ് അപകടം നടന്നതെന്ന് നിനക്കറിയാമോ?
+Florence is the most beautiful city in Italy.	ഫ്ലോറൻസ് ഇറ്റലിയിലെ ഏറ്റവും മനോഹരമായ നഗരമാണ്.
+It is doubtful whether she will come on time.	അവൾ സമയത്ത് വരുമോ എന്നുള്ളത് സംശയമാണ്.
+It is not easy to be understood by everybody.	ഇത് എല്ലാവരാലും എളുപ്പത്തില്‍ മനസിലാക്കപ്പെടാന്‍ കഴിയുന്നതല്ല.
+The doctor suggested that he give up smoking.	പുകവലി നിര്‍ത്താന്‍ ഡോക്ടര്‍ അവനെ നിര്‍ദ്ദേശിച്ചു.
+This isn't my umbrella; it's somebody else's.	ഇതെന്റെ കുടയല്ല, വേറാരുടെയോ ആണ്.
+A man who speaks the truth needs a fast horse.	സത്യം പറയുന്ന ഒരു മനുഷ്യന് വേഗതയുള്ള ഒരു കുതിര ആവശ്യമാണ്.
+Be sure to turn off the gas before you go out.	പുറത്ത് പോകുന്നതിനു മുമ്പ് ഗ്യാസ് അണച്ചു എന്നുറപ്പ് വരുത്തുക.
+Everyone has their own strong and weak points.	എല്ലാവര്‍ക്കും തങ്ങളുടെതായ ശക്തിയും ദൗര്‍ബല്യങ്ങളും ഉണ്ട് .
+He was absorbed in reading when I visited him.	ഞാന്‍ അവനെ സന്ദര്‍ശിച്ചപ്പോള്‍ അവന്‍ വായനയില്‍ മുഴുകിയിരിക്കുകയായിരുന്നു.
+I sprained my finger while playing volleyball.	വോളിബോൾ കളിക്കുന്നതിനിടെ എന്റെ വിരൽ ഉളുക്കി.
+Russia is facing great financial difficulties.	റഷ്യ വളരെ വലിയ സാമ്പത്തിക പ്രതിസന്ധി നേരിടുകയാണ്.
+The forest fire occurred through carelessness.	അശ്രദ്ധ മൂലമാണ് കാട്ടുതീ ഉണ്ടായത്.
+They are appealing for money to help refugees.	അഭയാര്‍ത്ഥികളെ സഹായിക്കുവാനുള്ള പണത്തിനായി അവര്‍ അപേക്ഷിക്കുകയാണ്.
+This is the place where the battle took place.	ഈ സ്ഥലത്താണ് ആ യുദ്ധം നടന്നത്.
+Try to see the problem from her point of view.	അവളുടെ കാഴ്ചപ്പാടിൽ നിന്ന് ആ പ്രശ്നത്തെ കാണാൻ ശ്രമിക്കൂ.
+Well done! You have drawn this picture nicely.	കൊള്ളാം! നിങ്ങൾ ഈ ചിത്രം നന്നായി വരച്ചിട്ടുണ്ട്.
+Don't challenge someone who has nothing to lose.	ഒന്നും നഷ്ടപ്പെടാനില്ലാത്തവെ വെല്ലുവിളിക്കരുത്.
+He cannot write English without making mistakes.	അവന് തെറ്റ് വരുത്താതെ ഇംഗ്ലീഷ് എഴുതാൻ സാധിക്കില്ല.
+If I had been a bird, I could have flown to you.	ഞാൻ ഒരു പക്ഷിയായിരുന്നെങ്കിൽ, എനിക്ക് നിന്റെ അടുത്തേക്ക് പറന്നു വരാമായിരുന്നു.
+It began to rain five minutes after I left home.	ഞാൻ വീട്ടിൽ നിന്നിറങ്ങിയ ശേഷം, അഞ്ച് മിനിട്ടിനുള്ളിൽ മഴ പെയ്യാൻ തുടങ്ങി.
+She celebrated her fifteenth birthday yesterday.	അവൾ അവളുടെ പതിനഞ്ചാം പിറന്നാൾ ഇന്നലെ ആഘോഷിച്ചു.
+She got a slight burn on her hand while cooking.	പാചകത്തിനിടെ അവളുടെ കൈയ്ക്ക് ചെറുതായി പൊള്ളലേറ്റു.
+The bag was too heavy for me to carry by myself.	സഞ്ചി എനിക്ക് വഹിക്കാന്‍ കഴിയുന്നതിനെക്കാള്‍ ഭാരമേറിയതായിരുന്നു.
+There are several spelling errors in your essay.	നിന്റെ ഉപന്യാസത്തിൽ വളരെയധികം അക്ഷരതെറ്റുകളുണ്ട്.
+Tom asked Mary if she wanted something to drink.	എന്തെങ്കിലും കുടിക്കാൻ വേണമോ എന്ന് ടോം മേരിയോട് ചോദിച്ചു.
+I'd like you to translate this book into English.	എനിക്ക് ഈ പുസ്തകം ഇംഗ്ലീഷിലേക്ക് തര്‍ജ്ജമ ചെയ്താല്‍ കൊള്ളാമെന്നുണ്ട്.
+The game will be called off if it rains tomorrow.	നാളെ മഴ പെയ്യുകയാണെങ്കിൽ മത്സരം ഉപേക്ഷിക്കും.
+A policeman asked the girls if the car was theirs.	കാര്‍ അവരുടേതാണോ എന്ന് ഒരു പോലീസുകാരന്‍ പെണ്‍കുട്ടികളോട് ചോദിച്ചു.
+I lost the eyesight in my right eye two years ago.	എന്റെ വലതുകണ്ണിലെ കാഴ്ച എനിക്ക് രണ്ടു വർഷം മുമ്പ് നഷ്ടമായി.
+It would be cool if I could speak three languages.	എനിക്ക് മൂന്നു ഭാഷകള്‍ സംസാരിക്കാന്‍ കഴിഞ്ഞിരുന്നെങ്ങില്‍ നന്നായിരുന്നു.
+My friend got good marks in the English examination.	എന്റെ സുഹൃത്തിന് ഇംഗ്ലീഷ് പരീക്ഷയിൽ നല്ല മാർക്ക് കിട്ടി.
+The students around her were talking about the test.	അവളുടെ ചുറ്റുമുള്ള വിദ്യാർത്ഥികൾ പരീക്ഷയെ പറ്റി സംസാരിക്കുകയായിരുന്നു.
+We had to shut the window because of the mosquitoes.	കൊതുകുകൾ കാരണം ഞങ്ങൾക്ക് ജനാല അടയ്ക്കേണ്ടി വന്നു.
+How do you know that light travels faster than sound?	വെളിച്ചം ശബ്ദത്തേക്കാള്‍ വേഗത്തില്‍ യാത്ര ചെയ്യുമെന്ന് നിങ്ങള്‍ക്കെങ്ങനെ അറിയാം?
+I didn't want to leave before the work was completed.	ജോലി കഴിയുന്നതിനു മുന്‍പേ എനിക്ക് പോകണമെന്നില്ല.
+It's been a long time since I visited my grandmother.	ഞാന്‍ എന്റെ അമ്മൂമ്മയെ സന്ദര്‍ശിച്ചിട്ട് കുറെ നാളായി.
+No one is working. Everyone's watching the World Cup.	ആരും ജോലി ചെയ്യുന്നില്ല. എല്ലാവരും ലോകകപ്പ് കാണുകയാണ്.
+The distance from my home to yours is two kilometers.	എന്റെ വീട്ടിൽ നിന്നും നിന്റെ വീട് വരെ രണ്ട് കിലോമീറ്റർ ദൂരമുണ്ട്.
+San Francisco is only one-tenth as populous as New York.	സാൻ ഫ്രാൻസിസ്കോയ്ക്ക് ന്യൂ യോർക്കിന്റെ ജനസംഖ്യയുടെ പത്തിലൊന്ന് മാത്രമേയുള്ളൂ.
+When I arrived at the station, the train had already left.	ഞാൻ സ്റ്റേഷനിലെത്തിയപ്പോഴേക്കും തീവണ്ടി പുറപ്പെട്ടു കഴിഞ്ഞിരുന്നു.
+I am in the habit of taking some exercise before breakfast.	പ്രാതലിനു മുമ്പ് കുറച്ച് വ്യായാമം ചെയ്യുന്നത് എന്റെ ശീലമാണ്.
+Scientists can easily compute the distance between planets.	ശാസ്ത്രജ്ഞർക്ക് രണ്ട് ഗ്രഹങ്ങൾ തമ്മിലുള്ള ദൂരം എളുപ്പത്തിൽ കണക്കുകൂട്ടാൻ സാധിക്കും.
+The pyramids of Egypt are one of the seven wonders of the world.	ഈജിപ്തിലെ പിരമിഡുകൾ ലോകത്തിലെ ഏഴ് അത്ഭുതങ്ങളിൽ ഒന്നാണ്.
+If you had left home a little earlier you would have been in time.	നീ വീട്ടിൽ നിന്ന് കുറച്ച് നേരത്തെ പുറപ്പെട്ടിരുന്നുവെങ്കിൽ നിനക്ക് സമയത്ത് എത്താമായിരുന്നു.
