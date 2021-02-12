@@ -20,3 +20,10 @@ Learning. Requirement of hardware with high computational
 capability will also be investigated to implement this. This system
 will also be helpful in the centralization of criminal database and
 solving the issue of clogging of cases.
+
+Code Base Invloves
+1.A classifier 
+2.Topic Modelling
+3.Nueral Machine Traslation(malayalm to english)
+4.python based GUI
+5.Web Crawler
